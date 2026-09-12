@@ -1,5 +1,5 @@
 {
-    "rcol_json_path": "C:\\Users\\UserM\\Desktop\\REasy-v0.7.7\\rszre9.json",
+    "rcol_json_path": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\rszre9.json",
     "show_debug_console": true,
     "show_ai_chat": false,
     "ai_provider": "deepseek",
@@ -114,7 +114,9 @@
         "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centrb.msg.23",
         "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centuc.msg.23",
         "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ending.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ff2nd.msg.23"
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ff2nd.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Ctest_ua|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_common.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Ctest_ua|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_menu.msg.23"
     ],
     "last_seen_version": "0.7.7",
     "enum_prompt_checked_json_path": "",
