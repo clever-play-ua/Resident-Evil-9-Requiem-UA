@@ -1,0 +1,4153 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "ja"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "FacialTime"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "CheckAdjustBreath"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth1"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth2"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth3"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth4"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth5"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth6"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth7"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth8"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth9"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "RecordingDate"
+    },
+    {
+      "ty": 2,
+      "name": "VoiceDataInfo"
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    },
+    {
+      "ty": 2,
+      "name": "RecordingStatus"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "Glossary"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "StageDirectionEN"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotes"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotesEN"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "mainPriority"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "visible"
+    },
+    {
+      "ty": 0,
+      "name": "displaySlot"
+    },
+    {
+      "ty": 2,
+      "name": "SubtitleDistance"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "speakerID"
+    },
+    {
+      "ty": 2,
+      "name": "speakerName"
+    },
+    {
+      "ty": 2,
+      "name": "CommunicationType"
+    },
+    {
+      "ty": 2,
+      "name": "DevSoundTriggerID"
+    }
+  ],
+  "entries": [
+    {
+      "name": "Ending_c540s200_0000_ch1500",
+      "guid": "ff7f501c-79d1-42f9-bf25-17ce98a78fd7",
+      "crc?": 761480347,
+      "hash": 1464847439,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "",
+        "",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0000_ch0200",
+      "guid": "c661ddce-6f2e-4f62-99a1-6c535bfecb7c",
+      "crc?": 2576174859,
+      "hash": 2227129851,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "",
+        "",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0000",
+      "guid": "c9d1a1fe-4ea9-452d-977e-277336b8a2fa",
+      "crc?": 1798640357,
+      "hash": 2677732558,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.466, 8.95>\r\n<MESTIME 11.016, 12.7>\r\n<MESTIME 13.833, 14.75>\r\n<MESTIME 14.816, 17.183>\r\n<MESTIME 19.633, 21.6>\r\n<MESTIME 24.35, 25.516>\r\n<MESTIME 28.483, 29.7>\r\n<MESTIME 34.25, 35.566>\r\n<MESTIME 35.833, 36.95>\r\n<MESTIME 37.4, 39.716>\r\n"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0010_ch0200",
+      "guid": "c157bbcc-b643-4581-9902-1a654b8c4cab",
+      "crc?": 3169499415,
+      "hash": 2929234596,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "シェリーは無事？",
+        "And Sherry's OK?",
+        "Et Sherry, ça va ?",
+        "E Sherry sta bene?",
+        "Und Sherry geht’s gut?",
+        "¿Y Sherry está bien?",
+        "А Шерри в порядке?",
+        "Z Sherry wszystko w porządku?",
+        "",
+        "",
+        "E a Sherry, tá bem?",
+        "셰리도 건강한가요?",
+        "雪莉也沒事吧？",
+        "雪莉也还好吧？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وهل شيري بخير؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Y Sherry está bien?"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0020_ch0200",
+      "guid": "d4d34ce1-a02f-4210-8d9a-c6bf7f3f2498",
+      "crc?": 4158637158,
+      "hash": 4075677959,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そう 良かった",
+        "Good, I'm so glad.",
+        "Tant mieux, je suis contente.",
+        "Bene, mi fa piacere.",
+        "Gut, das freut mich.",
+        "Vale, me alegro.",
+        "О, я так рада.",
+        "Świetnie, ulżyło mi.",
+        "",
+        "",
+        "Que bom, fico feliz.",
+        "다행이네요, 정말 잘됐어요.",
+        "好，那就好。",
+        "嗯，那就好。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جيد، أنا سعيدة للغاية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien, qué tranquilidad."
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0030_ch0200",
+      "guid": "121afe55-b193-41c0-9659-5537d2b25446",
+      "crc?": 1295093920,
+      "hash": 2660686462,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エミリー？",
+        "Emily?",
+        "Emily ?",
+        "Emily? Sì...",
+        "Emily?",
+        "¿Emily?",
+        "Эмили?..",
+        "Emily?",
+        "",
+        "",
+        "A Emily? É...",
+        "에밀리요?",
+        "艾蜜莉？",
+        "艾米莉？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إميلي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Emily?"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0040_ch0200",
+      "guid": "36af3bec-9acf-4d19-8781-0b6c04c6dd54",
+      "crc?": 2814176440,
+      "hash": 2792359132,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ええ あの子なら 元気にしてる",
+        "Yeah, uh, she's doing great.",
+        "Ouais, elle va très bien.",
+        "lei sta benissimo.",
+        "Ja, der geht’s super.",
+        "Sí, está bien.",
+        "Да. У неё всё хорошо.",
+        "Tak, czuje się doskonale.",
+        "",
+        "",
+        "É, ela tá indo muito bem.",
+        "네, 잘 지내고 있어요.",
+        "嗯，對。她好得很。",
+        "嗯，她挺好的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نعم، إنها بأفضل حال.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí, va muy bien."
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0050_ch0200",
+      "guid": "98734b84-6abe-46a7-9a06-d45013126d26",
+      "crc?": 352360831,
+      "hash": 276180173,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いま読み方を教えているの",
+        "I'm actually teaching her how to read.",
+        "En ce moment, je lui apprends à lire.",
+        "Le sto insegnando a leggere.",
+        "Ich versuche, ihr lesen beizubringen.",
+        "De hecho le estoy enseñando a leer.",
+        "К слову, я учу её читать.",
+        "Uczę ją czytać.",
+        "",
+        "",
+        "Na verdade eu tô ensinando ela a ler.",
+        "지금은 글 읽는 걸 가르치고 있어요.",
+        "我在教她怎麼讀書。",
+        "最近我在教她怎么读书。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنا في الواقع أعلمها كيفية القراءة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "De hecho le estoy enseñando a leer."
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0060_ch1500",
+      "guid": "18090575-2ba7-4311-b986-d6256bcb62da",
+      "crc?": 282106840,
+      "hash": 2412110206,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース",
+        "Grace!",
+        "Grace !",
+        "Grace!",
+        "Grace!",
+        "¡Grace!",
+        "Грейс!",
+        "Grace!",
+        "",
+        "",
+        "Grace!",
+        "그레이스!",
+        "葛蕾斯！",
+        "格蕾丝！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Grace!"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0070_ch1500",
+      "guid": "06ab92cb-072b-4a33-bb6a-5bd6c7f4cfad",
+      "crc?": 2212495409,
+      "hash": 705527894,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース",
+        "Grace!",
+        "Grace !",
+        "Grace!",
+        "Grace!",
+        "¡Grace!",
+        "Грейс.",
+        "Grace!",
+        "",
+        "",
+        "Grace!",
+        "그레이스!",
+        "葛蕾斯！",
+        "格蕾丝！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Grace!"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0080_ch1500",
+      "guid": "03df625c-c44e-467d-afca-2512dc1b2fc5",
+      "crc?": 3978803838,
+      "hash": 3927804406,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "報告書は？",
+        "Where's that report?",
+        "Où est ce rapport ?",
+        "Dov'è quel rapporto?",
+        "Wo bleibt der Bericht?",
+        "¿Y el informe?",
+        "И где отчёт?",
+        "Gdzie ten raport?",
+        "",
+        "",
+        "E o meu relatório?",
+        "보고서는 어쨌나?",
+        "報告書呢？",
+        "我要的报告呢？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أين ذلك التقرير؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Dónde está ese informe?"
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0090_ch0200",
+      "guid": "c32d4146-3b12-4550-95c3-a27ae6f268c1",
+      "crc?": 1155040944,
+      "hash": 2213669613,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "すみません",
+        "Sorry.",
+        "Désolée.",
+        "Mi scusi.",
+        "Sorry.",
+        "Lo siento.",
+        "Простите.",
+        "Przepraszam.",
+        "",
+        "",
+        "Desculpa.",
+        "죄송합니다.",
+        "稍等一下。",
+        "抱歉。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آسفة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lo siento."
+      ]
+    },
+    {
+      "name": "Ending_c540s200_0100_ch0200",
+      "guid": "dae4da17-19c2-478c-a143-7721dfaecc0e",
+      "crc?": 483867381,
+      "hash": 2397318259,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン 行かなきゃ\r\nまたかける",
+        "Leon, gotta go. Catch up soon.",
+        "Leon, je dois y aller. Je te rappelle plus tard.",
+        "Leon, devo andare. Ci sentiamo.",
+        "Äh, Leon, ich muss los. Wir hören uns.",
+        "Leon, cuelgo. Hablamos.",
+        "Леон, мне пора. Созвонимся.",
+        "Leon, muszę lecieć. Pogadamy wkrótce.",
+        "",
+        "",
+        "Leon, tenho que ir. Te ligo depois.",
+        "레온, 가봐야겠어요.\r\n또 연락할게요.",
+        "里昂，我有點事，再聯絡。",
+        "里昂，我有点事，回头再聊。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون، عليّ الذهاب. سأُوافيكَ قريبًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Leon, tengo que irme. Hablamos pronto."
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0000_ch9928",
+      "guid": "b8b0bb3a-2d19-4b80-823c-2e9d68996106",
+      "crc?": 921465530,
+      "hash": 1294424504,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "",
+        "",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>"
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0000_ch9927",
+      "guid": "2dc142e6-39b0-4834-a714-d02cc5ebeacb",
+      "crc?": 236280653,
+      "hash": 1259876161,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "",
+        "",
+        "<Sound Team ID>",
+        "<Sound Team ID>",
+        "サウンド用ID",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<Sound Team ID>"
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0000",
+      "guid": "97ba87f4-fea0-4c00-89c3-6b6860598461",
+      "crc?": 2299105804,
+      "hash": 3363545033,
+      "attributes": [
+        {
+          "String": "<MESTIME 10.216, 12.5>\r\n<MESTIME 19.533, 22.916>\r\n<MESTIME 23.933, 27.666>\r\n"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0010_ch9927",
+      "guid": "d565e2be-750c-4f9d-aad5-331d59c8ffcc",
+      "crc?": 3464967989,
+      "hash": 3887641815,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "おい！ 応答しろ\r\n何があった？",
+        "Hey! Respond! What's your status!?",
+        "Hé ! Réponds ! Qu'est-ce qui se passe ?",
+        "Rispondi! Qual è il tuo stato?",
+        "Hey, antworte! Was ist los bei euch?!",
+        "¡Oye! ¡Responde!\r\n¡¿Cuál es tu situación?!",
+        "Приём! Доложить обстановку.",
+        "Hej! Zgłoś się! Jaki macie status!?",
+        "",
+        "",
+        "Ei! Respondam! Qual a situação?!",
+        "응답하라! 어떻게 된 거지!?",
+        "喂！快回話！你那邊怎麼樣？",
+        "喂！回话！快汇报情况！！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا هذا! أجب! ما هو وضعك!؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Oye! ¡Responde! ¿¡Cuál es tu estado!?"
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0020_ch9928",
+      "guid": "81c787b9-4762-4ae7-b74a-e7a9fb62a89a",
+      "crc?": 2906822506,
+      "hash": 3631020894,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "BSAAは すべて排除した",
+        "Remaining BSAA forces have been neutralized.",
+        "Le reste des forces du BSAA a été neutralisé.",
+        "Forze della BSAA neutralizzate.",
+        "Verbleibende BSAA-Streitkräfte wurden beseitigt.",
+        "El resto de fuerzas de la BSAA\r\nhan sido neutralizadas.",
+        "Оставшиеся бойцы BSAA нейтрализованы.",
+        "Pozostałe siły BSAA zneutralizowane.",
+        "",
+        "",
+        "Forças restantes da BSAA neutralizadas.",
+        "남아있던 BSAA 병력은 모두 제거했다.",
+        "剩餘的 BSAA 部隊已經收拾乾淨了。",
+        "BSAA的残余部队已经被解决了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تم القضاءُ على ما تَبقّى من قواتِ BSAA.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Las fuerzas restantes de la BSAA\r\nhan sido neutralizadas."
+      ]
+    },
+    {
+      "name": "Ending_c540s400_0030_ch9928",
+      "guid": "8361f3ed-a5e9-47ad-86dc-686e677492ee",
+      "crc?": 3761493851,
+      "hash": 1371364407,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "SS"
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "『狼』が来る前に証拠を回収する",
+        "Retrieving the objective before\r\nthey send in the \"wolves.\"",
+        "Il faut récupérer toutes les preuves\r\navant qu'ils lâchent les \"loups\".",
+        "Recupero tutte le prove prima\r\nche arrivino i \"lupi\".",
+        "Sichern alle Beweise,\r\nbevor sie die Wolves reinschicken.",
+        "Extrayendo pruebas antes\r\nde que manden a los \"lobos\".",
+        "Забираем улики, пока не прислали «псов».",
+        "Przejmujemy cel, zanim przyślą „wilki”.",
+        "",
+        "",
+        "Recuperando evidência antes\r\nque mandem os \"lobos\".",
+        "'늑대'들이 오기 전에 증거를 회수하겠다.",
+        "我們會在「狼」來了之前把目標帶走。",
+        "在“狼”来了之前，我们会把证据都带走。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جارٍ استرجاع الهدف قبل\r\nأن يرسلوا \"الذئاب\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Recuperando cualquier evidencia\r\nantes de que envíen a los \"lobos\"."
+      ]
+    }
+  ]
+}

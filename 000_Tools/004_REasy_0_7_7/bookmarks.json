@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "bookmarks": [
+    {
+      "id": "8a494cfec3ac",
+      "path": "natives/stm/streaming/sound/wwise/dialogue",
+      "scope": "unpacked",
+      "game": "RE9",
+      "root": "",
+      "tags": [
+        "11111111111"
+      ],
+      "note": "",
+      "created_at": 1789120274.3174403,
+      "opened_at": 1789122336.896155
+    },
+    {
+      "id": "61bda82ed6ce",
+      "path": "natives/stm/message/dialog",
+      "scope": "unpacked",
+      "game": "RE9",
+      "root": "",
+      "tags": [
+        "2222"
+      ],
+      "note": "",
+      "created_at": 1789121766.9400036,
+      "opened_at": 1789122838.9120202
+    }
+  ]
+}

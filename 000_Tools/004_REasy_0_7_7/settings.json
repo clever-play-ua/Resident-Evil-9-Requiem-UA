@@ -1,0 +1,132 @@
+{
+    "rcol_json_path": "C:\\Users\\UserM\\Desktop\\REasy-v0.7.7\\rszre9.json",
+    "show_debug_console": true,
+    "show_ai_chat": false,
+    "ai_provider": "deepseek",
+    "deepseek_model": "deepseek-v4-flash",
+    "deepseek_context_window_tokens": 0,
+    "deepseek_thinking_mode": "enabled",
+    "deepseek_reasoning_effort": "high",
+    "local_ai_endpoint": "http://127.0.0.1:8080/v1/chat/completions",
+    "local_ai_model": "gpt-oss-20b",
+    "local_ai_context_window_tokens": 0,
+    "ai_file_action_mode": "review",
+    "ai_file_autopilot_trash": false,
+    "show_rsz_advanced": true,
+    "game_version": "RE9",
+    "backup_on_save": true,
+    "ui_language": "system",
+    "translation_target_language": "en",
+    "tree_highlight_color": "#00aaff",
+    "vgmstream_cli_path": "C:\\Users\\UserM\\Desktop\\REasy-v0.7.7\\downloads\\vgmstream_cli\\vgmstream-cli.exe",
+    "wwise_install_paths": {},
+    "keyboard_shortcuts": {
+        "file_open": "Ctrl+O",
+        "file_save": "Ctrl+S",
+        "file_save_all": "Ctrl+Alt+S",
+        "file_save_as": "Ctrl+Shift+S",
+        "file_reload": "Ctrl+R",
+        "file_close_tab": "Ctrl+W",
+        "file_reopen_closed": "Ctrl+Shift+T",
+        "find_search": "Ctrl+F",
+        "find_search_guid": "Ctrl+Alt+G",
+        "find_search_text": "Ctrl+Alt+T",
+        "find_search_number": "Ctrl+Alt+N",
+        "find_search_hex": "Ctrl+Alt+H",
+        "find_rsz_field_value": "Ctrl+Alt+R",
+        "view_prev_tab": "Ctrl+PgUp",
+        "view_next_tab": "Ctrl+PgDown",
+        "view_debug_console": "Ctrl+Shift+U",
+        "view_ai_chat": "Ctrl+Alt+A",
+        "editor_split_right": "Ctrl+\\",
+        "editor_split_down": "Ctrl+Alt+\\"
+    },
+    "shortcut_scheme_version": 2,
+    "workbench": {
+        "restore_session": true,
+        "state_version": 1,
+        "window_geometry": "AdnQywADAAAAAAAA////+QAABqoAAAOPAAAABwAAABkAAASOAAADjgAAAAACAAAABqsAAAAAAAAAFwAABqoAAAOP",
+        "window_state": "AAAA/wAAAAH9AAAAAwAAAAAAAAJaAAACyPwCAAAAAfsAAAAkAHAAcgBvAGoAZQBjAHQAQgByAG8AdwBzAGUAcgBEAG8AYwBrAAAAAD0AAALIAAAAowD///8AAAABAAAB3QAAAsj8AgAAAAL7AAAAIABtAGQAZgBBAHMAcwBpAHMAdABhAG4AdABEAG8AYwBrAgAABUIAAAAsAAABaQAAAub7AAAAJABiAGUAdAB0AGUAcgBfAGYAaQBuAGQAXwBkAGkAYQBsAG8AZwIAAATOAAAAVAAAAd0AAALIAAAAAwAABqsAAABa/AEAAAAB+wAAABQAbwB1AHQAcAB1AHQARABvAGMAawEAAAAAAAAGqwAAAEcA////AAAGqwAAAvAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAACYAcAByAG8AagBlAGMAdABXAG8AcgBrAHMAcABhAGMAZQBCAGEAcgAAAAAA/////wAAAAAAAAAA",
+        "project_browser": {
+            "active_view": "sys",
+            "minimized": false,
+            "docked_size": [
+                602,
+                712
+            ],
+            "pak_filter": "",
+            "project_filter": "",
+            "column_widths": {
+                "unpacked": 538,
+                "project": 538,
+                "pak": 0
+            },
+            "expanded": {
+                "unpacked": [],
+                "project": [],
+                "pak": []
+            },
+            "scroll": {
+                "unpacked": 0,
+                "project": 0,
+                "pak": 0
+            }
+        },
+        "session": {
+            "projects": [],
+            "active_project": null,
+            "tabs": [],
+            "editor_groups": {
+                "version": 2,
+                "orientation": "horizontal",
+                "sizes": [
+                    100
+                ],
+                "tree": {
+                    "type": "split",
+                    "orientation": "horizontal",
+                    "sizes": [
+                        100
+                    ],
+                    "children": [
+                        {
+                            "type": "group",
+                            "index": 0
+                        }
+                    ]
+                },
+                "active_group": 0
+            }
+        }
+    },
+    "confirmation_prompt": true,
+    "verify_rsz_crc_on_open": true,
+    "recently_closed_files": [
+        "F:/Games/REQ_UA/002_GAME_Unpacker/natives/stm/streaming/sound/wwise/ch0200_dialogue.spck.1.x64.de",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_battlepl.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fsoundsupport%2Fsoundsupport_dialog_centba.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fsoundsupport%2Fsoundsupport_dialog_centhw.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fgui%2Fgui_common.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fdialogue%2Fch0100_dialogue.spck.1.x64.en",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centba.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centce.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centhw.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centrb.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centuc.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ending.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ff2nd.msg.23"
+    ],
+    "last_seen_version": "0.7.7",
+    "enum_prompt_checked_json_path": "",
+    "renderer_texture_quality": "balanced",
+    "mesh_viewer_fps_limit": 60,
+    "mesh_viewer_wireframe_mode": "off",
+    "mesh_viewer_lighting_mode": "fixed",
+    "mesh_viewer_line_width": 1.5,
+    "mesh_viewer_ambient": 0.35,
+    "mesh_viewer_diffuse": 0.65,
+    "mesh_viewer_show_bones": false,
+    "ai_assistant_settings_expanded": true,
+    "unpacked_path": "F:/Games/REQ_UA/002_GAME_Unpacker",
+    "last_game": "RE9"
+}
