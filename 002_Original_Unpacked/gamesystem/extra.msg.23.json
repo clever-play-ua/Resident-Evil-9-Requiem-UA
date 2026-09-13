@@ -1,0 +1,3538 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "ja"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "FacialTime"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "CheckAdjustBreath"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth1"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth2"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth3"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth4"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth5"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth6"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth7"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth8"
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth9"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "RecordingDate"
+    },
+    {
+      "ty": 2,
+      "name": "VoiceDataInfo"
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    },
+    {
+      "ty": 2,
+      "name": "RecordingStatus"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "Glossary"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "StageDirectionEN"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotes"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotesEN"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "mainPriority"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "visible"
+    },
+    {
+      "ty": 0,
+      "name": "displaySlot"
+    },
+    {
+      "ty": 2,
+      "name": "SubtitleDistance"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "speakerID"
+    },
+    {
+      "ty": 2,
+      "name": "speakerName"
+    },
+    {
+      "ty": 2,
+      "name": "CommunicationType"
+    },
+    {
+      "ty": 2,
+      "name": "DevSoundTriggerID"
+    }
+  ],
+  "entries": [
+    {
+      "name": "exc_0003_Content_Name",
+      "guid": "e3ead904-9b3d-4236-bf0b-2b2a974a11a3",
+      "soundId": 623653809,
+      "hash": 725086933,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース コスチューム「APOCALYPSE」",
+        "Grace's Costume: Apocalypse",
+        "Tenue de Grace : Apocalypse",
+        "Completo di Grace: Apocalisse",
+        "Outfit für Grace: Apokalypse",
+        "Atuendo de Grace: Apocalipsis",
+        "Костюм Грейс: Апокалипсис",
+        "Strój Grace „Apokalipsa”",
+        "",
+        "",
+        "Traje da Grace: Apocalypse",
+        "그레이스 코스튬: 종말",
+        "葛蕾斯裝束「末日」",
+        "格蕾丝服装：末日",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي غريس: نهاية العالم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Grace: Apocalipsis"
+      ]
+    },
+    {
+      "name": "exc_0005_Content_Name",
+      "guid": "bcc75792-a06e-485d-a062-f735dfb559ce",
+      "soundId": 1286487437,
+      "hash": 3111851863,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース コスチューム「FILM NOIR」",
+        "Grace's Costume: Film Noir",
+        "Tenue de Grace : Film noir",
+        "Completo di Grace: Film noir",
+        "Outfit für Grace: Film noir",
+        "Atuendo de Grace: Cine negro",
+        "Костюм Грейс: Нуар",
+        "Strój Grace „Film noir”",
+        "",
+        "",
+        "Traje da Grace: Filme Noir",
+        "그레이스 코스튬: 필름 누아르",
+        "葛蕾斯裝束「黑色電影」",
+        "格蕾丝服装：黑色电影",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي غريس: سينما مظلمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Grace: Cine negro"
+      ]
+    },
+    {
+      "name": "exc_0006_Content_Name",
+      "guid": "3cd2110b-850c-4818-bed9-66b21674b9df",
+      "soundId": 1032892980,
+      "hash": 3992896277,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン コスチューム「FILM NOIR」",
+        "Leon's Costume: Film Noir",
+        "Tenue de Leon : Film noir",
+        "Completo di Leon: Film noir",
+        "Outfit für Leon: Film noir",
+        "Atuendo de Leon: Cine negro",
+        "Костюм Леона: Нуар",
+        "Strój Leona „Film noir”",
+        "",
+        "",
+        "Traje do Leon: Filme Noir",
+        "레온 코스튬: 필름 누아르",
+        "里昂裝束「黑色電影」",
+        "里昂服装：黑色电影",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي ليون: سينما مظلمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Leon: Cine negro"
+      ]
+    },
+    {
+      "name": "exc_0007_Content_Name",
+      "guid": "be6d104b-9b10-49b0-9eef-bf4ac953ea13",
+      "soundId": 4038725291,
+      "hash": 3519043744,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース コスチューム「DIMITRESCU」",
+        "Grace's Costume: Dimitrescu",
+        "Tenue de Grace : Dimitrescu",
+        "Completo di Grace: Dimitrescu",
+        "Outfit für Grace: Lady Dimitrescu",
+        "Atuendo de Grace: Dimitrescu",
+        "Костюм Грейс: Димитреску",
+        "Strój Grace „Dimitrescu”",
+        "",
+        "",
+        "Traje da Grace: Dimitrescu",
+        "그레이스 코스튬: 드미트리스쿠",
+        "葛蕾斯裝束「蒂米特雷斯庫」",
+        "格蕾丝服装：蒂米特雷斯库",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي غريس: ديميتريسكو",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Grace: Dimitrescu"
+      ]
+    },
+    {
+      "name": "exc_0008_Content_Name",
+      "guid": "e4630b9c-eb91-44a2-b241-8b9a8cad8857",
+      "soundId": 2510557029,
+      "hash": 2839757658,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン コスチューム「RE:4」",
+        "Leon's Costume: RE4",
+        "Tenue de Leon : RE4",
+        "Completo di Leon: RE4",
+        "Outfit für Leon: RE4",
+        "Atuendo de Leon: RE4",
+        "Костюм Леона: RE4",
+        "Strój Leona „RE4”",
+        "",
+        "",
+        "Traje do Leon: RE4",
+        "레온 코스튬: RE4",
+        "里昂裝束「RE4」",
+        "里昂服装：RE4",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي ليون: RE4",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Leon: RE4"
+      ]
+    },
+    {
+      "name": "exc_0009_Content_Name",
+      "guid": "7a4b7714-2283-418e-8183-bdaa85a44f4a",
+      "soundId": 883730483,
+      "hash": 3489222372,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン コスチューム「APOCALYPSE」",
+        "Leon's Costume: Apocalypse",
+        "Tenue de Leon : Apocalypse",
+        "Completo di Leon: Apocalisse",
+        "Outfit für Leon: Apokalypse",
+        "Atuendo de Leon: Apocalipsis",
+        "Костюм Леона: Апокалипсис",
+        "Strój Leona „Apokalipsa”",
+        "",
+        "",
+        "Traje do Leon: Apocalypse",
+        "레온 코스튬: 종말",
+        "里昂裝束「末日」",
+        "里昂服装：末日",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زي ليون: نهاية العالم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Atuendo de Leon: Apocalipsis"
+      ]
+    },
+    {
+      "name": "exc_0010_Content_Name",
+      "guid": "aabf00a7-4f44-4534-97e4-10cdc0f9fb48",
+      "soundId": 3562314487,
+      "hash": 3897122958,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "S&S M232 武器スキン「FILM NOIR」",
+        "S&S M232 Weapon Skin: Film Noir",
+        "Skin d'arme (S&S M232) : Film noir",
+        "Skin arma (S&S M232): Film noir",
+        "Waffenskin für die S&S M232: Film noir",
+        "Skin de arma para S&S M232: Cine negro",
+        "Образ оружия для S&S M232: Нуар",
+        "Skórka broni S&S M232 „Film noir”",
+        "",
+        "",
+        "Visual de Arma (S&S M232): Filme Noir",
+        "S&S M232 무기 스킨: 필름 누아르",
+        "S&S M232 武器外觀「黑色電影」",
+        "S&S M232 武器外观：黑色电影",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيئة سلاح S&S M232: سينما مظلمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Skin de arma de S&S M232: Cine negro"
+      ]
+    },
+    {
+      "name": "exc_0011_Content_Name",
+      "guid": "7d5a409e-15c0-447e-a11d-7c2ca1404788",
+      "soundId": 616235261,
+      "hash": 2700646748,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Requiem/レクイエム 武器スキン「FILM NOIR」",
+        "Requiem Weapon Skin: Film Noir",
+        "Skin d'arme (Requiem) : Film noir",
+        "Skin arma (Requiem): Film noir",
+        "Waffenskin für die Requiem: Film noir",
+        "Skin de arma para el Requiem: Cine negro",
+        "Образ оружия для «Реквиема»: Нуар",
+        "Skórka broni Requiem „Film noir”",
+        "",
+        "",
+        "Visual de Arma (Requiem): Filme Noir",
+        "레퀴엠 무기 스킨: 필름 누아르",
+        "安魂曲武器外觀「黑色電影」",
+        "安魂 武器外观：黑色电影",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيئة سلاح Requiem: سينما مظلمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Skin de arma de Requiem: Cine negro"
+      ]
+    },
+    {
+      "name": "exc_0012_Content_Name",
+      "guid": "722b46ab-36dd-45ba-b530-6457757aa741",
+      "soundId": 2212822117,
+      "hash": 2214886741,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "S&S M232 武器スキン「APOCALYPSE」",
+        "S&S M232 Weapon Skin: Apocalypse",
+        "Skin d'arme (S&S M232) : Apocalypse",
+        "Skin arma (S&S M232): Apocalisse",
+        "Waffenskin für die S&S M232: Apokalypse",
+        "Skin de arma para el S&S M232: Apocalipsis",
+        "Образ оружия для S&S M232: Апокалипсис",
+        "Skórka broni S&S M232 „Apokalipsa”",
+        "",
+        "",
+        "Visual de Arma (S&S M232): Apocalypse",
+        "S&S M232 무기 스킨: 종말",
+        "S&S M232 武器外觀「末日」",
+        "S&S M232 武器外观：末日",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيئة سلاح S&S M232: نهاية العالم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Skin de arma de S&S M232: Apocalipsis"
+      ]
+    },
+    {
+      "name": "exc_0013_Content_Name",
+      "guid": "e6cbdff2-a06e-4239-8caf-cef31d4655c1",
+      "soundId": 2776115897,
+      "hash": 2390512916,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Requiem/レクイエム 武器スキン「APOCALYPSE」",
+        "Requiem Weapon Skin: Apocalypse",
+        "Skin d'arme (Requiem) : Apocalypse",
+        "Skin arma (Requiem): Apocalisse",
+        "Waffenskin für die Requiem: Apokalypse",
+        "Skin de arma para el Requiem: Apocalipsis",
+        "Образ оружия для «Реквиема»: Апокалипсис",
+        "Skórka broni Requiem „Apokalipsa”",
+        "",
+        "",
+        "Visual de Arma (Requiem): Apocalypse",
+        "레퀴엠 무기 스킨: 종말",
+        "安魂曲武器外觀「末日」",
+        "安魂 武器外观：末日",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيئة سلاح Requiem: نهاية العالم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Skin de arma de Requiem: Apocalipsis"
+      ]
+    },
+    {
+      "name": "exc_0014_Content_Name",
+      "guid": "1702dcaf-966b-49f5-9f92-d16562425094",
+      "soundId": 983192113,
+      "hash": 3030774221,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ラクーン君のチャーム",
+        "Mr. Raccoon Charm",
+        "Porte-bonheur Mr. Raccoon",
+        "Ciondolo Mr. Raccoon",
+        "Mr.-Raccoon-Talisman",
+        "Amuleto de Mr. Raccoon",
+        "Украшение «Мистер Енот»",
+        "Zawieszka z Panem Szopem",
+        "",
+        "",
+        "Amuleto do Mr. Raccoon",
+        "미스터 라쿤 장식",
+        "浣熊先生吊飾",
+        "浣熊先生挂件",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تميمة السيد راكون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Amuleto de Mr. Raccoon"
+      ]
+    },
+    {
+      "name": "exc_0015_Content_Name",
+      "guid": "c02d66f7-cc4a-4e8e-ae4b-bb9710e69ced",
+      "soundId": 3218809925,
+      "hash": 216323570,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "DSOエンブレムのチャーム",
+        "DSO Emblem Charm",
+        "Porte-bonheur DSO",
+        "Ciondolo DSO",
+        "DSO-Talisman",
+        "Amuleto con emblema de la DSO",
+        "Украшение «Эмблема ООБ»",
+        "Zawieszka z emblematem DSO",
+        "",
+        "",
+        "Amuleto do Emblema da DSO",
+        "DSO 엠블럼 장식",
+        "DSO 徽章吊飾",
+        "DSO徽章挂件",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تميمة شعار DSO",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Amuleto con emblema de la DSO"
+      ]
+    },
+    {
+      "name": "exc_0016_Content_Name",
+      "guid": "376ccd84-62f2-44c0-8131-84168dada29c",
+      "soundId": 2490778548,
+      "hash": 725653679,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サウンドカスタム「RACCOON CITY CLASSIC」",
+        "Audio Pack: Raccoon City Classic",
+        "Pack audio : Raccoon City Classic",
+        "Pacchetto audio: Raccoon City Classic",
+        "Audio-Paket: Raccoon City Classic",
+        "Pack de sonido: Raccoon City clásico",
+        "Набор звуков: Классика Раккун-Сити",
+        "Ścieżka dźwiękow „Raccoon City Classic”",
+        "",
+        "",
+        "Pacote de Áudio: Raccoon City Classic",
+        "오디오 팩: 라쿤 시티 클래식",
+        "音樂和音效「經典拉昆市」",
+        "音乐及音效：浣熊市经典",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حزمة صوتية: كلاسيكية مدينة راكون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Paquete de audio: Raccoon City Classic"
+      ]
+    },
+    {
+      "name": "exc_0017_Content_Name",
+      "guid": "150aca14-00c7-4584-8301-7f97c8912dc4",
+      "soundId": 2547716856,
+      "hash": 432799126,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ファイル「1998年の置き手紙」",
+        "Files: Letters from 1998",
+        "Documents : Lettres de 1998",
+        "Documenti: Lettere dal 1998",
+        "Akten: Briefe aus dem Jahr 1998",
+        "Documentos: Cartas de 1998",
+        "Документы: письма из 1998 года",
+        "Akta: listy z 1998 roku",
+        "",
+        "",
+        "Arquivos: Cartas de 1998",
+        "파일: 1998년에서 온 편지",
+        "文件「來自1998年的信」",
+        "文件：来自1998年的信",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ملفات: رسائل من 1998",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Documentos: Cartas de 1998"
+      ]
+    },
+    {
+      "name": "exc_0018_Content_Name",
+      "guid": "22afdf29-5ea6-45e1-87f4-d84c763daaf9",
+      "soundId": 1523985989,
+      "hash": 1157526681,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "画面フィルター「FILM NOIR」",
+        "Screen Filter: Film Noir",
+        "Filtre d'écran : Film noir",
+        "Filtro schermo: Film noir",
+        "Bildschirmfilter: Film noir",
+        "Filtro de pantalla: Cine negro",
+        "Экранный фильтр: Нуар",
+        "Filtr obrazu: „Film noir”",
+        "",
+        "",
+        "Filtro de Tela: Filme Noir",
+        "화면 필터: 필름 누아르",
+        "畫面濾鏡「黑色電影」",
+        "滤镜：黑色电影",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فلترة بصرية: سينما مظلمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Filtro de pantalla: Cine negro"
+      ]
+    },
+    {
+      "name": "exc_0019_Content_Name",
+      "guid": "c4129968-c3fa-4b54-a7d7-952eddf7da81",
+      "soundId": 4059616732,
+      "hash": 3485667290,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "画面フィルター「APOCALYPSE」",
+        "Screen Filter: Apocalypse",
+        "Filtre d'écran : Apocalypse",
+        "Filtro schermo: Apocalisse",
+        "Bildschirmfilter: Apokalypse",
+        "Filtro de pantalla: Apocalipsis",
+        "Экранный фильтр: Апокалипсис",
+        "Filtr obrazu: „Apokalipsa”",
+        "",
+        "",
+        "Filtro de Tela: Apocalypse",
+        "화면 필터: 종말",
+        "畫面濾鏡「末日」",
+        "滤镜：末日",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فلترة بصرية: نهاية العالم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Filtro de pantalla: Apocalipsis"
+      ]
+    }
+  ]
+}

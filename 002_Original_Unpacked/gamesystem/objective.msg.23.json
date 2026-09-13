@@ -1,0 +1,7862 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    }
+  ],
+  "entries": [
+    {
+      "name": "Ob_010_010",
+      "guid": "4c83e79e-c2aa-4a26-9de1-938ca0d9d2cb",
+      "soundId": 1780105885,
+      "hash": 2099379930,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レンウッドホテルへ向かう",
+        "Head to the Wrenwood Hotel",
+        "Se rendre à l'hôtel Wrenwood",
+        "Vai all'hotel Wrenwood",
+        "Zum Hotel Wrenwood gehen",
+        "Ve al Hotel Wrenwood",
+        "Отправляйтесь в отель «Рэнвуд»",
+        "Udaj się do Wrenwood Hotel",
+        "",
+        "",
+        "Vá para o Hotel Wrenwood",
+        "렌우드 호텔로 간다",
+        "前往連塢飯店",
+        "前往鹪木旅馆",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجهي إلى فندق رينوود",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve al Hotel Wrenwood"
+      ]
+    },
+    {
+      "name": "Ob_010_015",
+      "guid": "b104954c-d75d-469e-b158-977f87221ee0",
+      "soundId": 439674773,
+      "hash": 279494072,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "事件現場を調査する",
+        "Investigate the crime scene",
+        "Inspecter la scène de crime",
+        "Indaga sulla scena del crimine",
+        "Den Tatort untersuchen",
+        "Investiga el lugar del crimen",
+        "Осмотрите место преступления",
+        "Zbadaj miejsce zbrodni",
+        "",
+        "",
+        "Investigue a cena do crime",
+        "사건 현장을 조사한다",
+        "調查案發現場",
+        "调查事件现场",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حقّقي في مسرح الجريمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investiga la escena del crimen"
+      ]
+    },
+    {
+      "name": "Ob_010_020",
+      "guid": "d35f65cf-14ba-4390-9693-58b4b0ff796e",
+      "soundId": 4275289316,
+      "hash": 1437840123,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "204号室へ向かう",
+        "Head to room 204",
+        "Aller à la chambre 204",
+        "Vai nella stanza 204",
+        "Zimmer 204 aufsuchen",
+        "Ve a la habitación 204",
+        "Идите в номер 204",
+        "Idź do pokoju 204",
+        "",
+        "",
+        "Vá para o quarto 204",
+        "204호실로 간다",
+        "前往 204 號房",
+        "前往204号室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجهي إلى الغرفة 204",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve a la habitación 204"
+      ]
+    },
+    {
+      "name": "Ob_010_030",
+      "guid": "186bb857-a1b4-48a0-b292-4f91a5208892",
+      "soundId": 3662211901,
+      "hash": 2443820299,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ホテルから脱出する",
+        "Escape from the hotel",
+        "S'échapper de l'hôtel",
+        "Scappa dall'hotel",
+        "Aus dem Hotel entkommen",
+        "Escapa del hotel",
+        "Выберитесь из отеля",
+        "Ucieknij z hotelu",
+        "",
+        "",
+        "Fuja do hotel",
+        "호텔에서 탈출한다",
+        "逃離飯店",
+        "逃离旅馆",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي من الفندق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa del hotel"
+      ]
+    },
+    {
+      "name": "Ob_010_040",
+      "guid": "c78b18c2-7268-4f05-ab0a-d8008204dc73",
+      "soundId": 1892636651,
+      "hash": 2273954759,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "母が隠した物を見つける",
+        "Find what Alyssa hid",
+        "Trouver ce qu'Alyssa a caché",
+        "Scopri cosa ha nascosto Alyssa",
+        "Finden, was Alyssa versteckt hat",
+        "Busca lo que escondió Alyssa",
+        "Найдите спрятанное Алиссой",
+        "Znajdź to, co ukryła Alyssa",
+        "",
+        "",
+        "Encontre o que Alyssa escondeu",
+        "엄마가 숨겨둔 물건을 찾는다",
+        "找出雅莉莎藏起來的物品",
+        "寻找母亲藏起的物品",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على ما أخفته أليسا",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca lo que escondió Alyssa"
+      ]
+    },
+    {
+      "name": "Ob_010_050",
+      "guid": "6f64c8a2-4366-4188-a649-2da4c5077e61",
+      "soundId": 2735041830,
+      "hash": 1595613016,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "警官から逃れる",
+        "Escape from the police officer",
+        "Échapper au policier",
+        "Sfuggi all'agente di polizia",
+        "Vor dem Polizisten fliehen",
+        "Escapa del policía",
+        "Сбегите от полицейского",
+        "Ucieknij policjantowi",
+        "",
+        "",
+        "Fuja do policial",
+        "경찰관으로부터 도망간다",
+        "逃離警察",
+        "逃离异常的警察",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي من ضابط الشرطة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa del policía"
+      ]
+    },
+    {
+      "name": "Ob_110_010",
+      "guid": "42ba62e4-66e4-4063-8786-de33dd4b5679",
+      "soundId": 1102220185,
+      "hash": 1166242462,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクターを追跡する",
+        "Go after Victor",
+        "Poursuivre Victor",
+        "Insegui Victor",
+        "Victor verfolgen",
+        "Persigue a Victor",
+        "Идите за Виктором",
+        "Ścigaj Victora",
+        "",
+        "",
+        "Vá atrás de Victor",
+        "빅터를 추적한다",
+        "追上維克多",
+        "追赶维克多",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طارد فيكتور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Persigue a Victor"
+      ]
+    },
+    {
+      "name": "Ob_301_010",
+      "guid": "604413a6-4b53-42ca-b0d9-af477c550e4f",
+      "soundId": 3123044500,
+      "hash": 667513747,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "OK"
+        }
+      ],
+      "content": [
+        "脱出する",
+        "Escape",
+        "S'échapper",
+        "Fuggi",
+        "Entkommen",
+        "Escapa",
+        "Сбегите",
+        "Ucieknij",
+        "",
+        "",
+        "Fuja",
+        "탈출한다",
+        "逃離現場",
+        "逃离此地",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عليكِ بالهروب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa"
+      ]
+    },
+    {
+      "name": "Ob_301_010_005",
+      "guid": "cf51b78c-edd4-4a29-a650-a517c4af644f",
+      "soundId": 64589213,
+      "hash": 3845989500,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヒューズを入手する",
+        "Get the fuse",
+        "Obtenir le fusible",
+        "Prendi il fusibile",
+        "Eine Sicherung finden",
+        "Consigue el fusible",
+        "Найдите предохранитель",
+        "Zdobądź bezpiecznik",
+        "",
+        "",
+        "Encontre o fusível",
+        "퓨즈를 입수한다",
+        "取得保險絲",
+        "取得保险丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اُعثُري على المصهر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Consigue el fusible"
+      ]
+    },
+    {
+      "name": "Ob_310_020",
+      "guid": "eea73597-9211-43fe-bc76-dd95bb27ca90",
+      "soundId": 3989412165,
+      "hash": 3801824065,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "療養所を調査する",
+        "Investigate the care center",
+        "Enquêter sur le centre de soins",
+        "Indaga sul centro di cura",
+        "Das Sanatorium untersuchen",
+        "Investiga el centro de pacientes",
+        "Исследуйте медицинский центр",
+        "Zbadaj Ośrodek",
+        "",
+        "",
+        "Investigue o Centro de Cuidados",
+        "요양병원을 탐색한다",
+        "調查療養院",
+        "调查疗养院",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حقّق في مركز الرعاية",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Explora el centro de pacientes"
+      ]
+    },
+    {
+      "name": "Ob_310_020_010",
+      "guid": "de9af83b-604d-4c41-8818-0729e718b62c",
+      "soundId": 1255352081,
+      "hash": 1213583504,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "感染者を殲滅する",
+        "Eliminate the infected",
+        "Éliminer les infectés",
+        "Elimina gli infetti",
+        "Die Infizierten beseitigen",
+        "Deshazte de los infectados",
+        "Устраните заражённых",
+        "Wyeliminuj zarażonych",
+        "",
+        "",
+        "Elimine os infectados",
+        "감염자들을 처치한다",
+        "消滅感染者",
+        "消灭感染者",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اقض على المَعدُوّين",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Elimina a los infectados"
+      ]
+    },
+    {
+      "name": "Ob_310_020_020",
+      "guid": "cd683bef-7832-421c-b06a-3f43287ac33f",
+      "soundId": 3921883262,
+      "hash": 3499584951,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "部屋からの脱出方法を探す",
+        "Get out of the room",
+        "Trouver un moyen de sortir",
+        "Esci dalla stanza",
+        "Aus der Reha-Station entkommen",
+        "Sal de la sala",
+        "Выберитесь из комнаты",
+        "Wydostań się z pokoju",
+        "",
+        "",
+        "Saia do quarto",
+        "방에서 빠져나간다",
+        "離開房間",
+        "设法离开房间",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اخرج من الغرفة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sal de la habitación"
+      ]
+    },
+    {
+      "name": "Ob_302_020",
+      "guid": "f5ae98e5-2fc1-45eb-9753-a84561ba3d69",
+      "soundId": 2423264864,
+      "hash": 3492923724,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "療養所から脱出する",
+        "Escape the care center",
+        "S'enfuir du centre de soins",
+        "Fuggi dal centro di cura",
+        "Aus dem Sanatorium entkommen",
+        "Escapa del centro de pacientes",
+        "Выберитесь из медцентра",
+        "Ucieknij z Ośrodka",
+        "",
+        "",
+        "Fuja do Centro de Cuidados",
+        "요양병원에서 탈출한다",
+        "逃離療養院",
+        "逃离疗养院",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي من مركز الرعاية",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa del centro de pacientes"
+      ]
+    },
+    {
+      "name": "Ob_302_020_015",
+      "guid": "81710f09-ff6f-4a0f-b797-98df9ae72efe",
+      "soundId": 1151564664,
+      "hash": 3251206342,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エントランスの扉を開ける",
+        "Unlock the door in the central hall",
+        "Ouvrir la porte dans le hall central",
+        "Apri la porta d'ingresso",
+        "Die Tür in der Haupthalle öffnen",
+        "Desbloquea la puerta del salón central",
+        "Откройте дверь в центральном холле",
+        "Otwórz frontowe wejście",
+        "",
+        "",
+        "Abra a porta no Salão Central",
+        "중앙 홀 문을 연다",
+        "開啟中央大廳的門",
+        "打开中央大堂有凹槽的门",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افتحي الباب في القاعة المركزية",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Desbloquea la puerta del salón central"
+      ]
+    },
+    {
+      "name": "Ob_302_020_015_010",
+      "guid": "13e034ce-523f-4471-a517-791e5ad4999c",
+      "soundId": 1472103092,
+      "hash": 1580702716,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クォーツを集める（{0}/{1}）",
+        "Find and place the quartz ({0}/{1})",
+        "Trouver et insérer les quartz ({0}/{1})",
+        "Ottieni e posiziona i quarzi ({0}/{1})",
+        "Die Quader finden und einsetzen ({0}/{1})",
+        "Encuentra los cuarzos y colócalos ({0}/{1})",
+        "Найдите и разместите кварц ({0}/{1})",
+        "Zbierz i umieść kwarc ({0}/{1})",
+        "",
+        "",
+        "Encontre e insira os quartzos ({0}/{1})",
+        "수정을 모아서 넣는다 ({0}/{1})",
+        "收集並嵌入石英（{0}/{1}）",
+        "收集并嵌入晶石（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحثي عن قطع المرو ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Encuentra e inserta los cuarzos ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_302_020_015_030",
+      "guid": "dd8d5c3b-6114-44be-afae-1749bd7fb8b0",
+      "soundId": 1586821321,
+      "hash": 3385856684,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "主任室の南京錠を外す",
+        "Destroy the padlock",
+        "Détruire le cadenas",
+        "Distruggi il lucchetto",
+        "Das Vorhängeschloss zerstören",
+        "Destruye el candado",
+        "Сломайте замок",
+        "Zniszcz kłódkę",
+        "",
+        "",
+        "Destrua o cadeado",
+        "자물쇠를 파괴한다",
+        "破壞掛鎖",
+        "破坏研究主任室的挂锁",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اكسري القفل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye el candado"
+      ]
+    },
+    {
+      "name": "Ob_302_020_015_040",
+      "guid": "bb5fd5af-278d-4216-89e3-6d7cdbebd93b",
+      "soundId": 1811064420,
+      "hash": 3947885784,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "少女を警備長室に連れていく",
+        "Take the child to the puzzle box",
+        "Amener la petite fille au meuble à combinaison",
+        "Porta la bambina al mobile con la combinazione",
+        "Das Mädchen zum Geheimschrank bringen",
+        "Lleva a la niña a la caja de rompecabezas",
+        "Отведите ребёнка к шкафу-головоломке",
+        "Zabierz dziecko do łamigłowki",
+        "",
+        "",
+        "Leve a menina até a Caixa-Segredo",
+        "퍼즐 상자까지 소녀를 데려간다",
+        "帶女孩前往機關盒所在處",
+        "带女孩前往警备主管室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اصطحبي إميلي إلى صندوق الألغاز",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lleva a la niña a la caja de acertijo"
+      ]
+    },
+    {
+      "name": "Ob_302_020_020",
+      "guid": "419c0fe3-5dc9-4272-8cea-5b8c0fae0175",
+      "soundId": 2877445188,
+      "hash": 1937163582,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "血液検体を分析する",
+        "Analyze the blood specimen",
+        "Analyser l'échantillon de sang",
+        "Analizza un campione di sangue",
+        "Die Blutprobe analysieren",
+        "Analiza la muestra de sangre",
+        "Проанализируйте пробу крови",
+        "Zbadaj próbkę krwi",
+        "",
+        "",
+        "Analise a amostra de sangue",
+        "혈액검체를 분석한다",
+        "分析血液樣本",
+        "分析血液样本",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حلّلي عينات الدم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Analiza la muestra de sangre"
+      ]
+    },
+    {
+      "name": "Ob_302_080",
+      "guid": "3f581471-fae1-40c0-a0b0-0f5f2b7004ba",
+      "soundId": 2055619137,
+      "hash": 1172500005,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "攫われたエミリーを追う",
+        "Get Emily back",
+        "Retrouver Emily",
+        "Salva Emily",
+        "Emily folgen",
+        "Rescata a Emily",
+        "Верните Эмили",
+        "Odbij Emily",
+        "",
+        "",
+        "Vá atrás de Emily",
+        "에밀리를 쫓아간다",
+        "奪回艾蜜莉",
+        "追赶被掳走的艾米莉",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "استرجعي إميلي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Recupera a Emily"
+      ]
+    },
+    {
+      "name": "Ob_320_010",
+      "guid": "1a7a8526-843c-41e3-b6f4-85f1dd97b236",
+      "soundId": 1014478368,
+      "hash": 2952311738,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクターの執務室に向かう",
+        "Find Victor's office",
+        "Trouver le bureau de Victor",
+        "Trova l'ufficio di Victor",
+        "Victors Büro finden",
+        "Localiza el despacho de Victor",
+        "Найдите офис Виктора",
+        "Znajdź biuro Victora",
+        "",
+        "",
+        "Ache o Escritório do Victor",
+        "빅터의 사무실을 찾는다",
+        "找出維克多的辦公室",
+        "寻找维克多的办公室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثر على مكتب فيكتور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Encuentra la oficina de Victor"
+      ]
+    },
+    {
+      "name": "Ob_320_020",
+      "guid": "fc63245a-685c-41b2-aead-12a8520afea5",
+      "soundId": 1787233213,
+      "hash": 2077478841,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクターの執務室を調べる",
+        "Search Victor's office",
+        "Fouiller le bureau de Victor",
+        "Fruga nell'ufficio di Victor",
+        "Victors Büro durchsuchen",
+        "Registra el despacho de Victor",
+        "Обыщите офис Виктора",
+        "Przeszukaj biuro Victora",
+        "",
+        "",
+        "Examine o Escritório de Victor",
+        "빅터의 사무실을 수색한다",
+        "搜查維克多的辦公室",
+        "调查维克多的办公室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فتّش مكتب فيكتور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Registra la oficina de Victor"
+      ]
+    },
+    {
+      "name": "Ob_303_010",
+      "guid": "ae276351-5f22-4cf9-8468-482a9a4a5af6",
+      "soundId": 2653177556,
+      "hash": 1200030675,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エミリーを救出する",
+        "Rescue Emily",
+        "Sauver Emily",
+        "Salva Emily",
+        "Emily befreien",
+        "Rescata a Emily",
+        "Спасите Эмили",
+        "Uratuj Emily",
+        "",
+        "",
+        "Resgate Emily",
+        "에밀리를 구출한다",
+        "救出艾蜜莉",
+        "救出艾米莉",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنقذي إميلي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Rescata a Emily"
+      ]
+    },
+    {
+      "name": "Ob_303_010_010",
+      "guid": "9b365db6-5196-478a-b3eb-c32b2a0d9ba1",
+      "soundId": 323929341,
+      "hash": 358576198,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "牢屋扉を開錠する",
+        "Unlock the cells",
+        "Ouvrir les cellules",
+        "Apri le celle",
+        "Die Zellen entriegeln",
+        "Abre las celdas",
+        "Откройте камеры",
+        "Otwórz cele",
+        "",
+        "",
+        "Abra as celas",
+        "감금실의 잠금을 해제한다",
+        "開啟牢房",
+        "打开牢门",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افتحي الزنازين",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abre las celdas"
+      ]
+    },
+    {
+      "name": "Ob_303_010_010_010",
+      "guid": "fa0c0078-f629-4af9-a189-31067d9f596f",
+      "soundId": 694766940,
+      "hash": 1175338717,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ジョイントプラグを見つける（{0}/{1}）",
+        "Find the joint plugs ({0}/{1})",
+        "Trouver les connecteurs ({0}/{1})",
+        "Trova i connettori elettrici ({0}/{1})",
+        "Die Verbindungsstecker finden ({0}/{1})",
+        "Encuentra los enchufes de junta ({0}/{1})",
+        "Найдите штекеры ({0}/{1})",
+        "Znajdź wtyczki łączone ({0}/{1})",
+        "",
+        "",
+        "Ache os plugues ({0}/{1})",
+        "조인트 플러그를 찾는다 ({0}/{1})",
+        "找出接合插頭（{0}/{1}）",
+        "取得接合插头（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على المقابس الكهربائية ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Encuentra los enchufes ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_303_040",
+      "guid": "726277d1-1616-4308-98f4-1532f16cdf94",
+      "soundId": 896105969,
+      "hash": 2091598389,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エレベーターで地下から脱出する",
+        "Escape via the elevator",
+        "S'enfuir par l'ascenseur",
+        "Usa l'ascensore per fuggire",
+        "Mit dem Aufzug fliehen",
+        "Escapa usando el ascensor",
+        "Сбегите на лифте",
+        "Ucieknij windą",
+        "",
+        "",
+        "Fuja pelo elevador",
+        "엘리베이터로 탈출한다",
+        "乘坐電梯逃離現場",
+        "使用电梯逃跑",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي عبر المصعد",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa usando el ascensor"
+      ]
+    },
+    {
+      "name": "Ob_324_020",
+      "guid": "9cd7f029-1c2a-4937-9586-90009468b9a4",
+      "soundId": 1484830861,
+      "hash": 2444691230,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "中庭で脱出方法を探す",
+        "Escape via the courtyard",
+        "S'échapper par la cour",
+        "Fuggi attraverso il cortile",
+        "Durch den Garten fliehen",
+        "Escapa a través del patio",
+        "Сбегите через двор",
+        "Ucieknij przez dziedziniec",
+        "",
+        "",
+        "Fuja pelo pátio",
+        "정원으로 탈출한다",
+        "在中庭尋找逃離方法",
+        "在中庭寻找逃离方法",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي عبر الفناء",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa por el patio"
+      ]
+    },
+    {
+      "name": "Ob_324_030",
+      "guid": "689df0e1-84bd-455d-b437-e920f4cd8c5b",
+      "soundId": 3676356766,
+      "hash": 2841045915,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヘリコプターの鍵を探す",
+        "Find the helicopter key",
+        "Trouver la clé de l'hélicoptère",
+        "Trova la chiave dell'elicottero",
+        "Den Hubschrauberschlüssel finden",
+        "Busca la llave del helicóptero",
+        "Найдите ключ от вертолёта",
+        "Znajdź kluczyki do helikoptera",
+        "",
+        "",
+        "Ache a chave do helicóptero",
+        "헬리콥터 열쇠를 찾는다",
+        "找出直升機鑰匙",
+        "寻找直升机钥匙",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على مفتاح المروحية",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Obtén la llave del helicóptero"
+      ]
+    },
+    {
+      "name": "Ob_304_010",
+      "guid": "19b90e11-a510-4697-ac7a-9f3b7d689b4c",
+      "soundId": 1423809264,
+      "hash": 1590441961,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヘリコプターに戻る",
+        "Return to the helicopter",
+        "Retourner à l'hélicoptère",
+        "Torna all'elicottero",
+        "Zum Hubschrauber zurückkehren",
+        "Vuelve al helicóptero",
+        "Вернитесь к вертолёту",
+        "Wróć do helikoptera",
+        "",
+        "",
+        "Volte para o helicóptero",
+        "헬리콥터가 있는 곳으로 돌아간다",
+        "返回直升機處",
+        "返回直升机坪",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اِرجعي إلى المروحية",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vuelve al helicóptero"
+      ]
+    },
+    {
+      "name": "Ob_304_020",
+      "guid": "a7496609-be1b-4b6a-8f83-f026e6926246",
+      "soundId": 2530680297,
+      "hash": 706042959,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "地下研究所を脱出する",
+        "Escape the research facility",
+        "S'échapper du centre de recherche",
+        "Fuggi dal centro di ricerca",
+        "Aus der Forschungsanlage entkommen",
+        "Escapa del laboratorio",
+        "Выберитесь из комплекса",
+        "Ucieknij z placówki badawczej",
+        "",
+        "",
+        "Fuja da instalação de pesquisa",
+        "지하 연구소에서 탈출한다",
+        "逃離研究所",
+        "逃离地下研究所",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهربي من منشأة الأبحاث",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Huye del Centro de investigación"
+      ]
+    },
+    {
+      "name": "Ob_340_010",
+      "guid": "66cd7c37-f484-437c-b19c-c1486d525291",
+      "soundId": 1890298872,
+      "hash": 2252304841,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレースたちを救出する",
+        "Rescue Grace",
+        "Sauver Grace",
+        "Salva Grace",
+        "Grace retten",
+        "Salva a Grace",
+        "Спасите Грейс",
+        "Uratuj Grace",
+        "",
+        "",
+        "Resgate Grace",
+        "그레이스를 구출한다",
+        "救出葛蕾斯",
+        "解救格蕾丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنقذ غريس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Rescata a Grace"
+      ]
+    },
+    {
+      "name": "Ob_340_020",
+      "guid": "2adfd76e-2e09-4f29-a609-8e5f57898771",
+      "soundId": 2039342837,
+      "hash": 1043775617,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレースたちを援護する",
+        "Help Grace",
+        "Aider Grace",
+        "Aiuta Grace",
+        "Grace unterstützen",
+        "Ayuda a Grace",
+        "Помогите Грейс",
+        "Pomóż Grace",
+        "",
+        "",
+        "Ajude Grace",
+        "그레이스를 엄호한다",
+        "掩護葛蕾斯",
+        "掩护格蕾丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ساعد غريس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ayuda a Grace"
+      ]
+    },
+    {
+      "name": "Ob_340_030",
+      "guid": "9ac7843f-5715-4358-80e3-66bd1c610031",
+      "soundId": 524610964,
+      "hash": 1105986206,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "礼拝堂に向かう",
+        "Head to the chapel",
+        "Se rendre à la chapelle",
+        "Vai nella chiesa",
+        "Zur Kirche gehen",
+        "Ve a la capilla",
+        "Идите в церковь",
+        "Udaj się do kaplicy",
+        "",
+        "",
+        "Vá para a Igreja",
+        "교회로 간다",
+        "前往教堂",
+        "前往教堂",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجه إلى الكنيسة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve a la capilla"
+      ]
+    },
+    {
+      "name": "Ob_340_040",
+      "guid": "f503ac69-485c-46bd-9bb4-708a796d9392",
+      "soundId": 570819994,
+      "hash": 3398492717,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "感染者を撃退する",
+        "Fight off the infected",
+        "Repousser les infectés",
+        "Respingi gli infetti",
+        "Die Infizierten bekämpfen",
+        "Defiéndete de los infectados",
+        "Отбейтесь от заражённых",
+        "Odeprzyj atak zarażonych",
+        "",
+        "",
+        "Enfrente os infectados",
+        "감염자들을 처치한다",
+        "擊退感染者",
+        "击退感染者",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اقض على المَعدُوّين",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Defiéndete de los infectados"
+      ]
+    },
+    {
+      "name": "Ob_305_010",
+      "guid": "b56bbbbb-628b-488e-8409-b1f60612229e",
+      "soundId": 972324103,
+      "hash": 3513690565,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "地上へ脱出する",
+        "Get to the surface",
+        "Regagner la surface",
+        "Raggiungi la superficie",
+        "Zur Oberfläche gelangen",
+        "Alcanza la superficie",
+        "Выберитесь на поверхность",
+        "Wydostań się na powierzchnię",
+        "",
+        "",
+        "Chegue à superfície",
+        "지상으로 탈출한다",
+        "前往地面",
+        "返回地面",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهبي إلى السطح",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Llega a la superficie"
+      ]
+    },
+    {
+      "name": "Ob_305_020",
+      "guid": "07f3f9dc-ba22-42fa-b95d-07853fafa8d4",
+      "soundId": 1048773822,
+      "hash": 4119343447,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ハッチを開けて光を浴びせる",
+        "Open the hatch on the Girl",
+        "Ouvrir le toit",
+        "Apri il tetto sulla Bambina",
+        "Die Dachluke öffnen",
+        "Abre la compuerta sobre la Niña",
+        "Откройте люк и осветите Девочку",
+        "Otwórz właz nad Dziewczynką",
+        "",
+        "",
+        "Abra a escotilha e deixe a luz entrar",
+        "해치를 열어 더 걸을 빛에 노출시킨다",
+        "開啟天窗，用陽光照射「女孩」",
+        "打开顶棚让光照射“女孩”",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افتحي الكُوَّة على الفتاة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abre la compuerta sobre la Niña"
+      ]
+    },
+    {
+      "name": "Ob_305_020_040",
+      "guid": "154de277-b56c-4a3d-9008-03212a13b548",
+      "soundId": 1958361509,
+      "hash": 3228934602,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "配電システムを再起動する（{0}/{1}）",
+        "Restart the power distribution units ({0}/{1})",
+        "Redémarrer les systèmes d'alimentation ({0}/{1})",
+        "Ripristina la corrente ({0}/{1})",
+        "Die Steuerpulte neustarten ({0}/{1})",
+        "Reinicia las uds. de distribución ({0}/{1})",
+        "Перезапустите блоки питания ({0}/{1})",
+        "Zrestartuj 3 dystrybutory ({0}/{1})",
+        "",
+        "",
+        "Reinicie os painéis de controle ({0}/{1})",
+        "배전 시스템을 재가동한다 ({0}/{1})",
+        "重新啟動供電器（{0}/{1}）",
+        "重新启动供电系统（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أعيدي تشغيل وحدات توزيع الطاقة ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reinicia las unidades de energía ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_305_020_050",
+      "guid": "527be38f-ec04-4a30-a42e-fd3ebc9fb842",
+      "soundId": 4282692994,
+      "hash": 939004404,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ハッチ開閉装置を起動する",
+        "Open the roof hatch",
+        "Activer l'ouverture du toit",
+        "Apri il tetto a scorrimento",
+        "Die Dachluke öffnen",
+        "Abre la compuerta del techo",
+        "Откройте потолочный люк",
+        "Otwórz właz dachowy",
+        "",
+        "",
+        "Abra a escotilha do teto",
+        "지붕 해치를 연다",
+        "開啟天窗",
+        "启动顶棚开合装置",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افتحي كُوَّة السقف",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abre la compuerta del techo"
+      ]
+    },
+    {
+      "name": "Ob_305_050",
+      "guid": "cd4a47b3-34ee-438e-a54b-c05debc2ec56",
+      "soundId": 3171175967,
+      "hash": 711948526,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エミリーの元へ戻る",
+        "Return to Emily",
+        "Rejoindre Emily",
+        "Torna da Emily",
+        "Zu Emily zurückkehren",
+        "Vuelve con Emily",
+        "Вернитесь к Эмили",
+        "Wróć do Emily",
+        "",
+        "",
+        "Volte para Emily",
+        "에밀리에게 돌아간다",
+        "返回艾蜜莉處",
+        "返回艾米莉处",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عُودِي إلى إميلي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vuelve a donde está Emily"
+      ]
+    },
+    {
+      "name": "Ob_306_010",
+      "guid": "d1dfbc9f-9fa5-4904-a69d-a6cdfac21d35",
+      "soundId": 475561073,
+      "hash": 2092352154,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "不都合な真実",
+        "A Harsh Reality",
+        "Dure réalité",
+        "Una dura realtà",
+        "Was ist heute nur los?",
+        "La dura realidad",
+        "Суровая реальность",
+        "Prawda boli",
+        "",
+        "",
+        "Dura Realidade",
+        "잔혹한 현실",
+        "絕望真相",
+        "严酷的现实",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "واقع مرير",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La dura realidad"
+      ]
+    },
+    {
+      "name": "Ob_410_010",
+      "guid": "8adde470-6788-4e64-a379-247e83eb5f50",
+      "soundId": 4233710526,
+      "hash": 870881022,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレースを追ってラクーン中心部に向かう",
+        "Head to Raccoon City Center",
+        "Aller au centre de Raccoon City",
+        "Vai nel centro di Raccoon City",
+        "Zum Zentrum von Raccoon City gehen",
+        "Ve al centro de Raccoon City",
+        "Отправляйтесь в центр Раккун-Сити",
+        "Idź do centrum Raccoon City",
+        "",
+        "",
+        "Vá ao centro de Raccoon City",
+        "라쿤 시티 중심부로 향한다",
+        "前往拉昆市中心",
+        "前往浣熊市中心",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجّه إلى وسط مدينة راكون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve al centro de Raccoon City"
+      ]
+    },
+    {
+      "name": "Ob_410_010_020",
+      "guid": "bc03b9d6-2cd6-439c-971c-c9ab51850391",
+      "soundId": 1791374113,
+      "hash": 2627774695,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "出口を探す",
+        "Find a way out",
+        "Trouver une issue",
+        "Trova una via di fuga",
+        "Einen Ausgang finden",
+        "Encuentra una salida",
+        "Найдите выход",
+        "Znajdź wyjście",
+        "",
+        "",
+        "Ache uma saída",
+        "나가는 길을 찾는다",
+        "尋找出口",
+        "寻找出路",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثر على مخرج",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Encuentra una salida"
+      ]
+    },
+    {
+      "name": "Ob_410_010_030",
+      "guid": "b4c08b26-c66b-4c49-97a4-c87dc98d5eba",
+      "soundId": 3812975545,
+      "hash": 1298588378,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "大蜘蛛を倒す",
+        "Defeat the giant spider",
+        "Vaincre l'araignée géante",
+        "Sconfiggi il ragno gigante",
+        "Die Riesenspinne besiegen",
+        "Elimina a la araña gigante",
+        "Одолейте огромного паука",
+        "Pokonaj pająka-giganta",
+        "",
+        "",
+        "Derrote a aranha gigante",
+        "거대 거미를 처치한다",
+        "擊敗巨大蜘蛛",
+        "打倒巨型蜘蛛",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهزم العنكبوت الضخم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Derrota a la araña gigante"
+      ]
+    },
+    {
+      "name": "Ob_410_010_040",
+      "guid": "ef21c740-6c20-4a11-8914-e28066129aa2",
+      "soundId": 2521408327,
+      "hash": 2531899692,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゲートを調べる",
+        "Examine the gate",
+        "Examiner la porte",
+        "Esamina il cancello",
+        "Das Tor untersuchen",
+        "Examina la verja",
+        "Осмотрите ворота",
+        "Zbadaj bramę",
+        "",
+        "",
+        "Examine o portão",
+        "문을 조사한다",
+        "檢查路障大門",
+        "调查路障大门",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افحص البوابة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Examina el portón"
+      ]
+    },
+    {
+      "name": "Ob_410_010_050",
+      "guid": "ce302807-c8b4-4507-9d06-1cefd56d7c53",
+      "soundId": 350709619,
+      "hash": 1553336814,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "キャンプを調べる（{0}/{1}）",
+        "Search the camp ({0}/{1})",
+        "Fouiller le campement ({0}/{1})",
+        "Perlustra l'accampamento ({0}/{1})",
+        "Das Lager untersuchen ({0}/{1})",
+        "Registra el campamento ({0}/{1})",
+        "Обыщите лагерь ({0}/{1})",
+        "Przeszukaj obóz ({0}/{1})",
+        "",
+        "",
+        "Vasculhe a base ({0}/{1})",
+        "캠프를 수색한다 ({0}/{1})",
+        "探索據點（{0}/{1}）",
+        "调查营地（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فتّش المعسكر ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Registra el campamento ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_410_010_060",
+      "guid": "eb37be03-9ad8-429a-b374-91a08125babc",
+      "soundId": 1169369349,
+      "hash": 798542921,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "起爆装置のパーツを集める（{0}/{1}）",
+        "Collect the detonator parts ({0}/{1})",
+        "Trouver les pièces du détonateur ({0}/{1})",
+        "Ottieni le parti del detonatore ({0}/{1})",
+        "Die Teile für den Zünder einsammeln ({0}/{1})",
+        "Consigue las piezas del detonador ({0}/{1})",
+        "Соберите детали детонатора ({0}/{1})",
+        "Zbierz części detonatora ({0}/{1})",
+        "",
+        "",
+        "Junte peças do detonador ({0}/{1})",
+        "기폭 장치 부품을 모은다 ({0}/{1})",
+        "收集引爆裝置零件（{0}/{1}）",
+        "收集起爆装置零件（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اجمع أجزاء الصّاعق ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reúne piezas del detonador ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_410_010_060_010",
+      "guid": "d1750efa-bb03-49c3-9cc0-57bdd30e4c4c",
+      "soundId": 763017101,
+      "hash": 2126619118,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "燃料を入手する",
+        "Get some fuel",
+        "Obtenir du carburant",
+        "Recupera del carburante",
+        "Benzin besorgen",
+        "Consigue combustible",
+        "Найдите топливо",
+        "Zdobądź paliwo",
+        "",
+        "",
+        "Consiga combustível",
+        "연료를 찾는다",
+        "取得燃料",
+        "取得燃油",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "احصل على بعض الوقود",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Consigue combustible"
+      ]
+    },
+    {
+      "name": "Ob_410_010_060_020",
+      "guid": "29a76d28-5cc6-4a90-b523-4fb8b8288252",
+      "soundId": 3596507447,
+      "hash": 4239790172,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "バッテリーを入手する（{0}/{1}）",
+        "Get the batteries ({0}/{1})",
+        "Obtenir les batteries ({0}/{1})",
+        "Recupera le batterie ({0}/{1})",
+        "Die Batterien holen ({0}/{1})",
+        "Obtén las baterías ({0}/{1})",
+        "Найдите батареи ({0}/{1})",
+        "Zdobądź baterie ({0}/{1})",
+        "",
+        "",
+        "Pegue as baterias ({0}/{1})",
+        "배터리를 찾는다 ({0}/{1})",
+        "取得電池（{0}/{1}）",
+        "取得电池（{0}/{1}）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "احصل على البطاريات ({0} من {1})",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Consigue las baterías ({0}/{1})"
+      ]
+    },
+    {
+      "name": "Ob_410_010_060_040",
+      "guid": "2f35d48f-8bf9-4f82-b648-ac3766f85222",
+      "soundId": 2481229539,
+      "hash": 3031665455,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "感染者を殲滅する",
+        "Eliminate the infected",
+        "Éliminer les infectés",
+        "Elimina gli infetti",
+        "Die Infizierten beseitigen",
+        "Deshazte de los infectados",
+        "Устраните заражённых",
+        "Wyeliminuj zarażonych",
+        "",
+        "",
+        "Elimine os infectados",
+        "감염자들을 처치한다",
+        "消滅感染者",
+        "消灭感染者",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اقض على المَعدُوّين",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Elimina a los infectados"
+      ]
+    },
+    {
+      "name": "Ob_410_010_060_030",
+      "guid": "771b47b8-8fd2-4d92-a5e1-6b76b150c32c",
+      "soundId": 1439408078,
+      "hash": 1311478066,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "リペアキットを探す",
+        "Search for a repair kit",
+        "Trouver un kit de réparation",
+        "Cerca un kit per riparazioni",
+        "Einen Reparatursatz finden",
+        "Busca un kit de reparación",
+        "Найдите ремкомплект",
+        "Poszukaj zestawu naprawczego",
+        "",
+        "",
+        "Procure um kit de reparos",
+        "수리 키트를 찾는다",
+        "尋找修理工具箱",
+        "寻找维修工具箱",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحث عن عدة إصلاح",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca un kit de reparación"
+      ]
+    },
+    {
+      "name": "Ob_410_010_070",
+      "guid": "c7588dfc-bea0-47d9-9cb4-26cda52adac6",
+      "soundId": 681269257,
+      "hash": 2969975181,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゲートを破壊する",
+        "Destroy the gate",
+        "Détruire la porte",
+        "Distruggi il cancello",
+        "Das Tor sprengen",
+        "Destruye la verja",
+        "Разрушьте ворота",
+        "Zniszcz bramę",
+        "",
+        "",
+        "Destrua o portão",
+        "문을 파괴한다",
+        "破壞路障大門",
+        "破坏路障大门",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "دمّر البوابة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye el portón"
+      ]
+    },
+    {
+      "name": "Ob_440_010",
+      "guid": "ffb3e393-f605-45f0-926c-2092d5e43ed6",
+      "soundId": 2069828465,
+      "hash": 1853633838,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレースを探す",
+        "Search for Grace",
+        "Chercher Grace",
+        "Cerca Grace",
+        "Grace finden",
+        "Busca a Grace",
+        "Найдите Грейс",
+        "Poszukaj Grace",
+        "",
+        "",
+        "Encontre Grace",
+        "그레이스를 찾는다",
+        "尋找葛蕾斯",
+        "寻找格蕾丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحث عن غريس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca a Grace"
+      ]
+    },
+    {
+      "name": "Ob_440_010_010",
+      "guid": "6a9a8cc1-10af-478e-9aea-46975717afc1",
+      "soundId": 2148577970,
+      "hash": 2808970429,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "東館１階オフィスに向かう",
+        "Head to the east office",
+        "Se rendre au bureau est",
+        "Vai nell'ufficio dell'ala est",
+        "Zum Büro auf der Ostseite gehen",
+        "Ve a la oficina este",
+        "Идите в восточный офис",
+        "Udaj się do wschodniego biura",
+        "",
+        "",
+        "Vá para o Escritório Leste",
+        "동관 사무실로 향한다",
+        "前往東側辦公室",
+        "前往东侧办公室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهب إلى المكتب الشرقي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve a la oficina este"
+      ]
+    },
+    {
+      "name": "Ob_440_030",
+      "guid": "a42cea94-1190-4f98-9493-3b452f7899c4",
+      "soundId": 943134759,
+      "hash": 3304027498,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレースを追う",
+        "Head after Grace",
+        "Suivre Grace",
+        "Segui Grace",
+        "Grace folgen",
+        "Sigue a Grace",
+        "Идите за Грейс",
+        "Idź za Grace",
+        "",
+        "",
+        "Vá atrás de Grace",
+        "그레이스를 쫓는다",
+        "追上葛蕾斯",
+        "追赶格蕾丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهب خلف غريس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sigue a Grace"
+      ]
+    },
+    {
+      "name": "Ob_440_030_010",
+      "guid": "b822dbd7-8d10-4864-a69a-dbc002519613",
+      "soundId": 3635979446,
+      "hash": 2751034254,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "R.P.D.を脱出する",
+        "Escape R.P.D.",
+        "S'échapper du commissariat",
+        "Fuggi dall'R.P.D.",
+        "Aus dem R.P.D. entkommen",
+        "Escapa de la R.P.D.",
+        "Выберитесь из полицейского участка",
+        "Ucieknij z R.P.D.",
+        "",
+        "",
+        "Fuja do R.P.D.",
+        "R.P.D.에서 탈출한다",
+        "逃離拉昆市警局",
+        "逃离警察局",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهرب من .R.P.D",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escapa del R.P.D."
+      ]
+    },
+    {
+      "name": "Ob_440_030_020",
+      "guid": "8d867325-8680-4d9f-abaf-26d62fe2ec11",
+      "soundId": 861437643,
+      "hash": 2314252368,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "孤児院へ向かう",
+        "Head to the orphanage",
+        "Se rendre à l'orphelinat",
+        "Vai all'orfanotrofio",
+        "Zum Waisenhaus gehen",
+        "Ve al orfanato",
+        "Направляйтесь в приют",
+        "Udaj się do sierocińca",
+        "",
+        "",
+        "Vá para o Orfanato",
+        "고아원으로 간다",
+        "前往孤兒院",
+        "前往孤儿院",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهب إلى الميتم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve al orfanato"
+      ]
+    },
+    {
+      "name": "Ob_445_010",
+      "guid": "03f55d10-bb2b-44ce-bb88-28ac4abc095b",
+      "soundId": 689766823,
+      "hash": 3181385854,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "孤児院の様子を探る",
+        "Look around the orphanage",
+        "Aller voir ce qui se passe",
+        "Esplora l'orfanotrofio",
+        "Nachsehen, was draußen los ist",
+        "Explora el orfanato",
+        "Осмотритесь в приюте",
+        "Rozejrzyj się po sierocińcu",
+        "",
+        "",
+        "Explore o orfanato",
+        "고아원의 상황을 살펴본다",
+        "在孤兒院四處觀察",
+        "查看孤儿院内的情况",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحثي في أرجاء الميتم",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Explora el orfanato"
+      ]
+    },
+    {
+      "name": "Ob_445_020",
+      "guid": "e2f2e1ba-8ba2-4076-8bfe-ae4eba02c00c",
+      "soundId": 2321295268,
+      "hash": 4262983263,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "子供たちから逃げ延びる",
+        "Hide from the children",
+        "Échapper aux autres enfants",
+        "Nasconditi dalle bambine",
+        "Vor den Kindern verstecken",
+        "Escóndete de las niñas",
+        "Спрячьтесь от детей",
+        "Ukryj się przed dziećmi",
+        "",
+        "",
+        "Se esconda das crianças",
+        "아이들을 피해 숨는다",
+        "躲避奇怪孩童",
+        "躲避奇怪的孩子",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اختبئي من الأطفال",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escóndete de las niñas"
+      ]
+    },
+    {
+      "name": "Ob_440_030_050",
+      "guid": "454ec134-2611-43e0-9804-2c4ac07ab4c4",
+      "soundId": 2880305785,
+      "hash": 3265534025,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "巨大植物を倒す",
+        "Defeat the giant plant",
+        "Vaincre la plante géante",
+        "Sconfiggi la pianta gigante",
+        "Die Riesenpflanze besiegen",
+        "Elimina a la planta gigante",
+        "Одолейте огромное растение",
+        "Pokonaj roślinę-giganta",
+        "",
+        "",
+        "Derrote a planta gigante",
+        "거대 식물을 처치한다",
+        "擊敗巨大植物",
+        "打倒巨大植物",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهزم النبات العملاق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Derrota a la planta gigante"
+      ]
+    },
+    {
+      "name": "Ob_440_030_060",
+      "guid": "99c5c677-33f5-4357-a3aa-d9757598adff",
+      "soundId": 420459922,
+      "hash": 263025183,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "特殊部隊を排除する",
+        "Eliminate the elite guards",
+        "Éliminer les gardes d'élite",
+        "Elimina l'unità speciale",
+        "Die Elitetruppe ausschalten",
+        "Elimina a los guardias de élite",
+        "Устраните элитных охранников",
+        "Wyeliminuj elitarną straż",
+        "",
+        "",
+        "Elimine os guardas de elite",
+        "엘리트 가드를 처치한다",
+        "消滅菁英衛兵",
+        "消灭精英卫队",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اقض على حرس النخبة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Elimina a los guardias de élite"
+      ]
+    },
+    {
+      "name": "Ob_440_030_070",
+      "guid": "06cea4f1-c633-431c-9928-123d7d86f444",
+      "soundId": 2304415221,
+      "hash": 1854718416,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "？？？を排除する",
+        "Eliminate the commander",
+        "Éliminer le commandant",
+        "Elimina il comandante",
+        "Den Kommandanten ausschalten",
+        "Elimina al comandante",
+        "Устраните командира",
+        "Wyeliminuj dowódcę",
+        "",
+        "",
+        "Elimine o comandante",
+        "지휘관을 처치한다",
+        "消滅指揮官",
+        "消灭精英卫队指挥官",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قم بتصفية القائد",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Elimina al comandante"
+      ]
+    },
+    {
+      "name": "Ob_502_010",
+      "guid": "2c4728fa-7489-4a13-8ccc-c6c821a924a5",
+      "soundId": 1773182254,
+      "hash": 543300398,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エルピスを破壊する",
+        "Destroy Elpis",
+        "Détruire Elpis",
+        "Distruggi Elpis",
+        "Elpis zerstören",
+        "Destruye el Elpis",
+        "Уничтожьте Элпис",
+        "Zniszcz Elpis",
+        "",
+        "",
+        "Destrua Elpis",
+        "엘피스를 파괴한다",
+        "破壞厄爾庇斯",
+        "摧毁厄尔庇斯",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عليك تدمير إلبيس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye Elpis"
+      ]
+    },
+    {
+      "name": "Ob_502_010_010",
+      "guid": "0c26ba10-fdfa-4808-a38f-e079dfd3a20d",
+      "soundId": 3370439391,
+      "hash": 3059336188,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "廃棄場からの脱出方法を探す",
+        "Find a way out of the dump",
+        "Trouver comment sortir de la décharge",
+        "Scappa dalla discarica",
+        "Aus der Müllhalde entkommen",
+        "Sal de la zona de desechos",
+        "Найдите выход со свалки",
+        "Znajdź wyjście z wysypiska",
+        "",
+        "",
+        "Ache a saída do Depósito de Resíduos",
+        "폐기장에서 나가는 길을 찾는다",
+        "尋找離開廢棄場的方法",
+        "寻找逃离废弃场的方法",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على مخرج من مكب النفايات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sal del vertedero"
+      ]
+    },
+    {
+      "name": "Ob_502_010_015",
+      "guid": "61a1398f-1a98-4bcd-ac51-602ce7711f33",
+      "soundId": 1416841142,
+      "hash": 2917361009,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオンを脱出させる",
+        "Help Leon escape",
+        "Aider Leon à s'échapper",
+        "Aiuta Leon a fuggire",
+        "Den Weg für Leon freimachen",
+        "Ayuda a Leon a escapar",
+        "Помогите Леону спастись",
+        "Pomóż Leonowi uciec",
+        "",
+        "",
+        "Ajude Leon a fugir",
+        "레온의 탈출을 돕는다",
+        "幫助里昂逃脫",
+        "帮助里昂逃脱",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ساعدي ليون على الهروب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ayuda a Leon a escapar"
+      ]
+    },
+    {
+      "name": "Ob_502_010_015_010",
+      "guid": "18d966b4-7959-4c8e-a183-f15bfdd3f4f7",
+      "soundId": 1612509097,
+      "hash": 3568605377,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ブートキーを探す",
+        "Search for the override key",
+        "Chercher la clé de secours",
+        "Cerca la chiave di sblocco",
+        "Den Aktivierungsschlüssel finden",
+        "Busca la llave maestra",
+        "Найдите ключ отмены протоколов",
+        "Znajdź klucz sterowania ręcznego",
+        "",
+        "",
+        "Procure a chave de desativação",
+        "해제 키를 찾는다",
+        "尋找應急鑰匙",
+        "寻找超控钥匙",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحثي عن مفتاح المرور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca la llave de reinicio"
+      ]
+    },
+    {
+      "name": "Ob_502_010_020",
+      "guid": "140aba7b-d87f-4945-9f5c-586ebf49a226",
+      "soundId": 3551032838,
+      "hash": 3105698584,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "中央精製システムへ向かう",
+        "Head to the central refining system",
+        "Aller au système de raffinage central",
+        "Vai al sistema di raffinazione centrale",
+        "Zur zentralen Raffinerie gehen",
+        "Ve a la refinería central",
+        "Идите к центральной системе очистки",
+        "Idź do centralnego systemu oczyszczania",
+        "",
+        "",
+        "Vá para o Sistema Central de Refino",
+        "중앙 정제 시스템으로 간다",
+        "前往中央精製系統",
+        "前往中央精炼系统",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عليك بالذهاب إلى نظام التكرير المركزي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve a la refinería central"
+      ]
+    },
+    {
+      "name": "Ob_502_010_020_010",
+      "guid": "083a0c2f-7f14-41dd-91ec-2510dd341288",
+      "soundId": 1775792071,
+      "hash": 581264115,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "扉を開ける方法を探す",
+        "Find a way to open the door",
+        "Trouver un moyen d'ouvrir la porte",
+        "Trova il modo di aprire la porta",
+        "Einen Weg finden, die Tür zu öffnen",
+        "Averigua cómo abrir la puerta",
+        "Найдите способ открыть дверь",
+        "Wymyśl, jak otworzyć drzwi",
+        "",
+        "",
+        "Ache um jeito de abrir a porta",
+        "문을 열 방법을 찾는다",
+        "尋找開門的方法",
+        "寻找开门的方法",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على طريقة لفتح الباب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Averigua cómo abrir la puerta"
+      ]
+    },
+    {
+      "name": "Ob_502_010_020_020",
+      "guid": "483abb4b-10ec-4806-be5b-6c0f3543fe1e",
+      "soundId": 202470008,
+      "hash": 606231245,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "中央精製システムへの扉を開ける",
+        "Open the door to the central refining system",
+        "Ouvrir la porte vers le système de raffinage",
+        "Accedi al sistema di raffinazione centrale",
+        "Die Tür zur zentralen Raffinerie öffnen",
+        "Abre la puerta de la refinería central",
+        "Откройте дверь в центральную систему очистки",
+        "Otwórz drzwi centr. syst. oczyszczania",
+        "",
+        "",
+        "Abra a porta do Sistema Central de Refino",
+        "중앙 정제 시스템의 문을 연다",
+        "開啟通往中央精製系統的門",
+        "打开中央精炼系统的大门",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "افتحي باب نظام التكرير المركزي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abre la puerta de la refinería central"
+      ]
+    },
+    {
+      "name": "Ob_502_010_040",
+      "guid": "ac368867-8e79-4f01-94eb-926821caea36",
+      "soundId": 1348056417,
+      "hash": 615591572,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオンのもとに向かう",
+        "Go to Leon",
+        "Rejoindre Leon",
+        "Vai da Leon",
+        "Zu Leon gehen",
+        "Ve con Leon",
+        "Идите к Леону",
+        "Idź do Leona",
+        "",
+        "",
+        "Vá até Leon",
+        "레온에게 간다",
+        "與里昂會合",
+        "与里昂会合",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهبي إلى ليون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve a donde está Leon"
+      ]
+    },
+    {
+      "name": "Ob_503_010",
+      "guid": "4fbd52ca-0467-40e0-9b0a-8c5b74f5cf97",
+      "soundId": 1551732773,
+      "hash": 2414676977,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクターを倒す",
+        "Defeat Victor",
+        "Vaincre Victor",
+        "Sconfiggi Victor",
+        "Victor besiegen",
+        "Derrota a Victor",
+        "Одолейте Виктора",
+        "Pokonaj Victora",
+        "",
+        "",
+        "Derrote Victor",
+        "빅터를 처치한다",
+        "擊敗維克多",
+        "打倒维克多",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اهزم فيكتور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Derrota a Victor"
+      ]
+    }
+  ]
+}

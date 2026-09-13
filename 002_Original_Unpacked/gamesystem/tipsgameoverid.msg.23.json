@@ -1,0 +1,7228 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "ja"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "BreathingMouth"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "FacialTime"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "CheckAdjustBreath"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "RecordingDate"
+    },
+    {
+      "ty": 2,
+      "name": "VoiceDataInfo"
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "Glossary"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "StageDirectionEN"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotes"
+    },
+    {
+      "ty": 2,
+      "name": "PerformanceNotesEN"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "mainPriority"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "visible"
+    },
+    {
+      "ty": 0,
+      "name": "displaySlot"
+    },
+    {
+      "ty": 2,
+      "name": "SubtitleDistance"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "speakerID"
+    },
+    {
+      "ty": 2,
+      "name": "speakerName"
+    },
+    {
+      "ty": 2,
+      "name": "CommunicationType"
+    },
+    {
+      "ty": 2,
+      "name": "DevSoundTriggerID"
+    }
+  ],
+  "entries": [
+    {
+      "name": "TipsGameover_0000_Body",
+      "guid": "2aed2c61-4e12-4e3e-8ea6-e59e58ec6718",
+      "soundId": 559237321,
+      "hash": 1476016060,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ショットガンを避けながら、手を振りほどこう。\r\n（<ICON INTERACT>長押し）",
+        "Avoid the shotgun and free yourself.\r\n(Hold <ICON INTERACT>)",
+        "Évitez le fusil et libérez-vous.\r\n(Maintenir <ICON INTERACT>)",
+        "Evita i colpi di fucile e liberati\r\ntenendo premuto <ICON INTERACT>.",
+        "Weichen Sie dem Flintenlauf aus und befreien\r\nSie sich, indem Sie <ICON INTERACT> halten.",
+        "Esquiva los escopetazos y libérate.\r\n(Mantén <ICON INTERACT>)",
+        "Уклоняйтесь от дробовика и освободитесь.\r\n(Зажмите <ICON INTERACT>)",
+        "Unikaj strzałów i uwolnij się.\r\n(Przytrzymaj <ICON INTERACT>)",
+        "",
+        "",
+        "Evite a Espingarda e solte-se.\r\n(Segure <ICON INTERACT>)",
+        "산탄총을 피하고 손을 뺀다.\r\n(<ICON INTERACT>을 길게 누른다)",
+        "避開霰彈槍並掙脫吧。（長按<ICON INTERACT>）",
+        "避开霰弹枪的射击并挣脱吧。\r\n（长按<ICON INTERACT>）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تجنبي البندقية وحرري نفسك.\r\n<RTL>(ضغط مطوّل <ICON INTERACT>)</RTL>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esquiva los escopetazos y libérate.\r\n(Mantén <ICON INTERACT>)"
+      ]
+    },
+    {
+      "name": "TipsGameover_0010_Body",
+      "guid": "751fe1f1-52b2-4c89-af97-c1498e4c3dee",
+      "soundId": 258709407,
+      "hash": 3661369756,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "",
+        "",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "<REF TutorialList_045_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_045_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_045_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0020_Body",
+      "guid": "521a22b9-2410-450c-8130-633cd4516a35",
+      "soundId": 2511755183,
+      "hash": 3731216545,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ライターをつけていると\r\nThe Girlから見つかりやすくなる。",
+        "The lighter helps you see, but will also\r\nmake it easier for the Girl to spot you.",
+        "Le briquet vous aide à voir, mais il permet\r\négalement à la Fille de vous repérer plus\r\nfacilement.",
+        "L'accendino è utile per vedere meglio, ma può\r\nrivelare la tua posizione alla Bambina.",
+        "Mit dem Feuerzeug sehen Sie mehr,\r\nmachen aber auch die Kreatur auf\r\nsich aufmerksam.",
+        "El mechero te permite ver el entorno, pero\r\ntambién facilita que la Niña te detecte.",
+        "Зажигалка помогает видеть в темноте,\r\nно с ней Девочка вас может заметить.",
+        "Zapalniczka oświetli otoczenie, ale także\r\nułatwi Dziewczynce wypatrzenie ciebie.",
+        "",
+        "",
+        "O isqueiro ajuda a enxergar, mas também\r\nfacilita ser vista pela Garota.",
+        "밝을수록 앞을 잘 볼 수 있지만,\r\n더 걸에게 쉽게 발각될 수 있다.",
+        "打火機有助於看清四周，但也會讓「女孩」容易\r\n發現妳。",
+        "使用打火机能够照明，\r\n但也更容易被“女孩”发现。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "القداحة تساعدك على الرؤية، ولكنها\r\nأيضًا تُسهل على الفتاة أن ترصدك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El encendedor te permite ver mejor, pero\r\ntambién ayuda a que la Niña te detecte."
+      ]
+    },
+    {
+      "name": "TipsGameover_0050_Body",
+      "guid": "07a60cd3-ae81-4ec1-aab4-3bbd4aedf415",
+      "soundId": 1595668217,
+      "hash": 2696064631,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ブルドーザーに轢かれる前に\r\n運転手の操縦を止めよう。",
+        "Stop the bulldozer driver before\r\nyou become a pancake.",
+        "Stoppez le conducteur du bulldozer\r\navant qu'il ne vous aplatisse.",
+        "Ferma il conducente del bulldozer prima\r\nche ti riduca in poltiglia.",
+        "Erledigen Sie den Planierraupenfahrer,\r\nbevor Sie überrollt werden.",
+        "Detén al conductor de la excavadora antes\r\nde que te haga papilla.",
+        "Остановите бульдозер, пока\r\nон вас не переехал.",
+        "Powstrzymaj kierowcę buldożera, zanim\r\nsprasuje cię na naleśnik.",
+        "",
+        "",
+        "Pare o operador do trator antes\r\nque você vire uma panqueca.",
+        "깔리기 전에 불도저 기사를 막자.",
+        "被壓扁之前盡快阻止推土機駕駛員吧。",
+        "在被推土机压扁之前，解决驾驶员吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوقف سائق الجرافة قبل أن تيتم طحنك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Detén al conductor de la topadora antes\r\nde que te deje como un panqueque."
+      ]
+    },
+    {
+      "name": "TipsGameover_0060_Body",
+      "guid": "e6f41645-84cd-481d-923f-9aeb271e33a0",
+      "soundId": 1832020882,
+      "hash": 3762513344,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ブルドーザーに轢かれる前に\r\nファンを破壊しよう。",
+        "Destroy the bulldozer fan before\r\nyou get run over.",
+        "Détruisez le ventilateur du bulldozer\r\navant qu'il ne vous roule dessus.",
+        "Distruggi la ventola del bulldozer\r\nprima che ti travolga.",
+        "Zerstören Sie die Lüftung der Planierraupe,\r\nbevor Sie überrollt werden.",
+        "Destruye el ventilador de la excavadora antes\r\nde que te arrolle.",
+        "Уничтожьте вентилятор бульдозера,\r\nпока он вас не переехал.",
+        "Zniszcz wentylator, zanim\r\nbuldożer cię rozjedzie.",
+        "",
+        "",
+        "Destrua o ventilador do trator antes\r\nque o trator passe por cima de você.",
+        "치이기 전에 불도저 팬을 파괴하자.",
+        "被輾過之前盡快破壞推土機風扇吧。",
+        "在被推土机碾压前，破坏其风扇吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "دمّر مروحة الجرافة قبل أن تتعرض للدهس.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye el ventilador de la topadora\r\nantes de que te atropelle."
+      ]
+    },
+    {
+      "name": "TipsGameover_0080_Body",
+      "guid": "62183adc-91b9-4e45-84c1-0c9b3ef287d3",
+      "soundId": 3388241290,
+      "hash": 1841271402,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エミリーは詰所のソファーで待たせることができる。\r\nゾンビが邪魔なら先に排除しておくのもよい。",
+        "If zombies are putting Emily in danger, set\r\nher down safely on the sofa in the guard\r\noffice while you go and clear them out.",
+        "Si des zombies mettent Emily en danger,\r\ninstallez-la sur le canapé du bureau du\r\ngardien le temps de les éliminer.",
+        "Se gli zombi mettono Emily in pericolo,\r\nlasciala al sicuro sul divano nell'ufficio\r\nsorveglianza, mentre ti occupi di eliminarli.",
+        "Wenn Emily Gefahr durch Zombies droht,\r\nlassen Sie sie auf dem Sofa im Pförtnerbüro\r\nzurück, während Sie sich um die Zombies\r\nkümmern.",
+        "Si los zombis suponen un riesgo para Emily,\r\ndéjala a salvo en el sofá, en la oficina del\r\nguardia, mientras vas a encargarte de ellos.",
+        "Если зомби угрожают Эмили, лучше\r\nоставить её на диване в кабинете\r\nохраны и сначала расправиться с врагами.",
+        "Jeśli zombie zagrażają Emily, posadź ją\r\nbezpiecznie na sofie w biurze ochrony,\r\na potem pozbądź się ich.",
+        "",
+        "",
+        "Se os zumbis colocarem a Emily em risco,\r\né melhor deixá-la em segurança no sofá\r\nna Sala do Vigia antes de eliminá-los.",
+        "좀비 때문에 에밀리가 위험하다면 \r\n에밀리를 우선 경비 사무실 소파에 내려놓고\r\n좀비를 먼저 처리하자.",
+        "喪屍會危害到艾蜜莉。先將她放在警衛辦公室的\r\n沙發上，再去除掉喪屍吧。",
+        "若丧尸会对艾米莉造成威胁，可以先把她安置\r\n在警卫室的沙发上等待，然后独自清理丧尸。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا شكّل الزومبي خطرًا على إميلي،\r\nفضعها على الأريكة في مكتب الحارس\r\nواذهب لتصفيتهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si los zombis ponen a Emily en peligro,\r\ndéjala a salvo en el sofá en la oficina\r\ndel guardia mientras vas y los eliminas."
+      ]
+    },
+    {
+      "name": "TipsGameover_0090_Body",
+      "guid": "0ec9ad1b-4ef2-4032-9f05-02aa8755b594",
+      "soundId": 852379895,
+      "hash": 2391955280,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "The Girlを倒すことはできないが火炎瓶やレクイエムで\r\n一時的にひるませることはできる。",
+        "You may not be able to take down the Girl,\r\nbut a good shot with a Molotov Cocktail\r\nor Requiem will briefly stagger her.",
+        "Vous n'arriverez peut-être pas à éliminer\r\nla Fille, mais un cocktail Molotov ou un tir\r\nde Requiem peut la déstabiliser.",
+        "Non è possibile sconfiggere la Bambina,\r\nma una Molotov o un colpo di Requiem\r\npossono stordirla brevemente.",
+        "Sie werden das Mädchen nicht töten können,\r\naber ein Molotowcocktail oder ein Schuss aus\r\nder Requiem bringen es kurzzeitig zum Stehen.",
+        "Aunque no puedas derrotar a la Niña, un\r\nbuen cóctel molotov o un disparo certero del\r\nRequiem pueden aturdirla brevemente.",
+        "У вас, вероятно, не получится убить Девочку,\r\nно коктейлем Молотова или выстрелом\r\nиз «Реквиема» её можно ненадолго оглушить.",
+        "Może nie uda ci się zlikwidować Dziewczynki,\r\nale porządny koktajl Mołotowa albo strzał\r\nz Requiem na chwilę nią wstrząsną.",
+        "",
+        "",
+        "Talvez você não consiga derrotar a Garota,\r\nmas um coquetel molotov ou um tiro da Requiem\r\nvai deixá-la atordoada por um tempo.",
+        "더 걸을 해치우는 것은 불가능하지만\r\n화염병이나 레퀴엠으로 잠시\r\n비틀거리게 할 수 있다.",
+        "「女孩」雖然無法被擊倒，不過使用\r\n汽油彈或安魂曲可暫時阻止她行動。",
+        "“女孩”无法被打倒，但用燃烧瓶或安魂\r\n攻击可暂时阻止其行动。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قد لا تكون قادرًا على القضاء على الفتاة، ولكن\r\nتسديدة موفقة بزجاجة حارقة أو Requiem ستصيبها\r\nبالترنح لفترة وجيزة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es posible que no puedas derrotar a la Niña,\r\npero un buen disparo con un cóctel Molotov\r\no el Requiem la aturdirá brevemente."
+      ]
+    },
+    {
+      "name": "TipsGameover_0100_Body",
+      "guid": "e1ba163f-45a2-4358-8538-7fa30396cca3",
+      "soundId": 3542122293,
+      "hash": 2495477600,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "敵をひるませて突き飛ばすと、\r\n破砕機に巻き込ませることができる。",
+        "You can force enemies into the crusher\r\nby staggering and pushing them.",
+        "Pour envoyer vos ennemis dans le broyeur,\r\ndéstabilisez-les et poussez-les dedans.",
+        "Stordisci i nemici, poi spingili\r\nverso il trituratore.",
+        "Sie können Gegner ins Taumeln bringen\r\nund dann in den Häcksler stoßen.",
+        "Puedes lanzar a los enemigos a la trituradora\r\naturdiéndolos y, después, empujándolos.",
+        "Оглушайте врагов и толкайте их\r\nв дробилку.",
+        "Możesz wepchnąć wrogów do zgniatarki,\r\nwytrącając ich z równowagi i popychając.",
+        "",
+        "",
+        "Atordoe e empurre os inimigos para eles\r\nserem triturados na prensa.",
+        "적을 비틀거리게 하거나 밀어서\r\n분쇄기에 넣을 수 있다.",
+        "使敵人姿態不穩後，就可將牠們推入絞碎機。",
+        "使敌人姿态不稳后，可将其推入粉碎机。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكنك إقحام الأعداء داخل الفرّامة عن طريق\r\nدفعهم أو جعلهم يترنحون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aturde y empuja a los enemigos para\r\ntirarlos a la trituradora."
+      ]
+    },
+    {
+      "name": "TipsGameover_0110_Body",
+      "guid": "6553cccb-667f-4419-a3f2-d5349840344e",
+      "soundId": 2832277165,
+      "hash": 382153933,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "壁面に設置された破血剤噴射器を上手く使おう。\r\nゾンビに対して有効だ。",
+        "Make good use of the disposal tanks\r\non the walls. They are highly effective\r\nagainst zombies.",
+        "Utilisez les dispositifs d'élimination situés\r\nsur les murs. Ils sont très efficaces contre\r\nles zombies.",
+        "Sfrutta le taniche di smaltimento\r\nsulle pareti: sono molto efficaci\r\ncontro gli zombi.",
+        "Benutzen Sie die mit Beseitigungsmittel\r\ngefüllten Kartuschen an den Wänden.\r\nSie sind sehr effektiv gegen Zombies.",
+        "Sácales partido a los tanques de residuos de\r\nlas paredes. Son muy eficaces contra los\r\nzombis.",
+        "Используйте баллоны для утилизации\r\nна стенах. Они очень эффективны\r\nпротив зомби.",
+        "Rób dobry użytek ze zbiorników utylizacyjnych\r\nna ścianach. Są bardzo skuteczne\r\nprzeciwko zombie.",
+        "",
+        "",
+        "Faça bom proveito dos cilindros de descarte\r\nnas paredes. Eles são extremamente eficazes\r\ncontra zumbis.",
+        "벽에 설치된 폐기액 분사기를 활용하자.\r\n좀비들에게 매우 효과적이다.",
+        "善用牆上的實驗體處理噴劑吧，\r\n用它們對付喪屍非常有效。",
+        "善用墙上的废弃处理喷雾罐吧。\r\n含溶血剂成分，喷射丧尸十分有效。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "استفد جيدًا من المبيدات الحيويةالموجودة على\r\nالجدران، فهي فعالة جدًا ضد الزومبي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aprovecha los tanques de residuos\r\nde las paredes. Son muy eficaces\r\ncontra los zombis."
+      ]
+    },
+    {
+      "name": "TipsGameover_0120_Body",
+      "guid": "fde7221b-50b0-44f3-b92b-076c2dde0399",
+      "soundId": 1206252789,
+      "hash": 2733985607,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "敵の数が多すぎる時は、逃げるのも有効だ。",
+        "Running is a good strategy if you're being\r\noverwhelmed by sheer numbers.",
+        "Quand les ennemis sont trop nombreux,\r\nprenez votre courage à deux mains : fuyez.",
+        "Scappare può salvarti la vita quando\r\ni nemici sono troppo numerosi.",
+        "Es ist keine Schande, die Flucht zu ergreifen,\r\nwenn Ihnen die Gegner zahlenmäßig deutlich\r\nüberlegen sind.",
+        "Salir corriendo es una buena estrategia si te\r\nsuperan en número.",
+        "Если врагов слишком много,\r\nлучшая стратегия — бежать.",
+        "Ucieczka to dobra strategia, jeśli\r\nprzytłacza cię liczba wrogów.",
+        "",
+        "",
+        "Correr é uma boa estratégia quando estiver\r\nem desvantagem numérica.",
+        "수가 너무 많을 때는 도망가는 것도\r\n좋은 전략이다.",
+        "面對大量敵人時走為上策。",
+        "敌人数量过多时，逃跑也是有效手段。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يُعد الركض استراتيجية جيدة\r\nإذا كنت محاصرًا بأعداد كبيرة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Correr es una buena estrategia\r\nsi te superan en número."
+      ]
+    },
+    {
+      "name": "TipsGameover_0130_Body",
+      "guid": "31c24362-d77f-4314-9cbf-6a28fb010f02",
+      "soundId": 2023418927,
+      "hash": 2287601643,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "The Girlを倒すことはできないが火炎瓶やレクイエムで\r\n一時的にひるませることはできる。\r\nため込まずに使っていこう。",
+        "You may not be able to take down the Girl,\r\nbut a good shot with a Molotov Cocktail\r\nor Requiem will briefly stagger her.\r\nDon't be afraid to use them when needed.",
+        "Vous n'arriverez peut-être pas à éliminer\r\nla Fille, mais un cocktail Molotov ou un tir\r\nde Requiem peut la déstabiliser. N'hésitez\r\npas à vous en servir si nécessaire.",
+        "Non è possibile sconfiggere la Bambina,\r\nma una Molotov o un colpo di Requiem\r\npossono stordirla brevemente.\r\nNon esitare a usarli quando serve.",
+        "Sie werden das Mädchen nicht töten können,\r\naber ein Molotowcocktail oder ein Schuss aus\r\nder Requiem bringen es kurzzeitig zum Stehen.",
+        "Aunque no puedas derrotar a la Niña, un\r\nbuen cóctel molotov o un disparo certero del\r\nRequiem pueden aturdirla brevemente.\r\nNo dudes en usarlos cuando sea necesario.",
+        "У вас, вероятно, не получится убить Девочку,\r\nно коктейлем Молотова или выстрелом\r\nиз «Реквиема» её можно ненадолго оглушить.\r\nИспользуйте их, когда потребуется.",
+        "Może nie uda ci się zlikwidować Dziewczynki,\r\nale porządny koktajl Mołotowa albo strzał\r\nz Requiem na chwilę nią wstrząsną.\r\nŚmiało ich używaj w razie potrzeby.",
+        "",
+        "",
+        "Talvez você não consiga derrotar a Garota,\r\nmas um coquetel molotov ou um tiro da Requiem\r\nvai deixá-la atordoada por um tempo.\r\nQuando precisar, não hesite em usá-los.",
+        "더 걸을 해치우는 것은 불가능하지만\r\n화염병이나 레퀴엠을 명중시키면\r\n잠시 비틀거리게 할 수 있다.\r\n위급한 순간엔 망설이지 말고 사용하자.",
+        "「女孩」雖然無法被擊倒，不過使用汽油彈或\r\n安魂曲可暫時阻止她行動。有需要的時候就儘\r\n管用吧。",
+        "“女孩”无法被打倒，但用燃烧瓶或安魂\r\n攻击可暂时阻止其行动。不要吝惜，必\r\n要时尽管使用。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قد لا تكون قادرًا على القضاء على الفتاة، ولكن\r\nتسديدة موفقة بزجاجة حارقة أو Requiem ستصيبها\r\nبالترنح لفترة وجيزة. لا تتردد في استخدامها\r\nعند الحاجة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es posible que no puedas derrotar a la Niña,\r\npero un buen disparo con un cóctel Molotov\r\no el Requiem la aturdirá brevemente.\r\nNo dudes en usarlos cuando sea necesario."
+      ]
+    },
+    {
+      "name": "TipsGameover_0140_Body",
+      "guid": "97487047-0d92-4bce-8494-5cf0d5142e42",
+      "soundId": 3340447048,
+      "hash": 3096857731,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "",
+        "",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "<REF TutorialList_034_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_034_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_034_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0150_Body",
+      "guid": "34535b04-3b07-45bf-abd0-a8400554796e",
+      "soundId": 728925866,
+      "hash": 3689843599,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "皮膚の露出したリッカーβ２には硫酸が効果的だ。",
+        "Acid is highly effective against the exposed\r\ntissue of a Licker β2.",
+        "L'acide est très efficace contre les tissus\r\nexposés d'un Licker β2.",
+        "L'acido è particolarmente efficace\r\ncontro i tessuti esposti del Licker β2.",
+        "Säure ist sehr wirksam gegen das ungeschützte\r\nGewebe eines Licker β2.",
+        "Es ácido es muy eficaz contra el tejido\r\nexpuesto de un licker β2.",
+        "Кислота эффективно разъедает оголённую\r\nплоть лизуна β2.",
+        "Kwas jest bardzo skuteczny w zetknięciu\r\nz odsłoniętymi tkankami Lizacza β2.",
+        "",
+        "",
+        "O ácido é extremamente eficaz\r\ncontra o tecido de um Carnífice β2.",
+        "산성 용액은 릭커 β2의 노출된\r\n피부에 매우 효과적이다.",
+        "硫酸能有效破壞利卡 β2 外露的肌肉組織。",
+        "对付身体组织暴露在外的舔食者β2，\r\n硫酸效果极佳。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يتمتع الحمض بفاعلية كبرى\r\nضد البشرة المكشوفة للمسخ لاعق β2.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El ácido es muy eficaz contra el tejido\r\nexpuesto de un licker β2."
+      ]
+    },
+    {
+      "name": "TipsGameover_0170_Body",
+      "guid": "40beb79c-d0ad-4866-b4f1-8cefb997007e",
+      "soundId": 1285313531,
+      "hash": 1993877011,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "高所にいる間、チャンクに対して\r\n一方的に攻撃することができる。\r\n登れそうな場所を探してみよう。",
+        "Try to find a place to climb up so you can\r\nunleash a one-sided attack on the Chunk\r\nfrom an elevated position.",
+        "Cherchez un moyen de prendre de\r\nla hauteur pour attaquer le Chunk\r\nsans qu'il ne puisse vous atteindre.",
+        "Cerca un punto sopraelevato da cui\r\nsferrare un attacco a sorpresa contro\r\nil Chunk in tutta sicurezza.",
+        "Suchen Sie eine Möglichkeit, in die Höhe zu\r\nklettern, um den Chunk gefahrlos von oben\r\nanzugreifen.",
+        "Intenta encontrar un sitio al que trepar para\r\natacar al Chunk desde una posición elevada\r\nsin riesgo de sufrir represalias.",
+        "Попытайтесь забраться повыше,\r\nчтобы атаковать чанка и избежать\r\nответного удара.",
+        "Spróbuj znaleźć miejsce, by się wspiąć\r\ni zaatakować Chunka od góry.",
+        "",
+        "",
+        "Ache um lugar para subir e ficar em uma\r\nposição elevada, para ter uma vantagem\r\ntática ao atacar Chunk.",
+        "올라갈 수 있는 높은 곳을 찾아\r\n일방적으로 청크를 공격하자.",
+        "爬到高處就能對肥壯喪屍展開單方面攻擊。",
+        "处于高处时，可单方面攻击肥硕丧尸。\r\n寻找可攀爬的位置吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حاول العثور على مكان للتسلق حتى تتمكن من شن\r\nهجوم أحادي الجانب على الكومة من مكان مُرتفع.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca un lugar al que trepar para atacar\r\nal Chunk desde una posición elevada\r\nsin correr riesgos."
+      ]
+    },
+    {
+      "name": "TipsGameover_0200_Body",
+      "guid": "ceb79ece-5b11-4213-a755-0a1fd0bb9511",
+      "soundId": 4023659670,
+      "hash": 2115709094,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "",
+        "",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "<REF TutorialList_031_Description_00>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_031_Description_00>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_031_Description_00>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0220_Body",
+      "guid": "82d2bfe5-f041-4c64-ab0c-d870e1cd71cd",
+      "soundId": 2326151272,
+      "hash": 105444086,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "チェーンソーを持った敵には\r\nチェーンソーで対抗しよう。",
+        "Try fighting a chainsaw with a chainsaw.",
+        "Face à une tronçonneuse, rien ne vaut\r\nune autre tronçonneuse.",
+        "Rispondi a una motosega con un'altra motosega.",
+        "Gegen Kettensägen hilft eine Kettensäge.",
+        "Intenta neutralizar una motosierra con otra.",
+        "Устраняйте врагов с бензопилами их же оружием.",
+        "Piłę łańcuchową spróbuj zwalczyć drugą piłą.",
+        "",
+        "",
+        "Tente enfrentar um inimigo com uma\r\nMotosserra, usando outra Motosserra.",
+        "전기톱을 든 적에겐\r\n전기톱으로 맞서 싸우자.",
+        "面對手持電鋸的敵人就用電鋸對抗吧。",
+        "面对持电锯的敌人，就用电锯反制吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جرّب مواجهة المنشار بالمنشار.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Intenta neutralizar una motosierra con otra."
+      ]
+    },
+    {
+      "name": "TipsGameover_0230_Body",
+      "guid": "15cc558b-21b1-402c-877f-e7a3d8a281ac",
+      "soundId": 1930624534,
+      "hash": 2963220072,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "",
+        "",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "<REF TutorialList_056_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_056_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_056_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0260_Body",
+      "guid": "1f5fcd6a-8faa-48c0-af05-7d940f0e1b84",
+      "soundId": 2009110728,
+      "hash": 543985237,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "敵の足元のガラスを撃つことで、\r\n敵を落下させることができる。",
+        "Shooting the glass out from under an enemy\r\nwill cause them to fall.",
+        "Tirez sur la vitre sous les pieds d'un ennemi\r\npour le faire chuter dans le vide.",
+        "Colpisci il vetro al di sotto del nemico\r\nper farlo precipitare.",
+        "Wenn Sie auf das Glas schießen, auf dem ein\r\nGegner steht, stürzt er in die Tiefe.",
+        "Si disparas al cristal bajo los pies de un\r\nenemigo, harás que se precipite al vacío.",
+        "Стреляйте в стекло под ногами врага,\r\nчтобы он упал.",
+        "Przestrzelenie szkła pod wrogiem\r\nsprawi, że spadnie.",
+        "",
+        "",
+        "Atirar no vidro em que um inimigo está pisando\r\nfará com que o vidro se quebre e ele caia.",
+        "적 발밑의 유리를 쏘면\r\n추락시킬 수 있다.",
+        "射擊敵人腳下的玻璃可使對方墜落。",
+        "击碎敌人脚下的玻璃，可使其坠落。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيتسبب إطلاق النار على الزجاج\r\nأسفل الأعداء في سقوطهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si le disparas al vidrio que está debajo\r\nde un enemigo, este se caerá al vacío."
+      ]
+    },
+    {
+      "name": "TipsGameover_0280_Body",
+      "guid": "3c961416-9acc-4f4b-97c8-6b3e91b54545",
+      "soundId": 1749916831,
+      "hash": 1445764320,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "",
+        "",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "<REF TutorialList_058_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_058_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_058_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0300_Body",
+      "guid": "29515fcc-5c3f-4a53-bea3-6c7b73331472",
+      "soundId": 3546207601,
+      "hash": 2935112790,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "",
+        "",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "<REF TutorialList_032_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_032_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_032_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0310_Body",
+      "guid": "4a23156a-3cd4-439c-89ea-4033bbda65dd",
+      "soundId": 574824626,
+      "hash": 1737454277,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "",
+        "",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "<REF TutorialList_033_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_033_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_033_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0320_Body",
+      "guid": "a9e29e20-c117-4c41-8606-e165256a6a03",
+      "soundId": 50856069,
+      "hash": 1824113223,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "敵の攻撃をパリィすることで隙が生まれる。\r\n隙を逃さず追撃しよう。",
+        "You can make an opening by parrying an\r\nenemy's attack. Use this opening to take\r\nanother shot.",
+        "Créez-vous une ouverture en parant\r\nl'attaque d'un ennemi, puis profitez-en\r\npour passer à l'offensive.",
+        "Una parata ben riuscita contro i nemici\r\ncrea un'apertura: approfittane subito\r\nper contrattaccare.",
+        "Durch Parieren von Angriffen schaffen Sie\r\nGelegenheiten für einen Gegenangriff.",
+        "Desviar un ataque deja al enemigo en una\r\nposición vulnerable. Aprovecha ese\r\nmomento para efectuar otro disparo.",
+        "Парируя вражескую атаку, вы можете\r\nполучить возможность нанести\r\nответный удар.",
+        "Możesz stworzyć wyrwę, parując cios wroga.\r\nSkorzystaj z tej wyrwy, aby oddać\r\nkolejny strzał.",
+        "",
+        "",
+        "Crie uma brecha ao aparar o ataque\r\nde um inimigo. Aproveite para atirar\r\nlogo em seguida.",
+        "적의 공격을 패리하면 빈틈을\r\n만들 수 있다. 이 빈틈을 활용해\r\n한 발 더 쏴보자.",
+        "招架敵人攻擊可使他們露出破綻，此時就可\r\n趁機追擊。",
+        "招架敌人攻击可创造破绽。\r\n尝试抓住机会进行追击。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكنك خلق فرصة من خلال التصدي\r\nلإحدى هجمات الأعداء. واستخدم الفرصة\r\nلإطلاق رصاصة أخرى.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Desvía un ataque enemigo para generar\r\nuna oportunidad de atacar. Aprovecha\r\nel momento para volver a disparar."
+      ]
+    },
+    {
+      "name": "TipsGameover_0330_Body",
+      "guid": "7ea73e89-2e3a-41c6-8e3a-0757249ca734",
+      "soundId": 1679012987,
+      "hash": 1340762291,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクターが繰り出す触手をまともに受けるのは\r\n非常に危険だ。パリィを駆使して受け流そう。",
+        "Victor's attacks are devastating\r\nat full force. Use parries to deflect\r\nhis tentacle arm.",
+        "À pleine puissance, les attaques de Victor\r\nsont dévastatrices. Effectuez des parades\r\npour dévier son bras tentaculaire.",
+        "Gli attacchi del braccio tentacolare\r\ndi Victor sono devastanti. Usa le\r\nparate per deviarli.",
+        "Victors Tentakelarm kann verheerenden Schaden\r\nanrichten. Parieren Sie ihn.",
+        "Se te alcanzan de lleno, los ataques de\r\nVictor son devastadores. Intenta protegerte\r\ndesviando su brazo tentáculo.",
+        "Виктор может нанести огромный урон,\r\nатакуя мутировавшей в щупальце рукой.\r\nПостарайтесь парировать такие удары.",
+        "Starcie z pełną mocą macek Victora\r\nzmiażdży cię. Paruj ciosy, by ich unikać.",
+        "",
+        "",
+        "Deixar o tentáculo de Victor atingir\r\nvocê em cheio será devastador.\r\nApare para desviá-los.",
+        "빅터의 촉수를 정통으로 맞으면 매우\r\n치명적이다. 패리를 사용해 맞받아치자.",
+        "維克多的觸手攻擊威力驚人。利用招架來化解吧。",
+        "正面承受维克多的触手攻击极为危险。\r\n巧用招架，将其化解吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يُعد ضرر ضربة قوية من مجسّات فيكتور مدمرًا\r\nاستخدم حركات التصدي لتجنبها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Los ataques de Victor son devastadores\r\nsi recibes todo el impacto. Usa desvíos\r\npara repeler su brazo tentáculo."
+      ]
+    },
+    {
+      "name": "TipsGameover_0340_Body",
+      "guid": "ca17a538-b922-4ddd-9551-d6c2cfc13819",
+      "soundId": 3111301539,
+      "hash": 3352151811,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_061_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0350_Body",
+      "guid": "771a383e-3e35-46b0-b0f8-1f8c20f70f9d",
+      "soundId": 3649157089,
+      "hash": 1940642480,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "",
+        "",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "<REF TutorialList_062_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_062_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_062_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0360_Body",
+      "guid": "5cb687f0-c678-4b6e-82ad-b8699bdadc23",
+      "soundId": 348102774,
+      "hash": 3935405123,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "タイタンスピナーに接近されると\r\n大ダメージを受けてしまう。\r\nできるだけ距離を取りつつ戦おう。",
+        "If you get too close to the Titan Spinner,\r\nyou'll take some serious damage. Keep as\r\nmuch distance as possible when attacking.",
+        "Si vous êtes trop près de la Titan Spinner,\r\nvous risquez de subir d'importants dégâts.\r\nGardez vos distances lorsque vous l'attaquez.",
+        "Avvicinarsi troppo al Titan Spinner\r\npuò causare danni ingenti. Mantieni\r\nle distanze durante l'attacco.",
+        "Wenn Sie dem Titan Spinner zu nahe kommen,\r\nerleiden Sie enormen Schaden. Halten Sie beim\r\nAngreifen möglichst großen Abstand.",
+        "Si te acercas demasiado a la Tarántula Titán,\r\nsufrirás un daño considerable. Mantente lo\r\nmás lejos posible mientras atacas.",
+        "Если подойти к титановому прядильщику\r\nслишком близко, можно получить серьёзный\r\nурон. Атакуйте его издалека.",
+        "Jeśli zanadto się zbliżysz do Tytanopająka,\r\nodniesiesz mocne obrażenia. Atakując,\r\ntrzymaj się na dystans, jak tylko możesz.",
+        "",
+        "",
+        "Se você chegar muito perto da Aranha Titã,\r\npoderá sofrer danos devastadores. Tente ficar\r\no mais longe possível ao atacar.",
+        "타이탄 스피너에게 너무 가까이 가면\r\n심각한 대미지를 입는다. 가능한 한\r\n먼 거리를 유지하며 공격하자.",
+        "如果太靠近泰坦巨蛛，就會受到巨大傷害。\r\n攻擊時記得盡量保持距離。",
+        "被泰坦巨蛛接近，会遭受巨大伤害。\r\n作战时应尽量保持距离。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا اقتربت بشدة من النسّاج العملاق\r\nفستتلقى ضررًا كبيرًا. ابقَ على أبعد\r\nمسافة ممكنة عند شن هجوم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si te acercas demasiado a una Tejedora\r\nTitánica, recibirás un daño considerable.\r\nMantente lo más lejos posible al atacar."
+      ]
+    },
+    {
+      "name": "TipsGameover_0370_Body",
+      "guid": "c6a52d5d-f673-4334-aba3-f4c369c48b14",
+      "soundId": 1341950494,
+      "hash": 3369317317,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "",
+        "",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "<REF TutorialList_060_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_060_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_060_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0390_Body",
+      "guid": "ea7eaba8-c97a-404f-b0ba-abc38697e3da",
+      "soundId": 4042995605,
+      "hash": 3337556193,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "",
+        "",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "<REF TutorialList_024_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_024_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_024_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0400_Body",
+      "guid": "cb9853b3-89f1-4168-b847-5bcca1a42bc2",
+      "soundId": 3785151673,
+      "hash": 3411713607,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "",
+        "",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "<REF TutorialList_052_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_052_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_052_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0410_Body",
+      "guid": "5f6777f4-ddb9-446c-8429-5b62da1d1d5b",
+      "soundId": 3469495727,
+      "hash": 371772347,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "",
+        "",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "<REF TutorialList_069_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_069_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_069_Description>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0420_Body",
+      "guid": "1547766d-0f8d-4206-b7c2-683f3e71a8c7",
+      "soundId": 2907699848,
+      "hash": 4237689640,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "赤く光るポッドは、ガラスを撃つことで\r\nB.O.W.を開放できる。特殊部隊を攪乱させれば\r\n攻撃するチャンスが生まれる。",
+        "Shoot the glass of the glowing red pod\r\nto release the bioweapon within.\r\nUse it to disrupt the elite guards,\r\ngiving you the chance to attack.",
+        "Tirez sur la vitre de la capsule rougeoyante\r\npour libérer l'arme biologique à l'intérieur.\r\nVous pourrez alors l'utiliser pour perturber\r\nles gardes d'élite et profiter de la confusion\r\npour les attaquer.",
+        "Spara alle capsule con luci rosse\r\nlampeggianti per liberare le armi biologiche\r\nal loro interno. Usale per destabilizzare\r\ni nemici e avere l'opportunità di attaccarli.",
+        "Zerschießen Sie das Glas der rot leuchtenden\r\nKapsel, um die Biowaffe darin freizulassen.\r\nSie lenkt die Soldaten ab und verschafft\r\nIhnen so eine Gelegenheit zum Angriff.",
+        "Si disparas al vidrio de la cápsula con\r\nbrillo rojo, liberarás el arma biológica\r\nque contiene. Aprovéchalo para causar\r\nproblemas a los guardias de élite y\r\ndarte una oportunidad para atacar.",
+        "Стреляйте по стеклу светящихся красных\r\nконтейнеров, чтобы высвободить из них\r\nбиооружие. Это дезориентирует элитных\r\nохранников и даст вам шанс атаковать их.",
+        "Strzelaj do szkła świecącej czerwonej kapsuły,\r\nby uwolnić z niej Mutanty. Użyj ich,\r\naby rozproszyć elitarną straż\r\ni zyskać szansę ataku.",
+        "",
+        "",
+        "Atire na cápsula de luz vermelha piscante\r\npara liberar a arma biológica. Use-a\r\npara distrair os guardas de elite e então\r\naproveite a brecha para atacar.",
+        "불빛이 빨갛게 빛나는 포드를 쏘면\r\n그 안의 B.O.W.가 풀려난다.\r\nB.O.W.로 엘리트 가드를 교란하고,\r\n공격 기회를 만들자.",
+        "射擊亮著紅燈的生物武器艙可放出其中的\r\n生物武器，利用牠們擾亂其他敵人，製造\r\n攻擊機會吧。",
+        "射击亮着红灯的生物武器舱玻璃，可释放\r\n其中的生物武器，用以扰乱精英卫队士兵\r\n并创造攻击机会。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أطلق النار على الكبسولات ذات المصابيح الحمراء\r\nالوامضة لتطلق الأسلحة البيولوجية بداخلها.\r\nاستخدمها لإرباك الأعداء الآخرين،\r\nما يمنحك الفرصة للهجوم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si disparas al vidrio de la cápsula con\r\nbrillo rojo, liberarás el arma biológica\r\nque contiene. Aprovéchalo para causar\r\nproblemas a los guardias de élite y\r\ndarte una oportunidad para atacar."
+      ]
+    },
+    {
+      "name": "TipsGameover_0430_Body",
+      "guid": "f853d4cf-c009-4278-93d3-47e8dc3320f6",
+      "soundId": 1611370640,
+      "hash": 3498007092,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "",
+        "",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "<REF TutorialList_031_Description_01>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_031_Description_01>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_031_Description_01>"
+      ]
+    },
+    {
+      "name": "TipsGameover_0440_Body",
+      "guid": "ed9d5660-1c34-4c48-a2e6-581522082bfd",
+      "soundId": 615266395,
+      "hash": 3501760598,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ガスボンベを狙おう。\r\n爆発で進行方向の障害物を破壊できる。",
+        "Shoot gas canisters to destroy obstacles\r\nand clear the path ahead.",
+        "Tirez sur les bonbonnes de gaz pour détruire\r\nles obstacles et dégager le passage.",
+        "Spara alle bombole di gas per distruggere\r\ngli ostacoli davanti a te e aprirti la strada.",
+        "Schießen Sie auf die Gasflaschen, um Ihren\r\nWeg von Hindernissen freizuräumen.",
+        "Dispara a las bombonas de gas para destruir\r\nobstáculos y despejar el camino delante de ti.",
+        "Стреляйте по газовым баллонам, чтобы\r\nразрушить препятствия и расчистить путь.",
+        "Strzel w kartusze gazowe, aby zniszczyć\r\nprzeszkody i oczyścić drogę przed sobą.",
+        "",
+        "",
+        "Atire nos cilindros de gás para destruir\r\nobstáculos e abrir o caminho à sua frente.",
+        "가스통을 맞히면 폭발한다.\r\n폭발로 주변 장애물을 파괴하고\r\n나아갈 길을 만들 수도 있다.",
+        "射擊瓦斯罐就可引爆它們，炸開新通路。",
+        "射击燃气罐引发爆炸，可破坏前进路径上\r\n的障碍物。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أطلق النار على عبوات الغاز لتدمير العوائق\r\nوإخلاء الطريق أمامك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dispara cilindros de gas para destruir\r\nobstáculos y despejar el camino."
+      ]
+    },
+    {
+      "name": "TipsGameover_0450_Body",
+      "guid": "97dd2d58-3872-497c-8a1c-bd7df4a209e3",
+      "soundId": 3713390622,
+      "hash": 2320002831,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        },
+        {
+          "Int": -1
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_061_Description>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<REF TutorialList_061_Description>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8310 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CharaName_prev",
+      "guid": "39c0c6af-fcfd-47a4-bff7-27259a581acd",
+      "soundId": 3167518168,
+      "hash": 1608844154,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CharaName_next",
+      "guid": "daf62747-328d-4045-b6b5-e000d2207e17",
+      "soundId": 1710276666,
+      "hash": 1584875498,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CharaName_ch0100",
+      "guid": "8dc3df9a-a8b1-42b5-933a-417414ce878e",
+      "soundId": 4007033062,
+      "hash": 936186665,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Леон",
+        "Leon",
+        "",
+        "",
+        "Leon",
+        "레온",
+        "里昂",
+        "里昂",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Leon"
+      ]
+    },
+    {
+      "name": "CharaName_ch0200",
+      "guid": "25319cfb-f36c-48ce-b7ef-9d1ca215d353",
+      "soundId": 3028588237,
+      "hash": 1667468769,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "グレース",
+        "Grace",
+        "Grace",
+        "Grace",
+        "Grace",
+        "Grace",
+        "Грейс",
+        "Grace",
+        "",
+        "",
+        "Grace",
+        "그레이스",
+        "葛蕾斯",
+        "格蕾丝",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grace"
+      ]
+    },
+    {
+      "name": "CharaName_ch0300",
+      "guid": "881730dd-fb35-4701-8a85-7231aec3b71f",
+      "soundId": 1629047081,
+      "hash": 2733311244,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クロエ",
+        "Chloe",
+        "Chloe",
+        "Chloe",
+        "Chloe",
+        "Chloe",
+        "Хлоя",
+        "Chloe",
+        "",
+        "",
+        "Chloe",
+        "클로이",
+        "克蘿伊",
+        "克洛伊",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كلوي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Chloe"
+      ]
+    },
+    {
+      "name": "CharaName_ch0600",
+      "guid": "26d2db08-7418-4066-8098-7b646c532b91",
+      "soundId": 3282631049,
+      "hash": 2078184133,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "シェリー",
+        "Sherry",
+        "Sherry",
+        "Sherry",
+        "Sherry",
+        "Sherry",
+        "Шерри",
+        "Sherry",
+        "",
+        "",
+        "Sherry",
+        "셰리",
+        "雪莉",
+        "雪莉",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "شيري",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sherry"
+      ]
+    },
+    {
+      "name": "CharaName_ch0900",
+      "guid": "217b2612-077c-4a0b-9ab9-6daf9fd519cf",
+      "soundId": 389421789,
+      "hash": 3427809993,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "？？？",
+        "???",
+        "???",
+        "???",
+        "Kommandant",
+        "¿?",
+        "???",
+        "???",
+        "",
+        "",
+        "???",
+        "???",
+        "？？？",
+        "？？？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "؟؟؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿?"
+      ]
+    },
+    {
+      "name": "CharaName_ch1200",
+      "guid": "95b368fe-f97f-462c-9ca3-a3add3518a21",
+      "soundId": 3069966943,
+      "hash": 693089844,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "The Girl",
+        "The Girl",
+        "La Fille",
+        "La Bambina",
+        "Das Mädchen",
+        "La Niña",
+        "Девочка",
+        "Dziewczynka",
+        "",
+        "",
+        "A Garota",
+        "더 걸",
+        "「女孩」",
+        "“女孩”",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الفتاة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La Niña"
+      ]
+    },
+    {
+      "name": "CharaName_ch1300",
+      "guid": "404b766c-de79-4287-9627-8e4c7b98ca71",
+      "soundId": 2878629364,
+      "hash": 102762705,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エミリー",
+        "Emily",
+        "Emily",
+        "Emily",
+        "Emily",
+        "Emily",
+        "Эмили",
+        "Emily",
+        "",
+        "",
+        "Emily",
+        "에밀리",
+        "艾蜜莉",
+        "艾米莉",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إميلي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Emily"
+      ]
+    },
+    {
+      "name": "CharaName_ch1500",
+      "guid": "a96b3983-6050-4565-aca6-4804f791ddcc",
+      "soundId": 1051283073,
+      "hash": 1675683570,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ネイサン",
+        "Nathan",
+        "Nathan",
+        "Nathan",
+        "Nathan",
+        "Nathan",
+        "Нейтан",
+        "Nathan",
+        "",
+        "",
+        "Nathan",
+        "네이선",
+        "內森",
+        "内森",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نيثان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nathan"
+      ]
+    },
+    {
+      "name": "CharaName_ch1510",
+      "guid": "d1e9e1ec-dd84-4476-b94b-3eeebec48f9b",
+      "soundId": 1769322230,
+      "hash": 3258101698,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ハリー",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Гарри",
+        "Harry",
+        "",
+        "",
+        "Harry",
+        "해리",
+        "哈利",
+        "哈里",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هاري",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Harry"
+      ]
+    },
+    {
+      "name": "CharaName_ch1800",
+      "guid": "69075014-a639-4a3e-8622-da8f4a73d28f",
+      "soundId": 17029151,
+      "hash": 3169481518,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アリッサ",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Алисса",
+        "Alyssa",
+        "",
+        "",
+        "Alyssa",
+        "알리사",
+        "雅莉莎",
+        "艾丽莎",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أليسا",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alyssa"
+      ]
+    },
+    {
+      "name": "CharaName_ch4010",
+      "guid": "ab0adac7-b629-43ed-8697-c7b10607c380",
+      "soundId": 3882685768,
+      "hash": 4114008601,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "フードの男",
+        "Hooded Man",
+        "Homme à la capuche",
+        "Uomo incappucciato",
+        "Fremder",
+        "Hombre encapuchado",
+        "Человек в капюшоне",
+        "Mężczyzna w kapturze",
+        "",
+        "",
+        "Homem Encapuzado",
+        "후드를 쓴 남자",
+        "兜帽男",
+        "兜帽男",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل ذو قلنسوة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hombre encapuchado"
+      ]
+    },
+    {
+      "name": "CharaName_ch4030",
+      "guid": "b7ec5976-8193-41c7-8190-b200d83f6a9b",
+      "soundId": 1889424488,
+      "hash": 3037876665,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "コール",
+        "Cole",
+        "Cole",
+        "Cole",
+        "Cole",
+        "Cole",
+        "Коул",
+        "Cole",
+        "",
+        "",
+        "Cole",
+        "콜",
+        "柯爾",
+        "科尔",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كُول",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cole"
+      ]
+    },
+    {
+      "name": "CharaName_ch4055",
+      "guid": "af138a2c-306f-4cf4-a61d-04eb784a1945",
+      "soundId": 3930866910,
+      "hash": 2668032142,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "医者",
+        "Doctor",
+        "Médecin",
+        "Dottore",
+        "Arzt",
+        "Doctor",
+        "Доктор",
+        "Lekarz",
+        "",
+        "",
+        "Doutor",
+        "의사",
+        "醫生",
+        "医生",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طبيب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Doctor"
+      ]
+    },
+    {
+      "name": "CharaName_ch4155",
+      "guid": "9d66633b-fce6-492c-9e40-ba6e8408980c",
+      "soundId": 1690565676,
+      "hash": 282058346,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "看護師",
+        "Nurse",
+        "Infirmière",
+        "Infermiera",
+        "Schwester",
+        "Enfermera",
+        "Сестра",
+        "Pielęgniarka",
+        "",
+        "",
+        "Enfermeira",
+        "간호사",
+        "護士",
+        "护士",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ممرضة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Enfermera"
+      ]
+    },
+    {
+      "name": "CharaName_ch4210",
+      "guid": "e598dc53-6c21-49ad-8e23-63bb9490a8d7",
+      "soundId": 1302651411,
+      "hash": 2227849218,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "支配人",
+        "Hotel Manager",
+        "Gérant d'hôtel",
+        "Gestore dell'hotel",
+        "Hoteldirektor",
+        "Gerente del hotel",
+        "Управляющий отелем",
+        "Kierownik hotelu",
+        "",
+        "",
+        "Gerente do Hotel",
+        "호텔 지배인",
+        "飯店經理",
+        "旅馆经理",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مدير الفندق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Gerente del hotel"
+      ]
+    },
+    {
+      "name": "CharaName_ch5100",
+      "guid": "053d309b-bbc0-44f2-8445-1eaa7b762b89",
+      "soundId": 1477448688,
+      "hash": 579865410,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクター",
+        "Victor",
+        "Victor",
+        "Victor",
+        "Victor",
+        "Victor",
+        "Виктор",
+        "Victor",
+        "",
+        "",
+        "Victor",
+        "빅터",
+        "維克多",
+        "维克多",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فيكتور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Victor"
+      ]
+    },
+    {
+      "name": "CharaName_ch5400",
+      "guid": "d840b0ce-812b-4517-ad18-474da7853c82",
+      "soundId": 3444833280,
+      "hash": 3401584690,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "スペンサー",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Спенсер",
+        "Spencer",
+        "",
+        "",
+        "Spencer",
+        "스펜서",
+        "史班瑟",
+        "史班瑟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سبينسر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Spencer"
+      ]
+    },
+    {
+      "name": "CharaName_ch6800",
+      "guid": "82229e0d-574a-4f44-aebc-6783a46b1ab1",
+      "soundId": 1455687857,
+      "hash": 2399992775,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ハリー",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Harry",
+        "Гарри",
+        "Harry",
+        "",
+        "",
+        "Harry",
+        "해리",
+        "哈利",
+        "哈里",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هاري",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Harry"
+      ]
+    },
+    {
+      "name": "CharaName_ch8000",
+      "guid": "1c48b816-deb5-4aab-a6a3-9ea399b84f81",
+      "soundId": 3763595497,
+      "hash": 2140584279,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゼノ",
+        "Zeno",
+        "Zeno",
+        "Zeno",
+        "Zeno",
+        "Zeno",
+        "Зено",
+        "Zeno",
+        "",
+        "",
+        "Zeno",
+        "제노",
+        "季諾",
+        "齐诺",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زِينو",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Zeno"
+      ]
+    },
+    {
+      "name": "CharaName_ch9906",
+      "guid": "1e8c3b6d-4c00-441c-ad2a-7afeffe1398f",
+      "soundId": 1150559967,
+      "hash": 2320589354,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ラジオキャスター",
+        "Radio",
+        "Radio",
+        "Radio",
+        "Sprecher im Radio",
+        "Radio",
+        "Радио",
+        "Radio",
+        "",
+        "",
+        "Rádio",
+        "라디오",
+        "收音機",
+        "收音机",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "راديو",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Radio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9910",
+      "guid": "f0c873d1-a6bf-47a2-959f-9f4e1e4671ee",
+      "soundId": 839613064,
+      "hash": 4011736555,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "館内アナウンス",
+        "Announcement",
+        "Annonce",
+        "Avviso",
+        "Durchsage",
+        "Anuncio",
+        "Объявление",
+        "Ogłoszenie",
+        "",
+        "",
+        "Anúncio",
+        "안내 방송",
+        "廣播",
+        "馆内广播",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إعلان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anuncio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9911",
+      "guid": "3a2be1ea-7065-4a44-8702-962cc135ac24",
+      "soundId": 241641912,
+      "hash": 1646291513,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "設備アナウンス",
+        "Announcement",
+        "Annonce",
+        "Avviso",
+        "Durchsage",
+        "Anuncio",
+        "Объявление",
+        "Ogłoszenie",
+        "",
+        "",
+        "Anúncio",
+        "안내 방송",
+        "廣播",
+        "设备通知",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إعلان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anuncio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9912",
+      "guid": "402b514f-08d8-4a4b-ac87-c9781987a15d",
+      "soundId": 2373216650,
+      "hash": 1792868243,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "設備アナウンス",
+        "Announcement",
+        "Annonce",
+        "Avviso",
+        "Durchsage",
+        "Anuncio",
+        "Объявление",
+        "Ogłoszenie",
+        "",
+        "",
+        "Anúncio",
+        "안내 방송",
+        "廣播",
+        "警告广播",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إعلان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anuncio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9913",
+      "guid": "797cb7bb-f92f-47f9-8f29-51289cf32481",
+      "soundId": 472835048,
+      "hash": 2415479816,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性研究員C",
+        "Researcher C",
+        "Chercheuse",
+        "Ricercatrice C",
+        "Forscherin",
+        "Investigadora C",
+        "Учёный 3",
+        "Badaczka C",
+        "",
+        "",
+        "Pesquisadora C",
+        "연구원 C",
+        "研究員 C",
+        "研究员C",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحثة ج",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigadora C"
+      ]
+    },
+    {
+      "name": "CharaName_ch9914",
+      "guid": "bb9bf5f1-c9f2-4d25-bda0-5c1a3136ea74",
+      "soundId": 1975779442,
+      "hash": 954951001,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "設備アナウンス",
+        "Announcement",
+        "Annonce",
+        "Avviso",
+        "Durchsage",
+        "Anuncio",
+        "Объявление",
+        "Ogłoszenie",
+        "",
+        "",
+        "Anúncio",
+        "안내 방송",
+        "廣播",
+        "设备通知",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إعلان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anuncio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9915",
+      "guid": "67730a32-6d03-4c56-832c-fc4a6c145843",
+      "soundId": 3300486186,
+      "hash": 2949135959,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "BSAA無線",
+        "BSAA Radio",
+        "Radio du BSAA",
+        "Radio della BSAA",
+        "BSAA-Funk",
+        "Radio de la BSAA",
+        "Рация BSAA",
+        "Radio BSAA",
+        "",
+        "",
+        "Rádio da BSAA",
+        "BSAA 무선",
+        "BSAA 無線電",
+        "BSAA无线电",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "راديو BSAA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Radio de la BSAA"
+      ]
+    },
+    {
+      "name": "CharaName_ch9916",
+      "guid": "8f5eb14f-a069-4ae9-83f0-0798a66d9edd",
+      "soundId": 1380421994,
+      "hash": 618050467,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "施設アナウンス",
+        "Announcement",
+        "Annonce",
+        "Avviso",
+        "Durchsage",
+        "Anuncio",
+        "Объявление",
+        "Ogłoszenie",
+        "",
+        "",
+        "Anúncio",
+        "안내 방송",
+        "廣播",
+        "AI语音",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إعلان",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anuncio"
+      ]
+    },
+    {
+      "name": "CharaName_ch9917",
+      "guid": "56735eeb-cf73-495a-accf-40e891b18083",
+      "soundId": 2304859425,
+      "hash": 3135449471,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性研究員A",
+        "Researcher A",
+        "Chercheur A",
+        "Ricercatore A",
+        "Forscher 1",
+        "Investigador A",
+        "Учёный 1",
+        "Badacz A",
+        "",
+        "",
+        "Pesquisador A",
+        "연구원 A",
+        "研究員 A",
+        "研究员A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحث أ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigador A"
+      ]
+    },
+    {
+      "name": "CharaName_ch9918",
+      "guid": "487786fe-804d-4cc2-8f5c-ba73799151b4",
+      "soundId": 1356360607,
+      "hash": 741910795,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性研究員B",
+        "Researcher B",
+        "Chercheur B",
+        "Ricercatore B",
+        "Forscher 2",
+        "Investigador B",
+        "Учёный 2",
+        "Badacz B",
+        "",
+        "",
+        "Pesquisador B",
+        "연구원 B",
+        "研究員 B",
+        "研究员B",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحث ب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigador B"
+      ]
+    },
+    {
+      "name": "CharaName_ch9919",
+      "guid": "a675690b-67ee-4529-bcf5-92735789610d",
+      "soundId": 1528423871,
+      "hash": 852195996,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性研究員C",
+        "Researcher C",
+        "Chercheuse",
+        "Ricercatrice C",
+        "Forscherin",
+        "Investigadora C",
+        "Учёный 3",
+        "Badaczka C",
+        "",
+        "",
+        "Pesquisadora C",
+        "연구원 C",
+        "研究員 C",
+        "研究员C",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحثة ج",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigadora C"
+      ]
+    },
+    {
+      "name": "CharaName_ch9920",
+      "guid": "2894b744-ee7c-47af-9a02-d6fbc0953d88",
+      "soundId": 1398885954,
+      "hash": 3814027088,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性研究員A",
+        "Researcher A",
+        "Chercheur A",
+        "Ricercatore A",
+        "Forscher",
+        "Investigador A",
+        "Учёный 1",
+        "Badacz A",
+        "",
+        "",
+        "Pesquisador A",
+        "연구원 A",
+        "研究員 A",
+        "研究员A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحث أ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigador A"
+      ]
+    },
+    {
+      "name": "CharaName_ch9921",
+      "guid": "29c0259c-fda5-4537-8366-2c3add7ae133",
+      "soundId": 2730818014,
+      "hash": 1916276400,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性研究員B",
+        "Researcher B",
+        "Chercheur B",
+        "Ricercatore B",
+        "Forscher",
+        "Investigador B",
+        "Учёный 2",
+        "Badacz B",
+        "",
+        "",
+        "Pesquisador B",
+        "연구원 B",
+        "研究員 B",
+        "研究员B",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "باحث ب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigador B"
+      ]
+    },
+    {
+      "name": "CharaName_ch9922",
+      "guid": "868613ac-2405-4b21-942c-563591ddb698",
+      "soundId": 834218101,
+      "hash": 1966965630,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "オペレーター",
+        "Operator",
+        "Opérateur",
+        "Agente",
+        "Disponent",
+        "Operador",
+        "Оператор",
+        "Operator",
+        "",
+        "",
+        "Operador",
+        "오퍼레이터",
+        "通訊員",
+        "联络员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عنصر عمليات خاصة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Operador"
+      ]
+    },
+    {
+      "name": "CharaName_ch9923",
+      "guid": "eff16ed7-0e74-4252-87f5-c7e4db073d22",
+      "soundId": 2949553239,
+      "hash": 986842330,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "リポーター",
+        "Reporter",
+        "Reporter",
+        "Inviata",
+        "Reporterin",
+        "Reportera",
+        "Репортёр",
+        "Dziennikarz",
+        "",
+        "",
+        "Repórter",
+        "기자",
+        "記者",
+        "现场记者",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مراسلة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reportera"
+      ]
+    },
+    {
+      "name": "CharaName_ch9924",
+      "guid": "c61f500d-6100-40f8-b5ff-bd8176a777ee",
+      "soundId": 1247079844,
+      "hash": 1828699249,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性アナウンサー",
+        "Newscaster A",
+        "Présentateur",
+        "Conduttore",
+        "Nachrichtensprecher",
+        "Presentador A",
+        "Телеведущий",
+        "Prezenter A",
+        "",
+        "",
+        "Âncora A",
+        "뉴스캐스터 A",
+        "新聞主播 A",
+        "男性新闻主播",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مذيع أخبار أ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presentador A"
+      ]
+    },
+    {
+      "name": "CharaName_ch9925",
+      "guid": "f8a854cd-3832-4c96-9df8-23ec9da038f4",
+      "soundId": 2279188553,
+      "hash": 3339521054,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性アナウンサー",
+        "Newscaster B",
+        "Présentatrice",
+        "Conduttrice",
+        "Nachrichtensprecherin",
+        "Presentadora B",
+        "Телеведущая",
+        "Prezenter B",
+        "",
+        "",
+        "Âncora B",
+        "뉴스캐스터 B",
+        "新聞主播 B",
+        "女性新闻主播",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مذيع أخبار ب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presentadora B"
+      ]
+    },
+    {
+      "name": "CharaName_ch9927",
+      "guid": "f26d7d6b-a94a-4061-a62c-353615f02273",
+      "soundId": 2625792503,
+      "hash": 4240214349,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "BSAA無線",
+        "BSAA Radio",
+        "Radio du BSAA",
+        "Radio della BSAA",
+        "BSAA-Funk",
+        "Radio de la BSAA",
+        "Рация BSAA",
+        "Radio BSAA",
+        "",
+        "",
+        "Rádio da BSAA",
+        "BSAA 무선",
+        "BSAA 無線電",
+        "BSAA无线电",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "راديو BSAA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Radio de la BSAA"
+      ]
+    },
+    {
+      "name": "CharaName_ch9928",
+      "guid": "2ce00c42-93a9-48ec-92aa-9ef31857c962",
+      "soundId": 2912935616,
+      "hash": 1396559591,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "謎の兵士",
+        "Unknown Soldier",
+        "Soldat",
+        "Soldato sconosciuto",
+        "Soldat",
+        "Soldado desconocido",
+        "Неизвестный солдат",
+        "Nieznany żołnierz",
+        "",
+        "",
+        "Soldado Desconhecido",
+        "정체불명의 병사",
+        "神秘士兵",
+        "神秘士兵",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جندي مجهول",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Soldado desconocido"
+      ]
+    },
+    {
+      "name": "CharaName_ch9929",
+      "guid": "8caacd89-cb7e-4d9f-acf3-03e250b58984",
+      "soundId": 1365951887,
+      "hash": 202198570,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ケンド",
+        "Kendo",
+        "Kendo",
+        "Kendo",
+        "Kendo",
+        "Kendo",
+        "Кендо",
+        "Kendo",
+        "",
+        "",
+        "Kendo",
+        "켄도",
+        "肯多",
+        "肯多",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كيندو",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Kendo"
+      ]
+    },
+    {
+      "name": "CharaName_ch9930",
+      "guid": "a7605d8d-3ca2-400b-aada-a615e31475f0",
+      "soundId": 2635497983,
+      "hash": 1340537721,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性市民",
+        "Woman",
+        "Femme",
+        "Donna",
+        "Frau",
+        "Mujer",
+        "Женщина",
+        "Kobieta",
+        "",
+        "",
+        "Mulher",
+        "여자",
+        "女子",
+        "女性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "امرأة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mujer"
+      ]
+    },
+    {
+      "name": "CharaName_ch9931",
+      "guid": "09c3a6cd-fc8b-478c-a991-64fd52570ad8",
+      "soundId": 1031558562,
+      "hash": 3998717546,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性市民",
+        "Man",
+        "Homme",
+        "Uomo",
+        "Mann",
+        "Hombre",
+        "Мужчина",
+        "Mężczyzna",
+        "",
+        "",
+        "Homem",
+        "남자",
+        "男子",
+        "男性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hombre"
+      ]
+    },
+    {
+      "name": "CharaName_ch9933",
+      "guid": "931181d1-2ec7-4448-8415-b01ea98c52ea",
+      "soundId": 3190026796,
+      "hash": 2609847741,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アンバーアイズ",
+        "Umber Eyes",
+        "Umber Eyes",
+        "Umber Eyes",
+        "Umber Eyes",
+        "Umber Eyes",
+        "Сероглазый",
+        "Brązowooki",
+        "",
+        "",
+        "Olhos Castanhos",
+        "엄버 아이즈",
+        "琥珀眼",
+        "琥珀眼",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عيون العنبر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ojos Sombríos"
+      ]
+    },
+    {
+      "name": "CharaName_ch9934",
+      "guid": "5d923af0-5d29-4684-ba23-22c9e78ef001",
+      "soundId": 227714197,
+      "hash": 878435907,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "小隊長",
+        "Squad Leader",
+        "Chef d'escouade",
+        "Caposquadra",
+        "Gruppenführer",
+        "Líder de escuadrón",
+        "Капитан",
+        "Dowódca oddziału",
+        "",
+        "",
+        "Líder do Esquadrão",
+        "분대장",
+        "小隊長",
+        "小队长",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قائد الفرقة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Líder de escuadrón"
+      ]
+    },
+    {
+      "name": "CharaName_ch9935",
+      "guid": "64ade1c6-4b55-4456-be49-bfa552f45f7b",
+      "soundId": 3852858850,
+      "hash": 3221884478,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "隊員A",
+        "Commando A",
+        "Commando A",
+        "Commando A",
+        "Soldat 1",
+        "Comando A",
+        "Боец 1",
+        "Komandos A",
+        "",
+        "",
+        "Soldado A",
+        "특수부대원 A",
+        "隊員 A",
+        "队员A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مغوار أ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Comando A"
+      ]
+    },
+    {
+      "name": "CharaName_ch9936",
+      "guid": "3c47337c-afe5-4c06-9392-c39a427e117e",
+      "soundId": 2063112083,
+      "hash": 2814399129,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "隊員B",
+        "Commando B",
+        "Commando B",
+        "Commando B",
+        "Soldat 2",
+        "Comando B",
+        "Боец 2",
+        "Komandos B",
+        "",
+        "",
+        "Soldado B",
+        "특수부대원 B",
+        "隊員 B",
+        "队员B",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مغوار ب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Comando B"
+      ]
+    },
+    {
+      "name": "CharaName_ch9937",
+      "guid": "e21248c2-3048-4c1f-8635-79616dcd1c9d",
+      "soundId": 309735810,
+      "hash": 3954706356,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "隊員C",
+        "Commando C",
+        "Commando C",
+        "Commando C",
+        "Soldat 3",
+        "Comando C",
+        "Боец 3",
+        "Komandos C",
+        "",
+        "",
+        "Soldado C",
+        "특수부대원 C",
+        "隊員 C",
+        "队员C",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مغوار ج",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Comando C"
+      ]
+    },
+    {
+      "name": "CharaName_ch9940",
+      "guid": "fa7c2f0c-4967-45e8-9475-717ee7e0c4fc",
+      "soundId": 1860645840,
+      "hash": 2874013735,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性所員",
+        "FBI Agent",
+        "Agent du FBI",
+        "Agente dell'FBI",
+        "FBI-Agentin",
+        "Agente del FBI",
+        "Агентка ФБР",
+        "Agentka FBI",
+        "",
+        "",
+        "Agente do FBI",
+        "FBI 요원",
+        "FBI 女職員",
+        "FBI女职员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عميلة الـ FBI",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Agente del FBI"
+      ]
+    },
+    {
+      "name": "CharaName_ch9944",
+      "guid": "c626a42b-6ba3-49a5-a60c-1157bf095749",
+      "soundId": 2830707974,
+      "hash": 3243370235,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "マービン",
+        "Marvin",
+        "Marvin",
+        "Marvin",
+        "Marvin",
+        "Marvin",
+        "Марвин",
+        "Marvin",
+        "",
+        "",
+        "Marvin",
+        "마빈",
+        "馬文",
+        "马文",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مارفن",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Marvin"
+      ]
+    },
+    {
+      "name": "CharaName_ex0000",
+      "guid": "319ffc0e-087e-446e-84d0-a96703f26bd6",
+      "soundId": 3725482235,
+      "hash": 3056074995,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "捜査官",
+        "Investigator",
+        "Enquêteur",
+        "Investigatore",
+        "Ermittler",
+        "Investigador",
+        "Следователь",
+        "Śledczy",
+        "",
+        "",
+        "Investigador",
+        "수사관",
+        "調查員",
+        "调查员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مُحقق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Investigador"
+      ]
+    },
+    {
+      "name": "CharaName_ex0001",
+      "guid": "b56f88f9-bc06-4b2b-8159-cb25c4966a4f",
+      "soundId": 1106429211,
+      "hash": 3000659514,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "？？？",
+        "???",
+        "???",
+        "???",
+        "Mann",
+        "¿?",
+        "???",
+        "???",
+        "",
+        "",
+        "???",
+        "???",
+        "？？？",
+        "？？？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "؟؟؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿?"
+      ]
+    },
+    {
+      "name": "CharaName_ex0002",
+      "guid": "d890797e-7793-42c3-9a32-42f300aacd34",
+      "soundId": 211532103,
+      "hash": 3254151857,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ヴィクター（変異）",
+        "Victor (Mutated)",
+        "Victor (transformé)",
+        "Victor (mutazione)",
+        "Victor",
+        "Victor (mutación)",
+        "Виктор (мутант)",
+        "Victor (mutant)",
+        "",
+        "",
+        "Victor (Mutante)",
+        "빅터 (변이)",
+        "維克多（突變）",
+        "维克多（变异）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فيكتور (متحور)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Victor (mutación)"
+      ]
+    },
+    {
+      "name": "CharaName_ex0003",
+      "guid": "585778ec-ba09-447b-9179-53f26b3c6e1d",
+      "soundId": 2554995976,
+      "hash": 2289607347,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "オペレーター",
+        "Mission Coordinator",
+        "Coordinatrice de mission",
+        "Coordinatrice della missione",
+        "Missionskoordinatorin",
+        "Coordinadora de operaciones",
+        "Координатор заданий",
+        "Koordynator misji",
+        "",
+        "",
+        "Coordenadora de Missões",
+        "임무 협조관",
+        "任務聯絡員",
+        "任务联络员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "منسّقة مهام",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Coordinadora de operaciones"
+      ]
+    },
+    {
+      "name": "CharaName_ex0004",
+      "guid": "897acd96-4fe5-4599-abb1-6311640b6f68",
+      "soundId": 25658050,
+      "hash": 2571444653,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "少女",
+        "Girl",
+        "Petite fille",
+        "Bambina",
+        "Kleines Mädchen",
+        "Niña",
+        "Девочка",
+        "Dziecko",
+        "",
+        "",
+        "Menina",
+        "소녀",
+        "女孩",
+        "女孩",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فتاة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Niña"
+      ]
+    },
+    {
+      "name": "CharaName_ex0005",
+      "guid": "7b3e17c1-7d67-472e-88b2-8d09919515e7",
+      "soundId": 3531665761,
+      "hash": 3633114021,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "謎の男",
+        "Unknown Man",
+        "Homme inconnu",
+        "Sconosciuto",
+        "Mann",
+        "Hombre desconocido",
+        "Неизвестный",
+        "Nieznany mężczyzna",
+        "",
+        "",
+        "Homem Desconhecido",
+        "정체불명의 남자",
+        "神秘男子",
+        "神秘男子",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل مجهول",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hombre desconocido"
+      ]
+    },
+    {
+      "name": "CharaName_ex0006",
+      "guid": "2b1639db-378c-4b94-b967-959b5e5c4dc8",
+      "soundId": 2567370531,
+      "hash": 3580165503,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "老人",
+        "Old Man",
+        "Vieil homme",
+        "Anziano",
+        "Älterer Mann",
+        "Anciano",
+        "Старик",
+        "Starzec",
+        "",
+        "",
+        "Idoso",
+        "노인",
+        "老人",
+        "老人",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل عجوز",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anciano"
+      ]
+    },
+    {
+      "name": "CharaName_ex0007",
+      "guid": "a23e48e6-c6d1-4157-adc1-d0ed32233d8f",
+      "soundId": 2217033719,
+      "hash": 1895397827,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性市民",
+        "Woman",
+        "Femme",
+        "Donna",
+        "Frau",
+        "Mujer",
+        "Женщина",
+        "Kobieta",
+        "",
+        "",
+        "Mulher",
+        "여자",
+        "女子",
+        "女性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "امرأة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mujer"
+      ]
+    },
+    {
+      "name": "CharaName_ex0009",
+      "guid": "460e16e1-9393-467f-810a-cb1b488fb9de",
+      "soundId": 2492118382,
+      "hash": 85697894,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性市民",
+        "Man",
+        "Homme",
+        "Uomo",
+        "Mann",
+        "Hombre",
+        "Мужчина",
+        "Mężczyzna",
+        "",
+        "",
+        "Homem",
+        "남자",
+        "男子",
+        "男性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hombre"
+      ]
+    },
+    {
+      "name": "CharaName_ex0010",
+      "guid": "0a943116-4cf6-4823-81f8-7c9196033132",
+      "soundId": 3607589214,
+      "hash": 2141294245,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "療養所職員",
+        "Injured Doctor",
+        "Médecin blessé",
+        "Dottore ferito",
+        "Arzt",
+        "Doctor herido",
+        "Раненый врач",
+        "Ranny lekarz",
+        "",
+        "",
+        "Médico Ferido",
+        "다친 의사",
+        "受傷醫生",
+        "重伤的疗养院职员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طبيب جريح",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Doctor herido"
+      ]
+    },
+    {
+      "name": "CharaName_ex0011",
+      "guid": "dc5b1ce3-74fe-4937-815d-5927b8312a4a",
+      "soundId": 314818041,
+      "hash": 1371831011,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "パイロット",
+        "Pilot",
+        "Pilote",
+        "Pilota",
+        "Pilot",
+        "Piloto",
+        "Пилот",
+        "Pilot",
+        "",
+        "",
+        "Piloto",
+        "파일럿",
+        "駕駛員",
+        "飞行员",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طيار",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Piloto"
+      ]
+    },
+    {
+      "name": "CharaName_ex0012",
+      "guid": "864ec569-8d09-42b9-9a3f-59216ef399e4",
+      "soundId": 1286896752,
+      "hash": 1112045961,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "女性市民",
+        "Woman",
+        "Femme",
+        "Donna",
+        "Frau",
+        "Mujer",
+        "Женщина",
+        "Kobieta",
+        "",
+        "",
+        "Mulher",
+        "여자",
+        "女子",
+        "女性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "امرأة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mujer"
+      ]
+    },
+    {
+      "name": "CharaName_ex0013",
+      "guid": "39c0082f-1df4-4415-b4ab-c12391e37e71",
+      "soundId": 1185327155,
+      "hash": 2681631464,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "男性市民",
+        "Man",
+        "Homme",
+        "Uomo",
+        "Mann",
+        "Hombre",
+        "Мужчина",
+        "Mężczyzna",
+        "",
+        "",
+        "Homem",
+        "남자",
+        "男子",
+        "男性市民",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hombre"
+      ]
+    },
+    {
+      "name": "CharaName_ex0014",
+      "guid": "28a6cff5-9bf2-4fff-9158-8d102ddfcc94",
+      "soundId": 3714471183,
+      "hash": 2873947464,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アリッサ",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Alyssa",
+        "Алисса",
+        "Alyssa",
+        "",
+        "",
+        "Alyssa",
+        "알리사",
+        "雅莉莎",
+        "艾丽莎",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أليسا",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alyssa"
+      ]
+    },
+    {
+      "name": "CharaName_ex0015",
+      "guid": "c26e92f2-ffba-47dc-b7a6-24acaa36db9b",
+      "soundId": 3032161156,
+      "hash": 4164060990,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Leon",
+        "Леон",
+        "Leon",
+        "",
+        "",
+        "Leon",
+        "레온",
+        "里昂",
+        "里昂",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Leon"
+      ]
+    },
+    {
+      "name": "CharaName_ex0016",
+      "guid": "45e59361-3d89-4511-8470-9f2e84cc09d6",
+      "soundId": 3148404456,
+      "hash": 2526139199,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "スペンサー",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Spencer",
+        "Спенсер",
+        "Spencer",
+        "",
+        "",
+        "Spencer",
+        "스펜서",
+        "史班瑟",
+        "史班瑟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سبينسر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Spencer"
+      ]
+    },
+    {
+      "name": "CharaName_ch4000",
+      "guid": "cf2d9663-6703-4ca6-988c-ece8af89ec03",
+      "soundId": 894626275,
+      "hash": 758447791,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゾンビ",
+        "Zombie",
+        "Zombie",
+        "Zombi",
+        "Zombie",
+        "Zombi",
+        "Зомби",
+        "Zombie",
+        "",
+        "",
+        "Zumbi",
+        "좀비",
+        "喪屍",
+        "丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زومبي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Zombi"
+      ]
+    },
+    {
+      "name": "CharaName_ch4100",
+      "guid": "24a2a05e-b16a-44bf-9ea2-5571c70a9991",
+      "soundId": 2437810509,
+      "hash": 853229161,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゾンビ",
+        "Zombie",
+        "Zombie",
+        "Zombi",
+        "Zombie",
+        "Zombi",
+        "Зомби",
+        "Zombie",
+        "",
+        "",
+        "Zumbi",
+        "좀비",
+        "喪屍",
+        "丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زومبي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Zombi"
+      ]
+    },
+    {
+      "name": "CharaName_ch4300",
+      "guid": "aa2a2d6f-3414-48fc-b07c-e0fc43ee4546",
+      "soundId": 796811474,
+      "hash": 1366952562,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "シェフ",
+        "Chef",
+        "Chef",
+        "Cuoco",
+        "Koch",
+        "Chef",
+        "Шеф-повар",
+        "Kucharz",
+        "",
+        "",
+        "Chef",
+        "주방장",
+        "主廚喪屍",
+        "主厨丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طبّاخ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Chef"
+      ]
+    },
+    {
+      "name": "CharaName_ch4400",
+      "guid": "42b4b56b-65a4-46aa-a2a7-b70291a86409",
+      "soundId": 3236735698,
+      "hash": 409245016,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "チャンク",
+        "Chunk",
+        "Chunk",
+        "Chunk",
+        "Chunk",
+        "Chunk",
+        "Чанк",
+        "Chunk",
+        "",
+        "",
+        "Chunk",
+        "청크",
+        "肥壯喪屍",
+        "肥硕丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كومة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Chunk"
+      ]
+    },
+    {
+      "name": "CharaName_ex1000",
+      "guid": "1c03041e-377e-4714-a4c4-d2eea875279f",
+      "soundId": 2037679818,
+      "hash": 2349949754,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゾンビ",
+        "Zombie",
+        "Zombie",
+        "Zombi",
+        "Zombie",
+        "Zombi",
+        "Зомби",
+        "Zombie",
+        "",
+        "",
+        "Zumbi",
+        "좀비",
+        "喪屍",
+        "丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زومبي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Zombi"
+      ]
+    },
+    {
+      "name": "CharaName_ex1001",
+      "guid": "67173911-d4e4-4c76-8cea-aaa80d748235",
+      "soundId": 2528700077,
+      "hash": 693184402,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クリーナー",
+        "Zombie Cleaner",
+        "Agent d'entretien zombie",
+        "Zombi inserviente",
+        "Zombie-Putzkraft",
+        "Limpiadora zombi",
+        "Зомби-уборщица",
+        "Sprzątaczka-zombie",
+        "",
+        "",
+        "Faxineira Zumbi",
+        "청소부 좀비",
+        "清潔員喪屍",
+        "保洁员丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زومبي مُنظفة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Limpiadora zombi"
+      ]
+    },
+    {
+      "name": "CharaName_ex1002",
+      "guid": "4449ef28-1002-4b16-8e5c-5a5ea998c109",
+      "soundId": 3235744072,
+      "hash": 687227553,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ノイジー",
+        "Noisy Zombie",
+        "Zombie sensible au bruit",
+        "Zombi fonofobico",
+        "Lärmempfindlicher Zombie",
+        "Zombi sensible al ruido",
+        "Шумный зомби",
+        "Zombie wrażliwy na dźwięk",
+        "",
+        "",
+        "Zumbi Sensível ao Som",
+        "시끄러운 좀비",
+        "聲敏喪屍",
+        "声敏丧尸",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "زومبي صاخب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Zombi sensible al ruido"
+      ]
+    }
+  ]
+}

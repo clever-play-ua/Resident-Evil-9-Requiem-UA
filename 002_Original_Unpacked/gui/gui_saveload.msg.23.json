@@ -1,0 +1,2262 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    }
+  ],
+  "entries": [
+    {
+      "name": "SaveLoad_Save_Title",
+      "guid": "6b981a0a-92da-44fc-bbf1-a6c1e4f3cd71",
+      "soundId": 201802972,
+      "hash": 4224913118,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "SAVE",
+        "SAVE",
+        "SAUVEGARDER",
+        "SALVA",
+        "SPEICHERN",
+        "GUARDAR",
+        "СОХРАНИТЬ",
+        "ZAPISZ",
+        "",
+        "",
+        "SALVAR",
+        "저장",
+        "儲存",
+        "保存",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حفظ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GUARDAR"
+      ]
+    },
+    {
+      "name": "SaveLoad_Load_Title",
+      "guid": "49a3cc7c-0942-4d27-bced-2d4fdd3f091c",
+      "soundId": 3018417630,
+      "hash": 742119301,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LOAD",
+        "LOAD GAME",
+        "CHARGER UNE PARTIE",
+        "CARICA PARTITA",
+        "SPIEL LADEN",
+        "CARGAR PARTIDA",
+        "ЗАГРУЗИТЬ",
+        "WCZYTAJ GRĘ",
+        "",
+        "",
+        "CARREGAR JOGO",
+        "불러오기",
+        "載入遊戲",
+        "加载游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تحميل لعبة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CARGAR PARTIDA"
+      ]
+    },
+    {
+      "name": "SaveLoad_Subhead0",
+      "guid": "051aab2b-a9e9-4e28-a9e1-a1e3474d7eca",
+      "soundId": 878712,
+      "hash": 677054850,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "STORY",
+        "STORY",
+        "HISTOIRE",
+        "STORIA",
+        "STORY",
+        "HISTORIA",
+        "СЮЖЕТ",
+        "FABUŁA",
+        "",
+        "",
+        "HISTÓRIA",
+        "스토리",
+        "劇情",
+        "剧情",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قصة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HISTORIA"
+      ]
+    },
+    {
+      "name": "SaveLoad_Subhead1",
+      "guid": "fc5797f4-6661-4c27-b10c-1076c652ddd9",
+      "soundId": 4226257802,
+      "hash": 518233705,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GAME MODE",
+        "GAME MODE",
+        "MODE DE JEU",
+        "MODALITÀ DI GIOCO",
+        "SPIELMODUS",
+        "MODO DE JUEGO",
+        "РЕЖИМ ИГРЫ",
+        "TRYB GRY",
+        "",
+        "",
+        "MODO DE JOGO",
+        "게임 모드",
+        "遊戲模式",
+        "难度模式",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وضع اللعب",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "DIFICULTAD"
+      ]
+    },
+    {
+      "name": "SaveLoad_Subhead2",
+      "guid": "6304e3d5-ba9f-4017-8a96-ae8041d0ef3f",
+      "soundId": 1316435023,
+      "hash": 583605018,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "SAVES",
+        "SAVES",
+        "SAUVEGARDES",
+        "SALVATAGGI",
+        "SPEICHERVORGÄNGE",
+        "GUARDADOS",
+        "СОХРАНЕНИЯ",
+        "ZAPISY GRY",
+        "",
+        "",
+        "SALVAMENTOS",
+        "저장 횟수",
+        "儲存次數",
+        "存档次数",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مرات الحفظ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GUARDADOS"
+      ]
+    },
+    {
+      "name": "SaveLoad_Subhead3",
+      "guid": "223542c6-230e-4c94-8a29-68b89d8fb0d4",
+      "soundId": 1757511689,
+      "hash": 2633591003,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "AREA",
+        "AREA",
+        "ZONE",
+        "AREA",
+        "GEBIET",
+        "ZONA",
+        "ЗОНА",
+        "OBSZAR",
+        "",
+        "",
+        "ÁREA",
+        "구역",
+        "區域",
+        "区域",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "منقطة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ÁREA"
+      ]
+    },
+    {
+      "name": "SaveLoad_Subhead4",
+      "guid": "37e90382-edba-403a-a96c-2bea3d75e57a",
+      "soundId": 222365642,
+      "hash": 1989299192,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LAST DATE",
+        "LAST SAVED",
+        "DERNIÈRE SAUVEGARDE",
+        "ULTIMO SALVATAGGIO",
+        "ZULETZT GESPEICHERT",
+        "ÚLTIMO GUARDADO",
+        "ПОСЛ. СОХР.",
+        "OSTATNI ZAPIS",
+        "",
+        "",
+        "SALVO EM",
+        "최근 저장",
+        "儲存時間",
+        "保存时间",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آخر حفظ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ÚLTIMO GUARDADO"
+      ]
+    },
+    {
+      "name": "SaveLoad_Saved_Location",
+      "guid": "81e8800b-dfe9-4b7e-87b1-3744bc250fd5",
+      "soundId": 2973859144,
+      "hash": 3007935247,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "{0} / {1}",
+        "{0} / {1}",
+        "{0}/{1}",
+        "{0}/{1}",
+        "{0}/{1}",
+        "{0}/{1}",
+        "{0}/{1}",
+        "{0}/{1}",
+        "",
+        "",
+        "{0}/{1}",
+        "{0} / {1}",
+        "{0} / {1}",
+        "{0} / {1}",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "{1} / {0}",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "{0}/{1}"
+      ]
+    },
+    {
+      "name": "SaveLoad_NowLoad",
+      "guid": "0c84cf0c-f851-401c-a9c7-a113c4469af9",
+      "soundId": 1049382731,
+      "hash": 3316628067,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "NOW LOADING",
+        "LOADING",
+        "CHARGEMENT...",
+        "CARICAMENTO...",
+        "LÄDT ...",
+        "CARGANDO",
+        "ЗАГРУЗКА",
+        "WCZYTYWANIE",
+        "",
+        "",
+        "CARREGANDO",
+        "불러오는 중",
+        "載入中",
+        "正在加载",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تحميل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CARGANDO"
+      ]
+    },
+    {
+      "name": "SaveLoad_AutoSave",
+      "guid": "8ac010c2-0c10-4fc9-a5a9-b17ca36f203f",
+      "soundId": 1144205832,
+      "hash": 2491947972,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "AUTO SAVE",
+        "Autosave",
+        "Sauvegarde automatique",
+        "Autosalvataggio",
+        "Autospeichern",
+        "Autoguardado",
+        "Автосохр.",
+        "Aut. zap.",
+        "",
+        "",
+        "Salvamento automático",
+        "자동 저장",
+        "自動儲存資料",
+        "自动存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حفظ ذاتي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Autoguardado"
+      ]
+    },
+    {
+      "name": "SaveLoad_AutoSave_Short",
+      "guid": "e090305a-b607-4365-9b32-7d2fec117f05",
+      "soundId": 3193329840,
+      "hash": 4075952318,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "AUTO",
+        "AUTO",
+        "AUTO",
+        "AUTO",
+        "Autom.",
+        "AUTO",
+        "АВТО",
+        "AUTOM.",
+        "",
+        "",
+        "AUTO",
+        "AUTO",
+        "AUTO",
+        "AUTO",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ذاتي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "AUTO"
+      ]
+    },
+    {
+      "name": "SaveLoad_AutoSave_Short1",
+      "guid": "97adbe75-8df6-497f-bdfe-908a8c3051e2",
+      "soundId": 1437273020,
+      "hash": 1856148309,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "AUTO 01",
+        "AUTO 01",
+        "AUTO 01",
+        "AUTO 01",
+        "Autom. 01",
+        "AUTO 01",
+        "АВТО 01",
+        "AUTOM. 01",
+        "",
+        "",
+        "AUTO 01",
+        "AUTO 01",
+        "AUTO 01",
+        "AUTO 01",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ذاتي 01",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "AUTO 01"
+      ]
+    },
+    {
+      "name": "SaveLoad_AutoSave_Short2",
+      "guid": "788c14dd-7efd-4048-925b-35d95b669cf2",
+      "soundId": 2150318120,
+      "hash": 1930560723,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "AUTO 02",
+        "AUTO 02",
+        "AUTO 02",
+        "AUTO 02",
+        "Autom. 02",
+        "AUTO 02",
+        "АВТО 02",
+        "AUTOM. 02",
+        "",
+        "",
+        "AUTO 02",
+        "AUTO 02",
+        "AUTO 02",
+        "AUTO 02",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ذاتي 02",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "AUTO 02"
+      ]
+    },
+    {
+      "name": "SaveLoad_NewData",
+      "guid": "37a7b4a6-35be-4da7-89f8-c9b39b3556f6",
+      "soundId": 2583596418,
+      "hash": 3410156153,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "新しいセーブデータ",
+        "New Saved Data",
+        "Nouvelles données de sauvegarde",
+        "Nuovo salvataggio",
+        "Neue Speicherdaten",
+        "Nuevos datos guardados",
+        "Новые сохраненные данные",
+        "Nowe dane zapisu",
+        "",
+        "",
+        "Novos dados salvos",
+        "새 저장 데이터",
+        "新保存資料",
+        "新存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "بيانات حفظ جديدة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nuevos datos guardados"
+      ]
+    },
+    {
+      "name": "SaveLoad_NoData",
+      "guid": "b9aea119-972f-4ae1-8813-e63acfacbff6",
+      "soundId": 3391224772,
+      "hash": 3073099546,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "NO DATA",
+        "NO DATA",
+        "AUCUNE DONNÉE",
+        "NESSUN DATO",
+        "(keine Daten)",
+        "SIN DATOS",
+        "НЕТ ДАННЫХ",
+        "BRAK DANYCH",
+        "",
+        "",
+        "SEM DADOS",
+        "데이터 없음",
+        "無資料",
+        "尚无存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا توجد بيانات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "SIN DATOS"
+      ]
+    },
+    {
+      "name": "SaveLoad_ClearData",
+      "guid": "0ef2c503-8dc1-478e-ac7c-13c3ebf186a5",
+      "soundId": 2529271953,
+      "hash": 2902537536,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クリアデータ",
+        "Completed Data",
+        "Données de partie complétée",
+        "Dati di completamento",
+        "Abgeschlossenes Spiel",
+        "Partida completada",
+        "Данные завершённой игры",
+        "Dane ukończonej gry",
+        "",
+        "",
+        "Dados de Conclusão",
+        "클리어 데이터",
+        "通關資料",
+        "通关存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "بيانات مكتملة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Partida completada"
+      ]
+    },
+    {
+      "name": "SaveLoad_Guide0",
+      "guid": "c195ed07-d520-4125-b46b-c6a4bc85596a",
+      "soundId": 1384644892,
+      "hash": 1565931008,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "セーブデータを作成します",
+        "Create saved data.",
+        "Créer des données de sauvegarde.",
+        "Crea dati di salvataggio.",
+        "Speicherdaten erstellen.",
+        "Crea datos guardados.",
+        "Создать сохранённые данные.",
+        "Utwórz dane zapisu.",
+        "",
+        "",
+        "Criar dados salvos.",
+        "저장 데이터를 생성합니다.",
+        "將建立保存資料。",
+        "建立存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنشئ بيانات حفظ.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Crea datos de guardado."
+      ]
+    },
+    {
+      "name": "SaveLoad_Guide1",
+      "guid": "9fa22978-5b18-46fc-b511-a95f436a00f6",
+      "soundId": 2162376759,
+      "hash": 1236529156,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "セーブデータを上書きします",
+        "Overwrite saved data.",
+        "Écraser les données sauvegardées.",
+        "Sovrascrivi i dati di salvataggio.",
+        "Speicherdaten überschreiben.",
+        "Sobrescribir datos guardados.",
+        "Перезаписать сохранённые данные.",
+        "Nadpisz dane zapisu.",
+        "",
+        "",
+        "Substituir dados salvos.",
+        "저장 데이터를 덮어씁니다.",
+        "將覆寫保存資料。",
+        "覆盖存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "استبدل البيانات المحفوظة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sobrescribe los datos guardados."
+      ]
+    },
+    {
+      "name": "SaveLoad_Guide2",
+      "guid": "eb8b0c73-1f69-438c-88be-ce9a6bb1d1a4",
+      "soundId": 1711513236,
+      "hash": 763031107,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "セーブデータをロードします",
+        "Load saved data.",
+        "Charger des données sauvegardées.",
+        "Carica i dati di salvataggio.",
+        "Speicherdaten laden.",
+        "Carga los datos guardados.",
+        "Загрузить сохранённые данные.",
+        "Wczytaj dane zapisu.",
+        "",
+        "",
+        "Carregar dados salvos.",
+        "저장 데이터를 불러옵니다.",
+        "載入保存資料。",
+        "加载存档",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حمّل البيانات المحفوظة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Carga los datos guardados."
+      ]
+    }
+  ]
+}

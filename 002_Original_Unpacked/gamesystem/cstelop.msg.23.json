@@ -1,0 +1,6070 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CSTelop_c110s000_1_1",
+      "guid": "0d30e6f5-b700-4475-860d-a0a4f2baa59e",
+      "soundId": 574714835,
+      "hash": 1903657770,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "",
+        "",
+        "FBI",
+        "FBI",
+        "FBI",
+        "FBI",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FBI",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FBI"
+      ]
+    },
+    {
+      "name": "CSTelop_c110s000_1_2",
+      "guid": "5565d669-1ad4-4789-96cf-546c2b8fe3cc",
+      "soundId": 1637621132,
+      "hash": 3241359696,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "MIDWEST\r\nFIELD OFFICE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "ANTENNE\r\nDU MIDWEST",
+        "DIVISIONE DEL\r\nMIDWEST",
+        "AUẞENSTELLE\r\nMIDWEST",
+        "OFICINA REGIONAL DEL FBI\r\nDEL MEDIO OESTE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "",
+        "",
+        "DIVISÃO\r\nCENTRO-OESTE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "MIDWEST\r\nFIELD OFFICE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MIDWEST\r\nFIELD OFFICE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "OFICINA REGIONAL DEL FBI\r\nDEL MEDIO OESTE"
+      ]
+    },
+    {
+      "name": "CSTelop_c110s000_1_translation",
+      "guid": "8262dbc6-1c61-4102-93ef-f959609052b8",
+      "soundId": 2077548502,
+      "hash": 1988892058,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"FBI 中西部支局\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ПОДРАЗДЕЛЕНИЕ ФБР ПО СРЕДНЕМУ ЗАПАДУ",
+        "BIURO TERENOWE FBI – ŚRODKOWY ZACHÓD",
+        "",
+        "",
+        "",
+        "FBI 중서부 지국",
+        "FBI 中西部分局",
+        "FBI中西部分局",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مكتب FBI الإقليمي للغرب الأوسط",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelop_c111s000_1_1",
+      "guid": "1889e8e4-96bd-4b12-a11b-d900094a3e4d",
+      "soundId": 1631469188,
+      "hash": 472365973,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "",
+        "",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "GRACE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE"
+      ]
+    },
+    {
+      "name": "CSTelop_c111s000_1_2",
+      "guid": "521981a3-4aa4-4403-a619-a0a4fb946d1e",
+      "soundId": 289718722,
+      "hash": 3109308439,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "",
+        "",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "WRENWOOD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "WRENWOOD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "WRENWOOD"
+      ]
+    },
+    {
+      "name": "CSTelop_c111s000_1_translation",
+      "guid": "fd4290ce-294e-4318-b489-d988062828d9",
+      "soundId": 3963866952,
+      "hash": 3329824335,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"グレース  レンウッド\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ГРЕЙС — РЭНВУД",
+        "",
+        "",
+        "",
+        "",
+        "그레이스 - 렌우드",
+        "連塢市——葛蕾斯",
+        "格蕾丝 - 鹪木市",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس - رينوود",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c111s310_1_2",
+      "guid": "9efde9ad-4344-4af8-9e64-16a0ba05c74c",
+      "soundId": 2444813197,
+      "hash": 2348111858,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "8 years ago",
+        "8 Years Ago",
+        "Il y a huit ans",
+        "Otto anni prima",
+        "8 Jahre zuvor",
+        "8 años antes",
+        "8 Years Ago",
+        "8 Years Ago",
+        "",
+        "",
+        "8 anos atrás",
+        "8 years ago",
+        "8 Years Ago",
+        "8 years ago",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8 Years Ago",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8 años atrás"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c111s310_1_translation",
+      "guid": "554fae46-7c13-49b1-b37c-43f5c9069773",
+      "soundId": 301580500,
+      "hash": 3591032682,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"8年前\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8 лет назад",
+        "8 lat wcześniej",
+        "",
+        "",
+        "",
+        "8년 전",
+        "8 年前",
+        "8年前",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قبل 8 سنوات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelop_c112s000_1_1",
+      "guid": "2c7e159f-726e-446f-bf5f-4547744c6ff9",
+      "soundId": 3279183567,
+      "hash": 3290750652,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "",
+        "",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "ELBRIDGE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ELBRIDGE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ELBRIDGE"
+      ]
+    },
+    {
+      "name": "CSTelop_c112s000_1_2",
+      "guid": "2291740d-6398-446c-a6a8-ff751bbd4a92",
+      "soundId": 1410572546,
+      "hash": 3887103846,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "A FEW MINUTES EARLIER",
+        "A FEW MINUTES EARLIER",
+        "QUELQUES MINUTES PLUS TÔT",
+        "POCHI MINUTI PRIMA",
+        "EIN PAAR MINUTEN ZUVOR",
+        "UNOS MINUTOS ANTES",
+        "A FEW MINUTES EARLIER",
+        "A FEW MINUTES EARLIER",
+        "",
+        "",
+        "ALGUNS MINUTOS ANTES",
+        "A FEW MINUTES EARLIER",
+        "A FEW MINUTES EARLIER",
+        "A FEW MINUTES EARLIER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "A FEW MINUTES EARLIER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "UNOS MINUTOS ANTES"
+      ]
+    },
+    {
+      "name": "CSTelop_c112s000_1_translation",
+      "guid": "a0c5a01c-8e8c-4e88-89a2-544194444277",
+      "soundId": 2461670737,
+      "hash": 4049820687,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"エルブリッジ  数刻前\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЭЛБРИДЖ — НЕСКОЛЬКИМИ МИНУТАМИ РАНЕЕ",
+        "ELBRIDGE – KILKA MINUT WCZEŚNIEJ",
+        "",
+        "",
+        "",
+        "엘브리지 - 몇 분 전",
+        "數分鐘前——埃爾布理奇",
+        "艾尔布里奇 - 数分钟前",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إلبريدج - قبل بضعة دقائق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelop_c312s101_1_1",
+      "guid": "d04a7287-b68a-424c-8fb1-4c0f7658ae94",
+      "soundId": 3576737353,
+      "hash": 3496917827,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "",
+        "",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON"
+      ]
+    },
+    {
+      "name": "CSTelop_c312s101_1_2",
+      "guid": "5b809971-5bdd-46f5-a8ae-0d8330c8b5a5",
+      "soundId": 3335826981,
+      "hash": 908555439,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "",
+        "",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "RHODES HILL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RHODES HILL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RHODES HILL"
+      ]
+    },
+    {
+      "name": "CSTelop_c312s101_1_translation",
+      "guid": "16071c2b-5ee1-4b7e-a65d-4cb1e54ccf47",
+      "soundId": 1776999390,
+      "hash": 1051337345,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"レオン  ローデスヒル\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЛЕОН — РОУДС-ХИЛЛ",
+        "",
+        "",
+        "",
+        "",
+        "레온 - 로즈 힐",
+        "羅斯山丘——里昂",
+        "里昂 - 罗兹山",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون - رُودز هيل",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c322s000_1_1",
+      "guid": "d006d8e6-82f7-407c-935c-9f8494baf97c",
+      "soundId": 243231237,
+      "hash": 3379975523,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c322s000_1_2",
+      "guid": "b3ffe446-5314-4da5-9f42-7c164d161372",
+      "soundId": 1625167085,
+      "hash": 3661069125,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, AM 4:41",
+        "October 9, 4:41 a.m.",
+        "9 octobre, 4 h 41",
+        "9 ottobre, 04:41",
+        "9. Oktober, 04:41 Uhr",
+        "9 de octubre, 4:41 a. m.",
+        "October 9, AM 4:41",
+        "October 9, AM 4:41",
+        "",
+        "",
+        "9 de outubro, 04:41",
+        "October 9, 4:41 a.m.",
+        "October 9, 4:41 a.m.",
+        "October 9, 4:41 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 4:41 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 4:41 a.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c322s000_1_translation",
+      "guid": "360d695c-ba70-4c8e-8529-ae818c42de55",
+      "soundId": 3012016621,
+      "hash": 2408351183,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"レオン・S・ケネディ  10月9日 AM 4:41\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЛЕОН С. КЕННЕДИ — 9 октября, 04:41",
+        "LEON S. KENNEDY – 9 października, 4:41",
+        "",
+        "",
+        "",
+        "레온 S. 케네디 - 10월 9일 오전 4시 41분",
+        "10 月 9 日凌晨 4 點 41 分—— 里昂・S・甘迺迪",
+        "里昂 · S · 肯尼迪 - 10月9日 清晨4:41",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون س. كينيدي - 9 أكتوبر، 4:41 صباحًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c111s510_1_2",
+      "guid": "9c23b7dd-6260-4688-9507-5fb74ec71b03",
+      "soundId": 3970624416,
+      "hash": 3971858557,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Present Day",
+        "Present Day",
+        "Aujourd'hui",
+        "Oggi",
+        "Heute",
+        "Hoy",
+        "Present Day",
+        "Present Day",
+        "",
+        "",
+        "Dias atuais",
+        "Present Day",
+        "Present Day",
+        "Present Day",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Present Day",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presente"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c111s510_1_translation",
+      "guid": "2bebe142-839f-46af-ab87-229422a25e69",
+      "soundId": 1189011717,
+      "hash": 1245365694,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"現在\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Настоящее время",
+        "Obecnie",
+        "",
+        "",
+        "",
+        "현재",
+        "現在",
+        "现在",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الزمن الحاضر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c321s010_1_1",
+      "guid": "88c92b28-b7c7-4e77-a1ef-e0184828bedf",
+      "soundId": 2525015528,
+      "hash": 2617296139,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c321s010_1_2",
+      "guid": "2107e09a-b6af-44b0-936e-89e83edf3429",
+      "soundId": 954564508,
+      "hash": 944128851,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 8, 11:42 p.m.",
+        "October 8, 11:42 p.m.",
+        "8 octobre, 23 h 42",
+        "8 ottobre, 23:42",
+        "8. Oktober, 23:42 Uhr",
+        "8 de octubre, 11:42 p. m.",
+        "October 8, 11:42 p.m.",
+        "October 8, 11:42 p.m.",
+        "",
+        "",
+        "8 de outubro, 23:42",
+        "October 8, 11:42 p.m.",
+        "October 8, 11:42 p.m.",
+        "October 8, 11:42 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 8, 11:42 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8 de octubre, 11:42 p.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c321s010_1_translation",
+      "guid": "a48a11b5-fc77-482e-98c9-b68b2f12ca63",
+      "soundId": 1351366817,
+      "hash": 910834388,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"グレース・アッシュクロフト  10月8日 PM 11:42\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ГРЕЙС ЭШКРОФТ — 8 октября, 23:42",
+        "GRACE ASHCROFT – 8 października, 23:42",
+        "",
+        "",
+        "",
+        "그레이스 애쉬크로프트 - 10월 8일 오후 11시 42분",
+        "10 月 8 日晚上 11 點 42 分——葛蕾斯・艾許考福特",
+        "格蕾丝 · 阿什克罗夫特 - 10月8日 晚上11:42",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس آشكروفت - 8 أكتوبر، 11:42 مساءً",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c331s000_1_1",
+      "guid": "fc907e51-b140-4c11-949e-5f863d152695",
+      "soundId": 2868384742,
+      "hash": 604153482,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c331s000_1_2",
+      "guid": "56a04517-29d1-48c7-8c4d-31faba540533",
+      "soundId": 3028321454,
+      "hash": 3891090785,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 3:32 a.m.",
+        "October 9, 3:32 a.m.",
+        "9 octobre, 3 h 32",
+        "9 ottobre, 03:32",
+        "9. Oktober, 03:32 Uhr",
+        "9 de octubre, 3:32 a. m.",
+        "October 9, 3:32 a.m.",
+        "October 9, 3:32 a.m.",
+        "",
+        "",
+        "9 de outubro, 03:32",
+        "October 9, 3:32 a.m.",
+        "October 9, 3:32 a.m.",
+        "October 9, 3:32 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 3:32 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 3:32 a.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c331s000_1_translation",
+      "guid": "05218521-2bb4-4755-9f61-131000aec4f1",
+      "soundId": 1149166154,
+      "hash": 1245021484,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"グレース・アッシュクロフト  10月9日 AM 3:32\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ГРЕЙС ЭШКРОФТ — 9 октября, 03:32",
+        "GRACE ASHCROFT – 9 października, 3:32",
+        "",
+        "",
+        "",
+        "그레이스 애쉬크로프트 - 10월 9일 오전 3시 32분",
+        "10 月 9 日凌晨 3 點 32 分——葛蕾斯・艾許考福特",
+        "格蕾丝 · 阿什克罗夫特 - 10月9日 凌晨3:32",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس آشكروفت - 9 أكتوبر، 3:32 صباحًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c342s000_1_1",
+      "guid": "44b5b411-3075-44f8-9c7d-8693aad1ac85",
+      "soundId": 1301190147,
+      "hash": 1365777337,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c342s000_1_2",
+      "guid": "868609f3-3dc5-4ec8-9f5e-40b519745108",
+      "soundId": 483992529,
+      "hash": 565586053,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 6:03 a.m.",
+        "October 9, 6:03 a.m.",
+        "9 octobre, 6 h 03",
+        "9 ottobre, 06:03",
+        "9. Oktober, 06:03 Uhr",
+        "9 de octubre, 6:03 a. m.",
+        "October 9, 6:03 a.m.",
+        "October 9, 6:03 a.m.",
+        "",
+        "",
+        "9 de outubro, 06:03",
+        "October 9, 6:03 a.m.",
+        "October 9, 6:03 a.m.",
+        "October 9, 6:03 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 6:03 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 6:03 a.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c342s000_1_translation",
+      "guid": "716b6c83-5f6b-485f-b1ea-1541218164da",
+      "soundId": 3351295506,
+      "hash": 2653501083,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"レオン・S・ケネディ  10月9日 AM 6:03\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЛЕОН С. КЕННЕДИ — 9 октября, 06:03",
+        "LEON S. KENNEDY – 9 października, 6:03",
+        "",
+        "",
+        "",
+        "레온 S. 케네디 - 10월 9일 오전 6시 03분",
+        "10 月 9 日早上 6 點 03 分——里昂・S・甘迺迪",
+        "里昂 · S · 肯尼迪 - 10月9日 早上6:03",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون س. كينيدي - 9 أكتوبر، 6:03 صباحًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c351s000_1_1",
+      "guid": "4592df63-8fd3-43ed-b034-7bfc1849991f",
+      "soundId": 951551548,
+      "hash": 4099035535,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c351s000_1_2",
+      "guid": "85a4e11c-f3ce-4c41-89c5-3d609c40b67d",
+      "soundId": 3330955288,
+      "hash": 300099504,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 6:20 a.m.",
+        "October 9, 6:20 a.m.",
+        "9 octobre, 6 h 20",
+        "9 ottobre, 06:20",
+        "9. Oktober, 06:20 Uhr",
+        "9 de octubre, 6:20 a. m.",
+        "October 9, 6:20 a.m.",
+        "October 9, 6:20 a.m.",
+        "",
+        "",
+        "9 de outubro, 06:20",
+        "October 9, 6:20 a.m.",
+        "October 9, 6:20 a.m.",
+        "October 9, 6:20 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 6:20 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 6:20 a.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c351s000_1_translation",
+      "guid": "061f4325-3f3b-4796-80a7-6ee2383baeb4",
+      "soundId": 3791123579,
+      "hash": 3510719930,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"グレース・アッシュクロフト  10月9日 AM 6:20\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ГРЕЙС ЭШКРОФТ — 9 октября, 06:20",
+        "GRACE ASHCROFT – 9 października, 6:20",
+        "",
+        "",
+        "",
+        "그레이스 애쉬크로프트 - 10월 9일 오전 6시 20분",
+        "10 月 9 日早上 6 點 20 分——葛蕾斯・艾許考福特",
+        "格蕾丝 · 阿什克罗夫特 - 10月9日 早上6:20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس آشكروفت - 9 أكتوبر، 6:20 صباحًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelop_c410s200_1_1",
+      "guid": "5c5ffb55-a599-4251-a0ce-ed35d354e455",
+      "soundId": 3856112314,
+      "hash": 796604704,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "",
+        "",
+        "LEON",
+        "LEON",
+        "LEON",
+        "LEON",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON"
+      ]
+    },
+    {
+      "name": "CSTelop_c410s200_1_2",
+      "guid": "4cd99a6d-0e1a-45ae-90cc-eb6e90dccec0",
+      "soundId": 745651019,
+      "hash": 2986645498,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "",
+        "",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "RACCOON CITY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RACCOON CITY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RACCOON CITY"
+      ]
+    },
+    {
+      "name": "CSTelop_c410s200_1_translation",
+      "guid": "f3b9977a-6276-41a0-b57a-04977072ee49",
+      "soundId": 727831739,
+      "hash": 513712374,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"レオン  ラクーンシティ\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЛЕОН — РАККУН-СИТИ",
+        "",
+        "",
+        "",
+        "",
+        "레온 - 라쿤 시티",
+        "拉昆市——里昂",
+        "里昂 - 浣熊市",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون - مدينة راكون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c410s200_2_1",
+      "guid": "7601a959-4a62-4c14-ac97-2abef8d88aaa",
+      "soundId": 2230489814,
+      "hash": 2502369626,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "RACCOON CITY OUTSKIRTS",
+        "RACCOON CITY OUTSKIRTS",
+        "PÉRIPHÉRIE DE RACCOON CITY",
+        "PERIFERIA DI RACCOON CITY",
+        "AUẞENBEZIRK VON RACCOON CITY",
+        "AFUERAS DE RACCOON CITY",
+        "RACCOON CITY OUTSKIRTS",
+        "RACCOON CITY OUTSKIRTS",
+        "",
+        "",
+        "ARREDORES DE RACCOON CITY",
+        "RACCOON CITY OUTSKIRTS",
+        "RACCOON CITY OUTSKIRTS",
+        "RACCOON CITY OUTSKIRTS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RACCOON CITY OUTSKIRTS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "AFUERAS DE RACCOON CITY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c410s200_2_2",
+      "guid": "9322ed09-834f-4fd5-8924-5e0510826732",
+      "soundId": 980897023,
+      "hash": 859387281,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 10:50 a.m.",
+        "October 9, 10:50 a.m.",
+        "9 octobre, 10 h 50",
+        "9 ottobre, 10:50",
+        "9. Oktober, 10:50 Uhr",
+        "9 de octubre, 10:50 a. m.",
+        "October 9, 10:50 a.m.",
+        "October 9, 10:50 a.m.",
+        "",
+        "",
+        "9 de outubro, 10:50",
+        "October 9, 10:50 a.m.",
+        "October 9, 10:50 a.m.",
+        "October 9, 10:50 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 10:50 a.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 10:50 a.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c410s200_2_translation",
+      "guid": "b56affa1-3352-4513-bddc-9f1c3ff9b474",
+      "soundId": 3966720528,
+      "hash": 669163986,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"ラクーンシティ郊外  10月9日 AM 10:50\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ОКРАИНЫ РАККУН-СИТИ — 9 октября, 10:50",
+        "OBRZEŻA RACCOON CITY – 9 października, 10:50",
+        "",
+        "",
+        "",
+        "라쿤 시티 교외 - 10월 9일 오전 10시 50분",
+        "10 月 9 日上午 10 點 50 分——拉昆市郊",
+        "浣熊市郊区 - 10月9日 上午10:50",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ضواحي مدينة راكون - 9 أكتوبر، 10:50 صباحًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c440s000_1_1",
+      "guid": "bdff52f0-7db2-4517-b33b-3ca3eff0e83f",
+      "soundId": 2746585677,
+      "hash": 610571696,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "RACCOON CITY CENTER",
+        "RACCOON CITY CENTER",
+        "CENTRE DE RACCOON CITY",
+        "CENTRO DI RACCOON CITY",
+        "ZENTRUM VON RACCOON CITY",
+        "CENTRO DE RACCOON CITY",
+        "RACCOON CITY CENTER",
+        "RACCOON CITY CENTER",
+        "",
+        "",
+        "CENTRO DE RACCOON CITY",
+        "RACCOON CITY CENTER",
+        "RACCOON CITY CENTER",
+        "RACCOON CITY CENTER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RACCOON CITY CENTER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CENTRO DE RACCOON CITY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c440s000_1_2",
+      "guid": "cc496ecd-c126-4202-bd89-11538712e5da",
+      "soundId": 2082732064,
+      "hash": 3570380258,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 1:57 p.m.",
+        "October 9, 1:57 p.m.",
+        "9 octobre, 13 h 57",
+        "9 ottobre, 1:57",
+        "9. Oktober, 13:57 Uhr",
+        "9 de octubre, 1:57 p. m.",
+        "October 9, 1:57 p.m.",
+        "October 9, 1:57 p.m.",
+        "",
+        "",
+        "9 de outubro, 13:57",
+        "October 9, 1:57 p.m.",
+        "October 9, 1:57 p.m.",
+        "October 9, 1:57 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 1:57 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 1:57 p.m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c440s000_1_translation",
+      "guid": "f0c43edf-79dc-4871-b06b-c69a08720270",
+      "soundId": 2351852470,
+      "hash": 2818360093,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"ラクーンシティ中心部  10月9日 PM 1:57\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЦЕНТР РАККУН-СИТИ — 9 октября, 13:57",
+        "CENTRUM RACCOON CITY – 9 października, 13:57",
+        "",
+        "",
+        "",
+        "라쿤 시티 중심부 - 10월 9일 오후 1시 57분",
+        "10 月 9 日下午 1 點 57 分——拉昆市中心",
+        "浣熊市中心 - 10月9日 下午1:57",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وسط مدينة راكون - 9 أكتوبر، 1:57 مساءً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c441s000_1_1",
+      "guid": "a3437c8d-c0d8-45dc-a8ab-a733281e1db1",
+      "soundId": 3926365410,
+      "hash": 584884590,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "RACCOON CITY ORPHANAGE",
+        "RACCOON CITY ORPHANAGE",
+        "ORPHELINAT DE RACCOON CITY",
+        "ORFANOTROFIO DI RACCOON CITY",
+        "WAISENHAUS VON RACCOON CITY",
+        "ORFANATO DE RACCOON CITY",
+        "RACCOON CITY ORPHANAGE",
+        "RACCOON CITY ORPHANAGE",
+        "",
+        "",
+        "ORFANATO DE RACCOON CITY",
+        "RACCOON CITY ORPHANAGE",
+        "RACCOON CITY ORPHANAGE",
+        "RACCOON CITY ORPHANAGE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "RACCOON CITY ORPHANAGE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ORFANATO DE RACCOON CITY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c441s000_1_2",
+      "guid": "6ef6d3a2-c9d2-4973-b38a-a1423d04080b",
+      "soundId": 2577342266,
+      "hash": 2785207178,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "February, 1990",
+        "February 1990",
+        "Février 1990",
+        "Febbraio 1990",
+        "Februar 1990",
+        "Febrero de 1990",
+        "February 1990",
+        "February, 1990",
+        "",
+        "",
+        "Fevereiro de 1990",
+        "February, 1990",
+        "February 1990",
+        "February, 1990",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "February, 1990",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Febrero de 1990"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c441s000_1_translation",
+      "guid": "93d5bf90-8781-4db5-add3-50f617e66e55",
+      "soundId": 4271951048,
+      "hash": 2803149967,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"ラクーンシティ孤児院  1990年2月\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ПРИЮТ РАККУН-СИТИ — февраль 1990 г.",
+        "SIEROCINIEC W RACCOON CITY – Luty 1990",
+        "",
+        "",
+        "",
+        "라쿤 시티 고아원 - 1990년 2월",
+        "1990 年 2 月——拉昆市孤兒院",
+        "浣熊市孤儿院 - 1990年2月",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ميتم مدينة راكون - فبراير 1990",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c442s100_1_2",
+      "guid": "4d38388a-057d-4fca-a911-125fc0ffb295",
+      "soundId": 4116561630,
+      "hash": 351970144,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Present Day",
+        "Present Day",
+        "Aujourd'hui",
+        "Oggi",
+        "Heute",
+        "Hoy",
+        "Present Day",
+        "Present Day",
+        "",
+        "",
+        "Dias atuais",
+        "Present Day",
+        "Present Day",
+        "Present Day",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Present Day",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presente"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c442s100_1_translation",
+      "guid": "73bc9841-7837-4ddd-b926-bf7fe7da1e13",
+      "soundId": 2879808417,
+      "hash": 1398420745,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"現在\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Настоящее время",
+        "Obecnie",
+        "",
+        "",
+        "",
+        "현재",
+        "現在",
+        "现在",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الزمن الحاضر",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s100_1_2",
+      "guid": "932e0b9d-401c-476e-8694-ff9a79703696",
+      "soundId": 4056782854,
+      "hash": 3615907856,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "October 9, 4:53 p.m.",
+        "October 9, 4:53 p.m.",
+        "9 octobre, 16 h 53",
+        "9 ottobre, 04:53",
+        "9. Oktober, 16:53 Uhr",
+        "9 de octubre, 4:53 p. m.",
+        "October 9, 4:53 p.m.",
+        "October 9, 4:53 p.m.",
+        "",
+        "",
+        "9 de outubro, 16:53",
+        "October 9, 4:53 p.m.",
+        "October 9, 4:53 p.m.",
+        "October 9, 4:53 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "October 9, 4:53 p.m.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 de octubre, 4:53 p. m."
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s100_1_translation",
+      "guid": "b07284b5-3830-4c08-900d-90a9ce0a6675",
+      "soundId": 1920274977,
+      "hash": 638075442,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"10月9日 PM 4:53\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 октября, 16:53",
+        "9 października, 16:53",
+        "",
+        "",
+        "",
+        "10월 9일 오후 4시 53분",
+        "10 月 9 日下午 4 點 53 分",
+        "10月9日 下午4:53",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9 أكتوبر، 4:53 مساءً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s400_1_1",
+      "guid": "dd5f7101-787e-40bd-bff7-74af7a6efcd5",
+      "soundId": 266626463,
+      "hash": 404730264,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LEON S. KENNEDY"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s400_1_2",
+      "guid": "db1a06dd-2c3c-4642-8981-67e5a2c2455c",
+      "soundId": 1855545726,
+      "hash": 3584863531,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "A Few Minutes Earlier",
+        "A Few Minutes Earlier",
+        "Quelques minutes plus tôt",
+        "Pochi minuti prima",
+        "Ein paar Minuten zuvor",
+        "Unos minutos antes",
+        "A Few Minutes Earlier",
+        "A Few Minutes Earlier",
+        "",
+        "",
+        "Alguns minutos antes",
+        "A FEW MINUTES EARLIER",
+        "A Few Minutes Earlier",
+        "A Few Minutes Earlier",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "A Few Minutes Earlier",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unos minutos antes"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s400_1_translation",
+      "guid": "755db1d7-fc75-4f52-8e39-b7ea47fa54ae",
+      "soundId": 2368552045,
+      "hash": 1514326877,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"レオン・S・ケネディ  数刻前\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ЛЕОН С. КЕННЕДИ — несколькими минутами ранее",
+        "LEON S. KENNEDY – Kilka minut wcześniej",
+        "",
+        "",
+        "",
+        "레온 S. 케네디 - 몇 분 전",
+        "數分鐘前——里昂・S・甘迺迪",
+        "里昂 · S · 肯尼迪 - 数分钟前",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون س. كينيدي - قبل بضعة دقائق",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s700_1_1",
+      "guid": "30d48a05-356f-41a7-9ffc-08fe6a981fc0",
+      "soundId": 3423046832,
+      "hash": 3568190248,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "GRACE ASHCROFT"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s700_1_2",
+      "guid": "022202c0-9ad7-410a-9920-1772f284e4ea",
+      "soundId": 3466759761,
+      "hash": 2777793333,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Same Time",
+        "Meanwhile",
+        "Au même moment",
+        "Nel frattempo",
+        "Zur selben Zeit",
+        "Mientras tanto",
+        "Meanwhile",
+        "Meanwhile",
+        "",
+        "",
+        "Enquanto isso",
+        "Meanwhile",
+        "Meanwhile",
+        "Meanwhile",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Meanwhile",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mientras tanto"
+      ]
+    },
+    {
+      "name": "CSTelopMini_c520s700_1_translation",
+      "guid": "27529b4c-d488-4023-aa12-fb1c67b76d0d",
+      "soundId": 2288914858,
+      "hash": 1390946539,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "\"グレース・アッシュクロフト  同時刻\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ГРЕЙС ЭШКРОФТ — в то же время",
+        "GRACE ASHCROFT – W tym samym czasie",
+        "",
+        "",
+        "",
+        "그레이스 애쉬크로프트 - 같은 시각",
+        "同一時間——葛蕾斯・艾許考福特",
+        "格蕾丝 · 阿什克罗夫特 - 同一时刻",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غريس آشكروفت - في نفس الوقت",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

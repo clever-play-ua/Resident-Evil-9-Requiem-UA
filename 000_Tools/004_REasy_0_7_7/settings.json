@@ -19,7 +19,9 @@
     "translation_target_language": "en",
     "tree_highlight_color": "#00aaff",
     "vgmstream_cli_path": "C:\\Users\\UserM\\Desktop\\REasy-v0.7.7\\downloads\\vgmstream_cli\\vgmstream-cli.exe",
-    "wwise_install_paths": {},
+    "wwise_install_paths": {
+        "RE9": "C:\\Audiokinetic\\Wwise_2022.1.19.8584"
+    },
     "keyboard_shortcuts": {
         "file_open": "Ctrl+O",
         "file_save": "Ctrl+S",
@@ -46,47 +48,91 @@
         "restore_session": true,
         "state_version": 1,
         "window_geometry": "AdnQywADAAAAAAAA////+QAABqoAAAOPAAAABwAAABkAAASOAAADjgAAAAACAAAABqsAAAAAAAAAFwAABqoAAAOP",
-        "window_state": "AAAA/wAAAAH9AAAAAwAAAAAAAAJaAAACyPwCAAAAAfsAAAAkAHAAcgBvAGoAZQBjAHQAQgByAG8AdwBzAGUAcgBEAG8AYwBrAAAAAD0AAALIAAAAowD///8AAAABAAAB3QAAAsj8AgAAAAL7AAAAIABtAGQAZgBBAHMAcwBpAHMAdABhAG4AdABEAG8AYwBrAgAABUIAAAAsAAABaQAAAub7AAAAJABiAGUAdAB0AGUAcgBfAGYAaQBuAGQAXwBkAGkAYQBsAG8AZwIAAATOAAAAVAAAAd0AAALIAAAAAwAABqsAAABa/AEAAAAB+wAAABQAbwB1AHQAcAB1AHQARABvAGMAawEAAAAAAAAGqwAAAEcA////AAAGqwAAAvAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAACYAcAByAG8AagBlAGMAdABXAG8AcgBrAHMAcABhAGMAZQBCAGEAcgAAAAAA/////wAAAAAAAAAA",
+        "window_state": "AAAA/wAAAAH9AAAAAwAAAAAAAAFoAAACyPwCAAAAAfsAAAAkAHAAcgBvAGoAZQBjAHQAQgByAG8AdwBzAGUAcgBEAG8AYwBrAQAAAD0AAALIAAABFwD///8AAAABAAAB3QAAAsj8AgAAAAL7AAAAIABtAGQAZgBBAHMAcwBpAHMAdABhAG4AdABEAG8AYwBrAgAABUIAAAAsAAABaQAAAub7AAAAJABiAGUAdAB0AGUAcgBfAGYAaQBuAGQAXwBkAGkAYQBsAG8AZwIAAATOAAAAVAAAAd0AAALIAAAAAwAABqsAAABa/AEAAAAB+wAAABQAbwB1AHQAcAB1AHQARABvAGMAawEAAAAAAAAGqwAAAEcA////AAAFPQAAAsgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAACYAcAByAG8AagBlAGMAdABXAG8AcgBrAHMAcABhAGMAZQBCAGEAcgEAAAAA/////wAAAAAAAAAA",
         "project_browser": {
-            "active_view": "sys",
+            "active_view": "pak",
             "minimized": false,
             "docked_size": [
-                602,
+                360,
                 712
             ],
             "pak_filter": "",
             "project_filter": "",
             "column_widths": {
-                "unpacked": 538,
-                "project": 538,
-                "pak": 0
+                "unpacked": 240,
+                "project": 381,
+                "pak": 340
             },
             "expanded": {
-                "unpacked": [],
-                "project": [],
-                "pak": []
+                "unpacked": [
+                    "F:/Games/RE_REQ/Requiem_Deluxe/pak_mods"
+                ],
+                "project": [
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives",
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm",
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm/gui"
+                ],
+                "pak": [
+                    "natives/",
+                    "natives/stm/",
+                    "natives/stm/message/",
+                    "natives/stm/message/gui/"
+                ]
             },
             "scroll": {
                 "unpacked": 0,
                 "project": 0,
-                "pak": 0
+                "pak": 19
             }
         },
         "session": {
-            "projects": [],
-            "active_project": null,
-            "tabs": [],
+            "projects": [
+                {
+                    "path": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "game": "RE9"
+                }
+            ],
+            "active_project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+            "tabs": [
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_common.msg.23",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 0,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_inventory.msg.23",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 1,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_option.msg.23",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 2,
+                    "active": true,
+                    "detached": false,
+                    "window_geometry": ""
+                }
+            ],
             "editor_groups": {
                 "version": 2,
                 "orientation": "horizontal",
                 "sizes": [
-                    100
+                    1341
                 ],
                 "tree": {
                     "type": "split",
                     "orientation": "horizontal",
                     "sizes": [
-                        100
+                        1341
                     ],
                     "children": [
                         {
@@ -102,21 +148,26 @@
     "confirmation_prompt": true,
     "verify_rsz_crc_on_open": true,
     "recently_closed_files": [
-        "F:/Games/REQ_UA/002_GAME_Unpacker/natives/stm/streaming/sound/wwise/ch0200_dialogue.spck.1.x64.de",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_battlepl.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fsoundsupport%2Fsoundsupport_dialog_centba.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fsoundsupport%2Fsoundsupport_dialog_centhw.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fgui%2Fgui_common.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fdialogue%2Fch0100_dialogue.spck.1.x64.en",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centba.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centce.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centhw.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centrb.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_centuc.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ending.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDesktop%5CREasy-v0.7.7%5Cprojects%5CRE9%5Cre1|0|F%3A%2FGames%2FREQ_UA%2F002_GAME_Unpacker%2Fnatives%2Fstm%2Fmessage%2Fdialog%2Fdialog_ff2nd.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Ctest_ua|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_common.msg.23",
-        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Ctest_ua|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_menu.msg.23"
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_savearea.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgui%2Fgui_saveload.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Fobjective.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Ftutorial.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Ftutoriallist.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Fitem.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Ffile.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fmessage%2Fgamesystem%2Fextra.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|0|C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa%5Cnatives%5Cstm%5Cmessage%5Cgamesystem%5Ccstelop.msg.23",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Famericantypeitcpro-med.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Fbadrltlight.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Fcap-rodinlatin-m.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Ffot-newcinemaastd-d.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Ffot-rodinpro-m.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Ffot-udkakugo_smallpr6-m.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Ffot-udkakugoc70pro-m.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fgui%2Fui0000%2Ffont%2Famariya-regular.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|0|C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa%5Cnatives%5Cstm%5Cgui%5Cui0000%5Cfont%5Camariya-regular.oft.1",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fbgm_maingame_gameflow_bgm_chap1_01.spck.1.x64",
+        "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fbgm_maingame_gameflow_bgm_chap1_10.spck.1.x64"
     ],
     "last_seen_version": "0.7.7",
     "enum_prompt_checked_json_path": "",

@@ -1,0 +1,1814 @@
+{
+  "version": 23,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    -1,
+    -1,
+    10,
+    11,
+    12,
+    13,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    21,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "LocalizationStatus"
+    }
+  ],
+  "entries": [
+    {
+      "name": "Pause_TItle",
+      "guid": "5912e409-76ae-470a-8ec4-b399cf66bebc",
+      "soundId": 1264285738,
+      "hash": 1217250980,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "PAUSE",
+        "PAUSED",
+        "PAUSE",
+        "IN PAUSA",
+        "PAUSE",
+        "EN PAUSA",
+        "ПАУЗА",
+        "PAUZA",
+        "",
+        "",
+        "PAUSADO",
+        "일시 정지",
+        "暫停",
+        "暂停",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وقوف مؤقت",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "PAUSA"
+      ]
+    },
+    {
+      "name": "Pause_Menu",
+      "guid": "c3ac0bc7-578e-420a-91d7-5218eec811e9",
+      "soundId": 1670661295,
+      "hash": 337396060,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "PAUSE MENU",
+        "PAUSE MENU",
+        "MENU PAUSE",
+        "MENU DI PAUSA",
+        "PAUSE",
+        "MENÚ DE PAUSA",
+        "МЕНЮ ПАУЗЫ",
+        "MENU PAUZY",
+        "",
+        "",
+        "MENU DE PAUSA",
+        "일시 정지 메뉴",
+        "暫停選單",
+        "暂停菜单",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قائمة التوقّف",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MENÚ DE PAUSA"
+      ]
+    },
+    {
+      "name": "Pause_Restart",
+      "guid": "479e8cc3-ae2d-400a-8ae9-b3ca49631837",
+      "soundId": 3749537465,
+      "hash": 3931789787,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Restart",
+        "Restart",
+        "Recommencer",
+        "Ricomincia",
+        "Neu starten",
+        "Reiniciar",
+        "Перезапустить",
+        "Zrestartuj",
+        "",
+        "",
+        "Reiniciar",
+        "다시 시작",
+        "重新開始",
+        "重新开始",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابدأ مجددًا",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reiniciar"
+      ]
+    },
+    {
+      "name": "Pause_Quit_Game",
+      "guid": "14bf53c6-9562-4c67-affd-c47feec4a611",
+      "soundId": 1049328761,
+      "hash": 2999288342,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Quit",
+        "Quit",
+        "Quitter",
+        "Esci",
+        "Beenden",
+        "Salir",
+        "Выход",
+        "Wyjdź",
+        "",
+        "",
+        "Sair",
+        "나가기",
+        "退出遊戲",
+        "退出游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مغادرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Salir"
+      ]
+    },
+    {
+      "name": "Pause_Return_Game",
+      "guid": "f4cbac66-10d1-4a4a-947c-634e467f1902",
+      "soundId": 369487779,
+      "hash": 3830169528,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Return to Game",
+        "Return to Game",
+        "Retour au jeu",
+        "Torna al gioco",
+        "Zurück zum Spiel",
+        "Volver al juego",
+        "Вернуться в игру",
+        "Wróć do gry",
+        "",
+        "",
+        "Voltar ao Jogo",
+        "게임으로 돌아가기",
+        "返回遊戲",
+        "返回游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عد إلى اللعبة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Volver al juego"
+      ]
+    },
+    {
+      "name": "Pause_Skip",
+      "guid": "4252edf9-d9d8-4f32-ab22-6ebd108c0c6c",
+      "soundId": 401877418,
+      "hash": 3708250002,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "スキップ",
+        "Skip",
+        "Passer",
+        "Salta",
+        "Überspringen",
+        "Saltar",
+        "Пропустить",
+        "Pomiń",
+        "",
+        "",
+        "Pular",
+        "건너뛰기",
+        "略過",
+        "跳过",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تجاوز",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omitir"
+      ]
+    },
+    {
+      "name": "Pause_Retry",
+      "guid": "a266d632-9825-4e9b-b974-176261929b8b",
+      "soundId": 1709113286,
+      "hash": 483136495,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Retry",
+        "Retry",
+        "Réessayer",
+        "Riprova",
+        "Erneut versuchen",
+        "Reintentar",
+        "Повторить",
+        "Spróbuj ponownie",
+        "",
+        "",
+        "Tentar de Novo",
+        "재시도",
+        "重試",
+        "重新挑战",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أعد المحاولة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reintentar"
+      ]
+    },
+    {
+      "name": "Pause_Restart_Guide",
+      "guid": "4a2b234d-b1e0-48dd-b1ee-3cdd728bb948",
+      "soundId": 2172042904,
+      "hash": 2511821624,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "直前のセーブデータからやり直します",
+        "Start the game from your most recent saved data.",
+        "Reprendre la partie depuis les dernières données sauvegardées.",
+        "Ricomincia dal salvataggio più recente.",
+        "Starten Sie mit den letzten Speicherdaten neu.",
+        "Empieza la partida desde los datos guardados más recientes.",
+        "Начать игру с последними сохранёнными данными.",
+        "Rozpocznij grę od ostatniego zapisu.",
+        "",
+        "",
+        "Inicia o jogo a partir dos dados salvos mais recentes.",
+        "가장 최근에 저장한 데이터부터 다시 시작합니다.",
+        "從最近的保存資料開始遊戲。",
+        "从最近一次存档重新开始游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابدأ اللعبة من عند أحدث بياناتك المحفوظة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Inicia la partida desde los datos guardados más recientes."
+      ]
+    },
+    {
+      "name": "Pause_Return_Quit_Guide",
+      "guid": "6a5e7ae0-95f6-455e-a7d1-e59582e0787f",
+      "soundId": 1553526171,
+      "hash": 2102349110,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "メインメニューに戻ります",
+        "Return to the main menu.",
+        "Revenir au menu principal.",
+        "Torna al menu principale.",
+        "Kehren Sie zum Hauptmenü zurück.",
+        "Vuelve al menú principal.",
+        "Вернуться в главное меню.",
+        "Wróć do menu głównego.",
+        "",
+        "",
+        "Volta para o menu principal.",
+        "메인 메뉴로 돌아갑니다.",
+        "返回主選單。",
+        "返回主菜单",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عد إلى القائمة الرئيسية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vuelve al menú principal."
+      ]
+    },
+    {
+      "name": "Pause_Return_Game_Guide",
+      "guid": "311152bb-377e-4818-a004-702e30f3915e",
+      "soundId": 2869057400,
+      "hash": 4018237743,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ゲームに戻ります",
+        "Return to the game.",
+        "Revenir au jeu.",
+        "Torna al gioco.",
+        "Kehren Sie zum Spiel zurück.",
+        "Vuelve a la partida.",
+        "Вернуться в игру.",
+        "Wróć do gry.",
+        "",
+        "",
+        "Volta ao jogo.",
+        "게임으로 돌아갑니다.",
+        "返回遊戲。",
+        "返回游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اِرجع إلى اللعبة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vuelve a la partida."
+      ]
+    },
+    {
+      "name": "Pause_Skip_Guide0",
+      "guid": "104239bb-fadf-454b-972b-0032ab46207a",
+      "soundId": 1829040486,
+      "hash": 1459863331,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イベントをスキップします",
+        "Skip cutscene.",
+        "Passer la scène.",
+        "Salta il filmato.",
+        "Überspringen Sie die Zwischensequenz.",
+        "Saltar cinemática.",
+        "Пропустить сцену.",
+        "Pomiń przerywnik filmowy.",
+        "",
+        "",
+        "Pula a cinemática.",
+        "컷신을 건너뜁니다.",
+        "略過過場動畫。",
+        "跳过剧情动画",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تجاوز المقطع.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omite la cinemática."
+      ]
+    },
+    {
+      "name": "Pause_Skip_Guide1",
+      "guid": "dd992044-d5a2-4aa1-bc70-2a2b43231cec",
+      "soundId": 2044497329,
+      "hash": 451879023,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ムービーをスキップします",
+        "Skip movie.",
+        "Passer la vidéo.",
+        "Salta il filmato.",
+        "Überspringen Sie die Filmsequenz.",
+        "Saltar vídeo.",
+        "Пропустить ролик.",
+        "Pomiń film.",
+        "",
+        "",
+        "Pula o filme.",
+        "영상을 건너뜁니다.",
+        "略過動畫。",
+        "跳过动画",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تجاوز المشهد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Omite la escena."
+      ]
+    },
+    {
+      "name": "Pause_Tutorial",
+      "guid": "af4e3953-aabd-4142-8d31-ff9cad9be864",
+      "soundId": 1872793081,
+      "hash": 3861652284,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "Tutorial",
+        "Tutorials",
+        "Tutoriels",
+        "Tutorial",
+        "Tutorial",
+        "Tutoriales",
+        "Обучение",
+        "Samouczki",
+        "",
+        "",
+        "Tutoriais",
+        "튜토리얼",
+        "教學",
+        "游戏教程",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجيهات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tutoriales"
+      ]
+    },
+    {
+      "name": "Pause_Tutorial_Guide",
+      "guid": "db631a6e-2d9f-4894-814c-92c734ff3ba0",
+      "soundId": 318085391,
+      "hash": 1059243203,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "チュートリアルを確認します",
+        "Check tutorials.",
+        "Voir les tutoriels.",
+        "Visualizza i tutorial.",
+        "Rufen Sie das Tutorial auf.",
+        "Comprueba los tutoriales.",
+        "Посмотреть обучение.",
+        "Zobacz samouczki.",
+        "",
+        "",
+        "Confira os tutoriais.",
+        "튜토리얼을 확인합니다.",
+        "確認遊戲教學。",
+        "查看游戏教程",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تفقد التوجيهات.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Revisa los tutoriales."
+      ]
+    },
+    {
+      "name": "Pause_Retry_Guide",
+      "guid": "13e7157b-12d8-49ea-9861-0d858ac46a44",
+      "soundId": 3740243824,
+      "hash": 1394140533,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "初めからゲームをやり直します",
+        "Restart from the beginning.",
+        "Recommencer depuis le début.",
+        "Ricomincia dall'inizio.",
+        "Starten Sie vom Anfang neu.",
+        "Reinicia desde el principio.",
+        "Перезапустить сначала.",
+        "Wznów od początku.",
+        "",
+        "",
+        "Recomeça do início.",
+        "처음부터 다시 시작합니다.",
+        "從頭開始遊戲。",
+        "从头开始游戏",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أعد البدء من البداية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vuelve a comenzar desde el principio."
+      ]
+    }
+  ]
+}
