@@ -1,5 +1,17 @@
 # Resident-Evil-9-Requiem-UA
 
+## .msg файли в хронологічній послідовності
+
+|  №  | NUM |          Файл          |
+|:---:|:---:|:------------------------|
+|  1  | 009 | `dialog_hotel3.msg.23`  |
+|  2  | 023 | `dialog_streetms.msg.23`|
+|  3  | 010 | `dialog_mange.msg.23`   |
+|  4  | 013 | `dialog_mangm3.msg.23`  |
+|  5  | 018 | `dialog_manlh.msg.23`   |
+
+---
+
 ## Resident Evil 9 Audio — діалоги (кількість реплік)
 
 Розібрані `.wav` файли діалогів знаходяться тут:
@@ -142,15 +154,4 @@ flowchart LR
 ```
 
 Загалом: **1591** репліка.
-
----
-
-## .msg файли в хронологічній послідовності
-
-| № | Файл |
-|---|------|
-| 1 | `dialog_hotel3.msg.23` |
-| 2 | `dialog_streetms.msg.23` |
-| 3 | `dialog_mange.msg.23` |
-| 4 | `dialog_manlh.msg.23` |
 
