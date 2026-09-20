@@ -1,6 +1,14 @@
 # RE9 REQUIEM
 ## # VO + SUBTITLES LOGIC
 
+**VO PATH**
+> \natives\stm\streaming\sound\wwise\dialogue
+
+**SUBTITLES PATH**
+> \natives\stm\message\dialog
+
+------------
+
 **001 &rarr; INTRO + STREETS + HOTEL WRENWOOD**
 
 **VO**
@@ -8,13 +16,3 @@
 
 **SUBTITLES**
 > dialog_hotel3.msg.23.json
-
----
-**VO PATH**
->\natives\stm\streaming\sound\wwise\dialogue
-
-**SUBTITLES PATH **
-> \natives\stm\message\dialog
-
-------------
-
