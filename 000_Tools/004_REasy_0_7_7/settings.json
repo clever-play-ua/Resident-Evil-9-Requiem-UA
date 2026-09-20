@@ -48,20 +48,20 @@
         "restore_session": true,
         "state_version": 1,
         "window_geometry": "AdnQywADAAAAAAAA////+QAABqoAAAOPAAAABwAAABkAAASOAAADjgAAAAACAAAABqsAAAAAAAAAFwAABqoAAAOP",
-        "window_state": "AAAA/wAAAAH9AAAAAwAAAAAAAAFoAAACyPwCAAAAAfsAAAAkAHAAcgBvAGoAZQBjAHQAQgByAG8AdwBzAGUAcgBEAG8AYwBrAQAAAD0AAALIAAABFwD///8AAAABAAAB3QAAAsj8AgAAAAL7AAAAIABtAGQAZgBBAHMAcwBpAHMAdABhAG4AdABEAG8AYwBrAgAABUIAAAAsAAABaQAAAub7AAAAJABiAGUAdAB0AGUAcgBfAGYAaQBuAGQAXwBkAGkAYQBsAG8AZwIAAATOAAAAVAAAAd0AAALIAAAAAwAABqsAAABa/AEAAAAB+wAAABQAbwB1AHQAcAB1AHQARABvAGMAawEAAAAAAAAGqwAAAEcA////AAAFPQAAAsgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAACYAcAByAG8AagBlAGMAdABXAG8AcgBrAHMAcABhAGMAZQBCAGEAcgEAAAAA/////wAAAAAAAAAA",
+        "window_state": "AAAA/wAAAAH9AAAAAwAAAAAAAAIxAAACyPwCAAAAAfsAAAAkAHAAcgBvAGoAZQBjAHQAQgByAG8AdwBzAGUAcgBEAG8AYwBrAQAAAD0AAALIAAABFwD///8AAAABAAAB3QAAAsj8AgAAAAL7AAAAIABtAGQAZgBBAHMAcwBpAHMAdABhAG4AdABEAG8AYwBrAgAABUIAAAAsAAABaQAAAub7AAAAJABiAGUAdAB0AGUAcgBfAGYAaQBuAGQAXwBkAGkAYQBsAG8AZwIAAATOAAAAVAAAAd0AAALIAAAAAwAABqsAAABa/AEAAAAB+wAAABQAbwB1AHQAcAB1AHQARABvAGMAawEAAAAAAAAGqwAAAEcA////AAAEdAAAAsgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAACYAcAByAG8AagBlAGMAdABXAG8AcgBrAHMAcABhAGMAZQBCAGEAcgEAAAAA/////wAAAAAAAAAA",
         "project_browser": {
             "active_view": "pak",
             "minimized": false,
             "docked_size": [
-                360,
+                561,
                 712
             ],
             "pak_filter": "",
             "project_filter": "",
             "column_widths": {
-                "unpacked": 240,
-                "project": 381,
-                "pak": 340
+                "unpacked": 524,
+                "project": 455,
+                "pak": 541
             },
             "expanded": {
                 "unpacked": [
@@ -70,19 +70,22 @@
                 "project": [
                     "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives",
                     "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm",
-                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm/gui"
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm/streaming",
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm/streaming/sound",
+                    "C:/Users/UserM/Documents/GitHub/Resident-Evil-9-Requiem-UA/000_Tools/004_REasy_0_7_7/projects/RE9/uaaa/natives/stm/streaming/sound/wwise"
                 ],
                 "pak": [
                     "natives/",
                     "natives/stm/",
-                    "natives/stm/message/",
-                    "natives/stm/message/gui/"
+                    "natives/stm/streaming/",
+                    "natives/stm/streaming/sound/",
+                    "natives/stm/streaming/sound/wwise/"
                 ]
             },
             "scroll": {
                 "unpacked": 0,
                 "project": 0,
-                "pak": 19
+                "pak": 306
             }
         },
         "session": {
@@ -117,6 +120,87 @@
                     "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
                     "group": 0,
                     "order": 2,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch0100_dialogue.spck.1.x64.ru",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 3,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch0200_dialogue_chp1.spck.1.x64.zhcn",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 4,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch0200_dialogue_chp1.spck.1.x64.ru",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 5,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|0|C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa%5Cnatives%5Cstm%5Cstreaming%5Csound%5Cwwise%5Cch0200_dialogue_chp1.spck.1.x64.en",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 6,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|0|C%3A%2FUsers%2FUserM%2FDocuments%2FGitHub%2FResident-Evil-9-Requiem-UA%2F000_Tools%2F004_REasy_0_7_7%2Fprojects%2FRE9%2Fuaaa%2Fnatives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch0200_dialogue_chp1.spck.1.x64.en",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 7,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch2100_dialogue.spck.1.x64.en",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 8,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch2100_dialogue.spck.1.x64.ru",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 9,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch2000_dialogue.spck.1.x64.ru",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 10,
+                    "active": false,
+                    "detached": false,
+                    "window_geometry": ""
+                },
+                {
+                    "target": "project://C%3A%5CUsers%5CUserM%5CDocuments%5CGitHub%5CResident-Evil-9-Requiem-UA%5C000_Tools%5C004_REasy_0_7_7%5Cprojects%5CRE9%5Cuaaa|1|natives%2Fstm%2Fstreaming%2Fsound%2Fwwise%2Fch2000_dialogue.spck.1.x64.en",
+                    "project": "C:\\Users\\UserM\\Documents\\GitHub\\Resident-Evil-9-Requiem-UA\\000_Tools\\004_REasy_0_7_7\\projects\\RE9\\uaaa",
+                    "group": 0,
+                    "order": 11,
                     "active": true,
                     "detached": false,
                     "window_geometry": ""
@@ -126,13 +210,13 @@
                 "version": 2,
                 "orientation": "horizontal",
                 "sizes": [
-                    1341
+                    1140
                 ],
                 "tree": {
                     "type": "split",
                     "orientation": "horizontal",
                     "sizes": [
-                        1341
+                        1140
                     ],
                     "children": [
                         {

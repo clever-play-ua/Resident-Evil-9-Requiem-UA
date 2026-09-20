@@ -1,0 +1,54 @@
+===== 01_48285809.wav =====
+Threat level, rat in storage sector.
+
+===== 02_86270593.wav =====
+Aircel Monitor, warning, pod lockdown unavailable.
+
+===== 03_87416641.wav =====
+The elevator will arrive shortly.
+
+===== 04_97533884.wav =====
+Critical error, containment lockdown failure.
+
+===== 05_274178776.wav =====
+AI Control Center. NOAA. Reboot failure. No response.
+
+===== 06_305681208.wav =====
+Memory corrupt. Self-repair functionality offline.
+
+===== 07_356134358.wav =====
+The elevator has arrived.
+
+===== 08_370761867.wav =====
+Security threat detected. Elevator shut down in effect. Override key authorization required.
+
+===== 09_418051917.wav =====
+Warning! Threat level orange confirmed in storage sector.
+
+===== 10_466419859.wav =====
+Do not leave the designated areas without authorization.
+
+===== 11_499636288.wav =====
+System locked override key required for reactivation
+
+===== 12_602418720.wav =====
+Rebooting AI Control Center, NOAA.
+
+===== 13_693278746.wav =====
+Warning, autoclave compromised, pod lockdown unavailable.
+
+===== 14_698397827.wav =====
+Containment Protocol inactive.
+
+===== 15_737205904.wav =====
+[no speech detected]
+
+===== 16_857520790.wav =====
+The recording and transmitting of information is strictly prohibited.
+
+===== 17_917014383.wav =====
+Containment breach. System-wide surveillance failure detected.
+
+===== 18_986880267.wav =====
+Here at ARC, your movements will be constantly monitored.
+
