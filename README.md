@@ -1,5 +1,25 @@
 # Resident-Evil-9-Requiem-UA
-
+* ✅ 1	Intro Cutscene
+* ✅ 2	Wrenwood Hotel [Ґрейс]
+* [ ] 3	Wrenwood Streets [Леон]	
+* [ ] 4	Care Center — Arrival	
+* [ ] 5	Care Center — Arrival	
+* [ ] 6	West Wing	Грейс	
+* [ ] 7	East Wing	Грейс	
+* [ ] 8	Isolation Ward	
+* [ ] 9	Attic
+* [ ] 10	Basement	
+* [ ] 11	Courtyard	
+* [ ] 12	Chapel	
+* [ ] 13	Water Treatment Plant
+* [ ] 14	East Raccoon City	
+* [ ] 15	R.P.D.	
+* [ ] 16	Orphanage	
+* [ ] 17	Raccoon City Underground	
+* [ ] 18	ARK — Upper Levels	
+* [ ] 19	ARK — Lower Levels	
+* [ ] 20	ARK — Lower Levels	
+* [ ] 21	The Final Choice	
 ## .msg файли в хронологічній послідовності
 
 |  №  | NUM |          Файл          |
